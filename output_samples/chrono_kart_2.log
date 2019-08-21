@@ -1,0 +1,40 @@
+2017-03-21 08:46:23,187 INFO <module>(204) Polygon PM RACING set
+2017-03-21 08:46:38,179 INFO <module>(227) Starting 1...
+2017-03-21 08:46:38,202 INFO <module>(233) File age in hours: 0.407556090024
+2017-03-21 08:46:38,205 INFO <module>(239) SESSION (21/03/17 08:46)
+2017-03-21 08:46:38,208 INFO <module>(247) Call upload_kart
+2017-03-21 08:46:38,230 INFO <module>(249) Sent Kart File
+2017-03-21 08:46:38,233 INFO <module>(254) Starting threads
+2017-03-21 08:46:38,241 INFO <module>(261) Threads are running
+2017-03-21 08:50:06,387 INFO <module>(204) Polygon PM RACING set
+2017-03-21 08:50:21,399 INFO <module>(227) Starting 1...
+2017-03-21 08:50:21,425 INFO <module>(233) File age in hours: 0.0620623936256
+2017-03-21 08:50:21,427 INFO <module>(239) SESSION (21/03/17 08:50)
+2017-03-21 08:50:21,431 INFO <module>(247) Call upload_kart
+2017-03-21 08:50:21,453 INFO <module>(249) Sent Kart File
+2017-03-21 08:50:21,456 INFO <module>(254) Starting threads
+2017-03-21 08:50:21,464 INFO <module>(261) Threads are running
+2017-03-21 08:51:04,307 INFO <module>(204) Polygon PM RACING set
+2017-03-21 08:51:19,483 INFO <module>(227) Starting 1...
+2017-03-21 08:51:19,506 INFO <module>(233) File age in hours: 0.0162516213788
+2017-03-21 08:51:19,509 INFO <module>(239) SESSION (21/03/17 08:51)
+2017-03-21 08:51:19,512 INFO <module>(247) Call upload_kart
+2017-03-21 08:51:20,189 INFO <module>(249) Sent Kart File
+2017-03-21 08:51:20,191 INFO <module>(254) Starting threads
+2017-03-21 08:51:20,197 INFO <module>(261) Threads are running
+2017-03-21 08:52:06,498 INFO <module>(204) Polygon PM RACING set
+2017-03-21 08:52:21,711 INFO <module>(227) Starting 1...
+2017-03-21 08:52:21,735 INFO <module>(233) File age in hours: 0.0174263688591
+2017-03-21 08:52:21,738 INFO <module>(239) SESSION (21/03/17 08:52)
+2017-03-21 08:52:21,741 INFO <module>(247) Call upload_kart
+2017-03-21 08:52:22,493 INFO <module>(249) Sent Kart File
+2017-03-21 08:52:22,495 INFO <module>(254) Starting threads
+2017-03-21 08:52:22,501 INFO <module>(261) Threads are running
+2017-03-21 08:55:30,762 INFO <module>(204) Polygon PM RACING set
+2017-03-21 08:56:03,417 INFO <module>(227) Starting 1...
+2017-03-21 08:56:03,473 INFO <module>(233) File age in hours: 0.06179810471
+2017-03-21 08:56:03,475 INFO <module>(239) SESSION (21/03/17 08:56)
+2017-03-21 08:56:03,492 INFO <module>(247) Call upload_kart
+2017-03-21 08:56:04,763 INFO <module>(249) Sent Kart File
+2017-03-21 08:56:04,970 INFO <module>(254) Starting threads
+2017-03-21 08:56:04,983 INFO <module>(261) Threads are running

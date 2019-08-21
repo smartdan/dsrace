@@ -1,0 +1,2831 @@
+2017-06-01 15:30:11,853 INFO <module>(356) Polygon PM RACING set
+2017-06-01 15:30:13,071 INFO <module>(399) Starting 1...
+2017-06-01 15:30:13,189 INFO <module>(405) File age in hours: -0.241058574451
+2017-06-01 15:30:13,222 INFO <module>(411) SESSION (01/06/17 15:30)
+2017-06-01 15:30:18,715 INFO <module>(438) Starting threads
+2017-06-01 15:30:18,796 INFO <module>(445) Threads are running
+2017-06-01 15:30:49,407 INFO logFix(223) GPS FIX
+2017-06-01 15:30:49,409 INFO logFix(224) status      0
+2017-06-01 15:30:49,412 INFO logFix(225) latitude    nan
+2017-06-01 15:30:49,414 INFO logFix(226) longitude   nan
+2017-06-01 15:30:49,416 INFO logFix(227) speed       nan
+2017-06-01 15:30:49,419 INFO logFix(228) sats        0
+2017-06-01 15:30:49,421 INFO logFix(229) epx         nan
+2017-06-01 15:30:49,424 INFO logFix(230) epy         nan
+2017-06-01 15:30:49,426 INFO logFix(231) eps         nan
+2017-06-01 15:30:49,429 INFO logFix(232)             
+2017-06-05 09:52:46,304 INFO <module>(356) Polygon PM RACING set
+2017-06-05 09:52:47,868 INFO <module>(399) Starting 1...
+2017-06-05 09:52:47,945 INFO <module>(405) File age in hours: 90.3749846564
+2017-06-05 09:52:47,967 INFO <module>(408) Remove file /home/pi/PmRace/test_2.txt
+2017-06-05 09:52:48,468 INFO <module>(411) SESSION (05/06/17 09:52)
+2017-06-05 09:52:54,283 INFO <module>(438) Starting threads
+2017-06-05 09:52:54,342 INFO <module>(445) Threads are running
+2017-06-05 09:53:24,988 INFO logFix(223) GPS FIX
+2017-06-05 09:53:24,991 INFO logFix(224) status      0
+2017-06-05 09:53:24,993 INFO logFix(225) latitude    nan
+2017-06-05 09:53:24,996 INFO logFix(226) longitude   nan
+2017-06-05 09:53:24,999 INFO logFix(227) speed       nan
+2017-06-05 09:53:25,001 INFO logFix(228) sats        0
+2017-06-05 09:53:25,004 INFO logFix(229) epx         nan
+2017-06-05 09:53:25,007 INFO logFix(230) epy         nan
+2017-06-05 09:53:25,010 INFO logFix(231) eps         nan
+2017-06-05 09:53:25,012 INFO logFix(232)             
+2017-06-05 09:54:06,664 INFO logFix(223) GPS FIX
+2017-06-05 09:54:06,669 INFO logFix(224) status      0
+2017-06-05 09:54:06,672 INFO logFix(225) latitude    nan
+2017-06-05 09:54:06,676 INFO logFix(226) longitude   nan
+2017-06-05 09:54:06,679 INFO logFix(227) speed       nan
+2017-06-05 09:54:06,682 INFO logFix(228) sats        0
+2017-06-05 09:54:06,686 INFO logFix(229) epx         nan
+2017-06-05 09:54:06,689 INFO logFix(230) epy         nan
+2017-06-05 09:54:06,692 INFO logFix(231) eps         nan
+2017-06-05 09:54:06,695 INFO logFix(232)             
+2017-06-05 09:54:48,295 INFO logFix(223) GPS FIX
+2017-06-05 09:54:48,298 INFO logFix(224) status      0
+2017-06-05 09:54:48,300 INFO logFix(225) latitude    nan
+2017-06-05 09:54:48,303 INFO logFix(226) longitude   nan
+2017-06-05 09:54:48,305 INFO logFix(227) speed       nan
+2017-06-05 09:54:48,308 INFO logFix(228) sats        22
+2017-06-05 09:54:48,311 INFO logFix(229) epx         nan
+2017-06-05 09:54:48,314 INFO logFix(230) epy         nan
+2017-06-05 09:54:48,316 INFO logFix(231) eps         nan
+2017-06-05 09:54:48,320 INFO logFix(232)             
+2017-06-05 09:55:29,922 INFO logFix(223) GPS FIX
+2017-06-05 09:55:29,926 INFO logFix(224) status      0
+2017-06-05 09:55:29,929 INFO logFix(225) latitude    nan
+2017-06-05 09:55:29,932 INFO logFix(226) longitude   nan
+2017-06-05 09:55:29,936 INFO logFix(227) speed       nan
+2017-06-05 09:55:29,940 INFO logFix(228) sats        18
+2017-06-05 09:55:29,943 INFO logFix(229) epx         nan
+2017-06-05 09:55:29,946 INFO logFix(230) epy         nan
+2017-06-05 09:55:29,949 INFO logFix(231) eps         nan
+2017-06-05 09:55:29,953 INFO logFix(232)             
+2017-06-05 09:56:11,795 INFO logFix(223) GPS FIX
+2017-06-05 09:56:11,804 INFO logFix(224) status      0
+2017-06-05 09:56:11,808 INFO logFix(225) latitude    nan
+2017-06-05 09:56:11,810 INFO logFix(226) longitude   nan
+2017-06-05 09:56:11,813 INFO logFix(227) speed       nan
+2017-06-05 09:56:11,816 INFO logFix(228) sats        12
+2017-06-05 09:56:11,819 INFO logFix(229) epx         nan
+2017-06-05 09:56:11,822 INFO logFix(230) epy         nan
+2017-06-05 09:56:11,825 INFO logFix(231) eps         nan
+2017-06-05 09:56:11,828 INFO logFix(232)             
+2017-06-05 09:56:53,445 INFO logFix(223) GPS FIX
+2017-06-05 09:56:53,449 INFO logFix(224) status      0
+2017-06-05 09:56:53,452 INFO logFix(225) latitude    nan
+2017-06-05 09:56:53,455 INFO logFix(226) longitude   nan
+2017-06-05 09:56:53,459 INFO logFix(227) speed       nan
+2017-06-05 09:56:53,462 INFO logFix(228) sats        20
+2017-06-05 09:56:53,465 INFO logFix(229) epx         nan
+2017-06-05 09:56:53,469 INFO logFix(230) epy         nan
+2017-06-05 09:56:53,472 INFO logFix(231) eps         nan
+2017-06-05 09:56:53,476 INFO logFix(232)             
+2017-06-05 09:57:35,103 INFO logFix(223) GPS FIX
+2017-06-05 09:57:35,106 INFO logFix(224) status      0
+2017-06-05 09:57:35,109 INFO logFix(225) latitude    nan
+2017-06-05 09:57:35,112 INFO logFix(226) longitude   nan
+2017-06-05 09:57:35,115 INFO logFix(227) speed       nan
+2017-06-05 09:57:35,121 INFO logFix(228) sats        20
+2017-06-05 09:57:35,124 INFO logFix(229) epx         nan
+2017-06-05 09:57:35,127 INFO logFix(230) epy         nan
+2017-06-05 09:57:35,130 INFO logFix(231) eps         nan
+2017-06-05 09:57:35,132 INFO logFix(232)             
+2017-06-05 09:58:16,784 INFO logFix(223) GPS FIX
+2017-06-05 09:58:16,789 INFO logFix(224) status      0
+2017-06-05 09:58:16,792 INFO logFix(225) latitude    nan
+2017-06-05 09:58:16,795 INFO logFix(226) longitude   nan
+2017-06-05 09:58:16,798 INFO logFix(227) speed       nan
+2017-06-05 09:58:16,802 INFO logFix(228) sats        21
+2017-06-05 09:58:16,806 INFO logFix(229) epx         nan
+2017-06-05 09:58:16,809 INFO logFix(230) epy         nan
+2017-06-05 09:58:16,812 INFO logFix(231) eps         nan
+2017-06-05 09:58:16,815 INFO logFix(232)             
+2017-06-05 09:58:58,402 INFO logFix(223) GPS FIX
+2017-06-05 09:58:58,405 INFO logFix(224) status      0
+2017-06-05 09:58:58,411 INFO logFix(225) latitude    nan
+2017-06-05 09:58:58,414 INFO logFix(226) longitude   nan
+2017-06-05 09:58:58,417 INFO logFix(227) speed       nan
+2017-06-05 09:58:58,420 INFO logFix(228) sats        22
+2017-06-05 09:58:58,423 INFO logFix(229) epx         nan
+2017-06-05 09:58:58,425 INFO logFix(230) epy         nan
+2017-06-05 09:58:58,438 INFO logFix(231) eps         nan
+2017-06-05 09:58:58,441 INFO logFix(232)             
+2017-06-05 09:59:40,243 INFO logFix(223) GPS FIX
+2017-06-05 09:59:40,247 INFO logFix(224) status      0
+2017-06-05 09:59:40,251 INFO logFix(225) latitude    nan
+2017-06-05 09:59:40,254 INFO logFix(226) longitude   nan
+2017-06-05 09:59:40,257 INFO logFix(227) speed       nan
+2017-06-05 09:59:40,261 INFO logFix(228) sats        21
+2017-06-05 09:59:40,264 INFO logFix(229) epx         nan
+2017-06-05 09:59:40,268 INFO logFix(230) epy         nan
+2017-06-05 09:59:40,271 INFO logFix(231) eps         nan
+2017-06-05 09:59:40,274 INFO logFix(232)             
+2017-06-05 10:00:21,900 INFO logFix(223) GPS FIX
+2017-06-05 10:00:21,903 INFO logFix(224) status      0
+2017-06-05 10:00:21,906 INFO logFix(225) latitude    nan
+2017-06-05 10:00:21,919 INFO logFix(226) longitude   nan
+2017-06-05 10:00:21,921 INFO logFix(227) speed       nan
+2017-06-05 10:00:21,924 INFO logFix(228) sats        22
+2017-06-05 10:00:21,933 INFO logFix(229) epx         nan
+2017-06-05 10:00:21,936 INFO logFix(230) epy         nan
+2017-06-05 10:00:21,939 INFO logFix(231) eps         nan
+2017-06-05 10:00:21,942 INFO logFix(232)             
+2017-06-05 10:01:03,951 INFO logFix(223) GPS FIX
+2017-06-05 10:01:03,955 INFO logFix(224) status      0
+2017-06-05 10:01:03,959 INFO logFix(225) latitude    nan
+2017-06-05 10:01:03,962 INFO logFix(226) longitude   nan
+2017-06-05 10:01:03,965 INFO logFix(227) speed       nan
+2017-06-05 10:01:03,968 INFO logFix(228) sats        22
+2017-06-05 10:01:03,972 INFO logFix(229) epx         nan
+2017-06-05 10:01:03,975 INFO logFix(230) epy         nan
+2017-06-05 10:01:03,979 INFO logFix(231) eps         nan
+2017-06-05 10:01:03,982 INFO logFix(232)             
+2017-06-05 10:01:45,578 INFO logFix(223) GPS FIX
+2017-06-05 10:01:45,582 INFO logFix(224) status      0
+2017-06-05 10:01:45,584 INFO logFix(225) latitude    nan
+2017-06-05 10:01:45,587 INFO logFix(226) longitude   nan
+2017-06-05 10:01:45,600 INFO logFix(227) speed       nan
+2017-06-05 10:01:45,602 INFO logFix(228) sats        22
+2017-06-05 10:01:45,610 INFO logFix(229) epx         nan
+2017-06-05 10:01:45,612 INFO logFix(230) epy         nan
+2017-06-05 10:01:45,616 INFO logFix(231) eps         nan
+2017-06-05 10:01:45,619 INFO logFix(232)             
+2017-06-05 10:02:27,706 INFO logFix(223) GPS FIX
+2017-06-05 10:02:27,718 INFO logFix(224) status      0
+2017-06-05 10:02:27,722 INFO logFix(225) latitude    nan
+2017-06-05 10:02:27,725 INFO logFix(226) longitude   nan
+2017-06-05 10:02:27,728 INFO logFix(227) speed       nan
+2017-06-05 10:02:27,731 INFO logFix(228) sats        22
+2017-06-05 10:02:27,735 INFO logFix(229) epx         nan
+2017-06-05 10:02:27,738 INFO logFix(230) epy         nan
+2017-06-05 10:02:27,741 INFO logFix(231) eps         nan
+2017-06-05 10:02:27,744 INFO logFix(232)             
+2017-06-05 10:03:09,351 INFO logFix(223) GPS FIX
+2017-06-05 10:03:09,354 INFO logFix(224) status      0
+2017-06-05 10:03:09,357 INFO logFix(225) latitude    nan
+2017-06-05 10:03:09,370 INFO logFix(226) longitude   nan
+2017-06-05 10:03:09,372 INFO logFix(227) speed       nan
+2017-06-05 10:03:09,375 INFO logFix(228) sats        14
+2017-06-05 10:03:09,382 INFO logFix(229) epx         nan
+2017-06-05 10:03:09,385 INFO logFix(230) epy         nan
+2017-06-05 10:03:09,388 INFO logFix(231) eps         nan
+2017-06-05 10:03:09,390 INFO logFix(232)             
+2017-06-05 10:03:51,480 INFO logFix(223) GPS FIX
+2017-06-05 10:03:51,491 INFO logFix(224) status      0
+2017-06-05 10:03:51,495 INFO logFix(225) latitude    nan
+2017-06-05 10:03:51,499 INFO logFix(226) longitude   nan
+2017-06-05 10:03:51,502 INFO logFix(227) speed       nan
+2017-06-05 10:03:51,505 INFO logFix(228) sats        20
+2017-06-05 10:03:51,509 INFO logFix(229) epx         nan
+2017-06-05 10:03:51,512 INFO logFix(230) epy         nan
+2017-06-05 10:03:51,515 INFO logFix(231) eps         nan
+2017-06-05 10:03:51,519 INFO logFix(232)             
+2017-06-05 10:04:33,147 INFO logFix(223) GPS FIX
+2017-06-05 10:04:33,150 INFO logFix(224) status      0
+2017-06-05 10:04:33,152 INFO logFix(225) latitude    nan
+2017-06-05 10:04:33,155 INFO logFix(226) longitude   nan
+2017-06-05 10:04:33,168 INFO logFix(227) speed       nan
+2017-06-05 10:04:33,171 INFO logFix(228) sats        14
+2017-06-05 10:04:33,178 INFO logFix(229) epx         nan
+2017-06-05 10:04:33,181 INFO logFix(230) epy         nan
+2017-06-05 10:04:33,185 INFO logFix(231) eps         nan
+2017-06-05 10:04:33,188 INFO logFix(232)             
+2017-06-05 10:05:15,358 INFO logFix(223) GPS FIX
+2017-06-05 10:05:15,362 INFO logFix(224) status      0
+2017-06-05 10:05:15,365 INFO logFix(225) latitude    nan
+2017-06-05 10:05:15,369 INFO logFix(226) longitude   nan
+2017-06-05 10:05:15,372 INFO logFix(227) speed       nan
+2017-06-05 10:05:15,375 INFO logFix(228) sats        22
+2017-06-05 10:05:15,379 INFO logFix(229) epx         nan
+2017-06-05 10:05:15,382 INFO logFix(230) epy         nan
+2017-06-05 10:05:15,386 INFO logFix(231) eps         nan
+2017-06-05 10:05:15,389 INFO logFix(232)             
+2017-06-05 10:05:56,985 INFO logFix(223) GPS FIX
+2017-06-05 10:05:56,989 INFO logFix(224) status      0
+2017-06-05 10:05:56,992 INFO logFix(225) latitude    nan
+2017-06-05 10:05:56,994 INFO logFix(226) longitude   nan
+2017-06-05 10:05:56,998 INFO logFix(227) speed       nan
+2017-06-05 10:05:57,001 INFO logFix(228) sats        19
+2017-06-05 10:05:57,005 INFO logFix(229) epx         nan
+2017-06-05 10:05:57,008 INFO logFix(230) epy         nan
+2017-06-05 10:05:57,011 INFO logFix(231) eps         nan
+2017-06-05 10:05:57,014 INFO logFix(232)             
+2017-06-05 10:06:39,094 INFO logFix(223) GPS FIX
+2017-06-05 10:06:39,098 INFO logFix(224) status      0
+2017-06-05 10:06:39,101 INFO logFix(225) latitude    nan
+2017-06-05 10:06:39,105 INFO logFix(226) longitude   nan
+2017-06-05 10:06:39,108 INFO logFix(227) speed       nan
+2017-06-05 10:06:39,112 INFO logFix(228) sats        22
+2017-06-05 10:06:39,115 INFO logFix(229) epx         nan
+2017-06-05 10:06:39,118 INFO logFix(230) epy         nan
+2017-06-05 10:06:39,122 INFO logFix(231) eps         nan
+2017-06-05 10:06:39,125 INFO logFix(232)             
+2017-06-05 10:07:21,171 INFO logFix(223) GPS FIX
+2017-06-05 10:07:21,174 INFO logFix(224) status      0
+2017-06-05 10:07:21,179 INFO logFix(225) latitude    nan
+2017-06-05 10:07:21,181 INFO logFix(226) longitude   nan
+2017-06-05 10:07:21,185 INFO logFix(227) speed       nan
+2017-06-05 10:07:21,188 INFO logFix(228) sats        16
+2017-06-05 10:07:21,192 INFO logFix(229) epx         nan
+2017-06-05 10:07:21,195 INFO logFix(230) epy         nan
+2017-06-05 10:07:21,203 INFO logFix(231) eps         nan
+2017-06-05 10:07:21,206 INFO logFix(232)             
+2017-06-05 10:08:03,760 INFO logFix(223) GPS FIX
+2017-06-05 10:08:03,763 INFO logFix(224) status      0
+2017-06-05 10:08:03,766 INFO logFix(225) latitude    nan
+2017-06-05 10:08:03,769 INFO logFix(226) longitude   nan
+2017-06-05 10:08:03,772 INFO logFix(227) speed       nan
+2017-06-05 10:08:03,775 INFO logFix(228) sats        22
+2017-06-05 10:08:03,778 INFO logFix(229) epx         nan
+2017-06-05 10:08:03,781 INFO logFix(230) epy         nan
+2017-06-05 10:08:03,784 INFO logFix(231) eps         nan
+2017-06-05 10:08:03,787 INFO logFix(232)             
+2017-06-05 10:08:45,331 INFO logFix(223) GPS FIX
+2017-06-05 10:08:45,335 INFO logFix(224) status      0
+2017-06-05 10:08:45,338 INFO logFix(225) latitude    nan
+2017-06-05 10:08:45,341 INFO logFix(226) longitude   nan
+2017-06-05 10:08:45,344 INFO logFix(227) speed       nan
+2017-06-05 10:08:45,347 INFO logFix(228) sats        21
+2017-06-05 10:08:45,350 INFO logFix(229) epx         nan
+2017-06-05 10:08:45,353 INFO logFix(230) epy         nan
+2017-06-05 10:08:45,356 INFO logFix(231) eps         nan
+2017-06-05 10:08:45,359 INFO logFix(232)             
+2017-06-05 10:09:27,232 INFO logFix(223) GPS FIX
+2017-06-05 10:09:27,240 INFO logFix(224) status      0
+2017-06-05 10:09:27,243 INFO logFix(225) latitude    nan
+2017-06-05 10:09:27,245 INFO logFix(226) longitude   nan
+2017-06-05 10:09:27,249 INFO logFix(227) speed       nan
+2017-06-05 10:09:27,252 INFO logFix(228) sats        22
+2017-06-05 10:09:27,255 INFO logFix(229) epx         nan
+2017-06-05 10:09:27,258 INFO logFix(230) epy         nan
+2017-06-05 10:09:27,261 INFO logFix(231) eps         nan
+2017-06-05 10:09:27,264 INFO logFix(232)             
+2017-06-05 10:10:08,788 INFO logFix(223) GPS FIX
+2017-06-05 10:10:08,791 INFO logFix(224) status      0
+2017-06-05 10:10:08,794 INFO logFix(225) latitude    nan
+2017-06-05 10:10:08,797 INFO logFix(226) longitude   nan
+2017-06-05 10:10:08,800 INFO logFix(227) speed       nan
+2017-06-05 10:10:08,803 INFO logFix(228) sats        21
+2017-06-05 10:10:08,806 INFO logFix(229) epx         nan
+2017-06-05 10:10:08,810 INFO logFix(230) epy         nan
+2017-06-05 10:10:08,812 INFO logFix(231) eps         nan
+2017-06-05 10:10:08,815 INFO logFix(232)             
+2017-06-05 10:10:50,458 INFO logFix(223) GPS FIX
+2017-06-05 10:10:50,460 INFO logFix(224) status      0
+2017-06-05 10:10:50,463 INFO logFix(225) latitude    nan
+2017-06-05 10:10:50,465 INFO logFix(226) longitude   nan
+2017-06-05 10:10:50,468 INFO logFix(227) speed       nan
+2017-06-05 10:10:50,470 INFO logFix(228) sats        22
+2017-06-05 10:10:50,473 INFO logFix(229) epx         nan
+2017-06-05 10:10:50,475 INFO logFix(230) epy         nan
+2017-06-05 10:10:50,478 INFO logFix(231) eps         nan
+2017-06-05 10:10:50,481 INFO logFix(232)             
+2017-06-05 10:11:31,985 INFO logFix(223) GPS FIX
+2017-06-05 10:11:31,989 INFO logFix(224) status      0
+2017-06-05 10:11:31,991 INFO logFix(225) latitude    nan
+2017-06-05 10:11:31,994 INFO logFix(226) longitude   nan
+2017-06-05 10:11:31,997 INFO logFix(227) speed       nan
+2017-06-05 10:11:32,000 INFO logFix(228) sats        19
+2017-06-05 10:11:32,003 INFO logFix(229) epx         nan
+2017-06-05 10:11:32,006 INFO logFix(230) epy         nan
+2017-06-05 10:11:32,010 INFO logFix(231) eps         nan
+2017-06-05 10:11:32,012 INFO logFix(232)             
+2017-06-05 10:12:13,544 INFO logFix(223) GPS FIX
+2017-06-05 10:12:13,547 INFO logFix(224) status      0
+2017-06-05 10:12:13,550 INFO logFix(225) latitude    nan
+2017-06-05 10:12:13,552 INFO logFix(226) longitude   nan
+2017-06-05 10:12:13,555 INFO logFix(227) speed       nan
+2017-06-05 10:12:13,557 INFO logFix(228) sats        20
+2017-06-05 10:12:13,560 INFO logFix(229) epx         nan
+2017-06-05 10:12:13,562 INFO logFix(230) epy         nan
+2017-06-05 10:12:13,565 INFO logFix(231) eps         nan
+2017-06-05 10:12:13,568 INFO logFix(232)             
+2017-06-05 10:12:55,084 INFO logFix(223) GPS FIX
+2017-06-05 10:12:55,088 INFO logFix(224) status      0
+2017-06-05 10:12:55,091 INFO logFix(225) latitude    nan
+2017-06-05 10:12:55,094 INFO logFix(226) longitude   nan
+2017-06-05 10:12:55,097 INFO logFix(227) speed       nan
+2017-06-05 10:12:55,100 INFO logFix(228) sats        18
+2017-06-05 10:12:55,103 INFO logFix(229) epx         nan
+2017-06-05 10:12:55,106 INFO logFix(230) epy         nan
+2017-06-05 10:12:55,109 INFO logFix(231) eps         nan
+2017-06-05 10:12:55,112 INFO logFix(232)             
+2017-06-05 10:13:36,652 INFO logFix(223) GPS FIX
+2017-06-05 10:13:36,655 INFO logFix(224) status      0
+2017-06-05 10:13:36,658 INFO logFix(225) latitude    nan
+2017-06-05 10:13:36,660 INFO logFix(226) longitude   nan
+2017-06-05 10:13:36,663 INFO logFix(227) speed       nan
+2017-06-05 10:13:36,665 INFO logFix(228) sats        22
+2017-06-05 10:13:36,668 INFO logFix(229) epx         nan
+2017-06-05 10:13:36,671 INFO logFix(230) epy         nan
+2017-06-05 10:13:36,673 INFO logFix(231) eps         nan
+2017-06-05 10:13:36,676 INFO logFix(232)             
+2017-06-05 10:14:18,191 INFO logFix(223) GPS FIX
+2017-06-05 10:14:18,195 INFO logFix(224) status      0
+2017-06-05 10:14:18,198 INFO logFix(225) latitude    nan
+2017-06-05 10:14:18,201 INFO logFix(226) longitude   nan
+2017-06-05 10:14:18,204 INFO logFix(227) speed       nan
+2017-06-05 10:14:18,207 INFO logFix(228) sats        21
+2017-06-05 10:14:18,210 INFO logFix(229) epx         nan
+2017-06-05 10:14:18,213 INFO logFix(230) epy         nan
+2017-06-05 10:14:18,216 INFO logFix(231) eps         nan
+2017-06-05 10:14:18,219 INFO logFix(232)             
+2017-06-05 10:14:59,721 INFO logFix(223) GPS FIX
+2017-06-05 10:14:59,724 INFO logFix(224) status      0
+2017-06-05 10:14:59,727 INFO logFix(225) latitude    nan
+2017-06-05 10:14:59,730 INFO logFix(226) longitude   nan
+2017-06-05 10:14:59,732 INFO logFix(227) speed       nan
+2017-06-05 10:14:59,735 INFO logFix(228) sats        21
+2017-06-05 10:14:59,737 INFO logFix(229) epx         nan
+2017-06-05 10:14:59,740 INFO logFix(230) epy         nan
+2017-06-05 10:14:59,742 INFO logFix(231) eps         nan
+2017-06-05 10:14:59,745 INFO logFix(232)             
+2017-06-05 10:15:41,245 INFO logFix(223) GPS FIX
+2017-06-05 10:15:41,249 INFO logFix(224) status      0
+2017-06-05 10:15:41,251 INFO logFix(225) latitude    nan
+2017-06-05 10:15:41,254 INFO logFix(226) longitude   nan
+2017-06-05 10:15:41,257 INFO logFix(227) speed       nan
+2017-06-05 10:15:41,260 INFO logFix(228) sats        22
+2017-06-05 10:15:41,267 INFO logFix(229) epx         nan
+2017-06-05 10:15:41,270 INFO logFix(230) epy         nan
+2017-06-05 10:15:41,273 INFO logFix(231) eps         nan
+2017-06-05 10:15:41,276 INFO logFix(232)             
+2017-06-05 10:16:22,801 INFO logFix(223) GPS FIX
+2017-06-05 10:16:22,804 INFO logFix(224) status      0
+2017-06-05 10:16:22,807 INFO logFix(225) latitude    nan
+2017-06-05 10:16:22,810 INFO logFix(226) longitude   nan
+2017-06-05 10:16:22,812 INFO logFix(227) speed       nan
+2017-06-05 10:16:22,815 INFO logFix(228) sats        22
+2017-06-05 10:16:22,817 INFO logFix(229) epx         nan
+2017-06-05 10:16:22,820 INFO logFix(230) epy         nan
+2017-06-05 10:16:22,822 INFO logFix(231) eps         nan
+2017-06-05 10:16:22,825 INFO logFix(232)             
+2017-06-05 10:17:04,334 INFO logFix(223) GPS FIX
+2017-06-05 10:17:04,337 INFO logFix(224) status      0
+2017-06-05 10:17:04,340 INFO logFix(225) latitude    nan
+2017-06-05 10:17:04,342 INFO logFix(226) longitude   nan
+2017-06-05 10:17:04,345 INFO logFix(227) speed       nan
+2017-06-05 10:17:04,347 INFO logFix(228) sats        13
+2017-06-05 10:17:04,350 INFO logFix(229) epx         nan
+2017-06-05 10:17:04,352 INFO logFix(230) epy         nan
+2017-06-05 10:17:04,355 INFO logFix(231) eps         nan
+2017-06-05 10:17:04,357 INFO logFix(232)             
+2017-06-05 10:17:45,620 INFO logFix(223) GPS FIX
+2017-06-05 10:17:45,623 INFO logFix(224) status      0
+2017-06-05 10:17:45,625 INFO logFix(225) latitude    nan
+2017-06-05 10:17:45,633 INFO logFix(226) longitude   nan
+2017-06-05 10:17:45,635 INFO logFix(227) speed       nan
+2017-06-05 10:17:45,644 INFO logFix(228) sats        17
+2017-06-05 10:17:45,646 INFO logFix(229) epx         nan
+2017-06-05 10:17:45,660 INFO logFix(230) epy         nan
+2017-06-05 10:17:45,662 INFO logFix(231) eps         nan
+2017-06-05 10:17:45,669 INFO logFix(232)             
+2017-06-05 10:18:27,289 INFO logFix(223) GPS FIX
+2017-06-05 10:18:27,292 INFO logFix(224) status      0
+2017-06-05 10:18:27,295 INFO logFix(225) latitude    nan
+2017-06-05 10:18:27,298 INFO logFix(226) longitude   nan
+2017-06-05 10:18:27,301 INFO logFix(227) speed       nan
+2017-06-05 10:18:27,304 INFO logFix(228) sats        14
+2017-06-05 10:18:27,307 INFO logFix(229) epx         nan
+2017-06-05 10:18:27,310 INFO logFix(230) epy         nan
+2017-06-05 10:18:27,313 INFO logFix(231) eps         nan
+2017-06-05 10:18:27,316 INFO logFix(232)             
+2017-06-05 10:19:08,552 INFO logFix(223) GPS FIX
+2017-06-05 10:19:08,555 INFO logFix(224) status      0
+2017-06-05 10:19:08,561 INFO logFix(225) latitude    nan
+2017-06-05 10:19:08,563 INFO logFix(226) longitude   nan
+2017-06-05 10:19:08,566 INFO logFix(227) speed       nan
+2017-06-05 10:19:08,569 INFO logFix(228) sats        19
+2017-06-05 10:19:08,571 INFO logFix(229) epx         nan
+2017-06-05 10:19:08,574 INFO logFix(230) epy         nan
+2017-06-05 10:19:08,576 INFO logFix(231) eps         nan
+2017-06-05 10:19:08,589 INFO logFix(232)             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            2017-06-05 10:17:39,720 INFO <module>(356) Polygon PM RACING set
+2017-06-05 10:17:41,984 INFO <module>(399) Starting 1...
+2017-06-05 10:17:42,100 INFO <module>(405) File age in hours: 0.413361080289
+2017-06-05 10:17:42,102 INFO <module>(411) SESSION (05/06/17 10:17)
+2017-06-05 10:17:47,604 INFO <module>(438) Starting threads
+2017-06-05 10:17:47,664 INFO <module>(445) Threads are running
+2017-06-05 10:18:18,303 INFO logFix(223) GPS FIX
+2017-06-05 10:18:18,306 INFO logFix(224) status      0
+2017-06-05 10:18:18,308 INFO logFix(225) latitude    nan
+2017-06-05 10:18:18,311 INFO logFix(226) longitude   nan
+2017-06-05 10:18:18,313 INFO logFix(227) speed       nan
+2017-06-05 10:18:18,316 INFO logFix(228) sats        0
+2017-06-05 10:18:18,319 INFO logFix(229) epx         nan
+2017-06-05 10:18:18,322 INFO logFix(230) epy         nan
+2017-06-05 10:18:18,324 INFO logFix(231) eps         nan
+2017-06-05 10:18:18,327 INFO logFix(232)             
+2017-06-05 10:18:59,634 INFO logFix(223) GPS FIX
+2017-06-05 10:18:59,638 INFO logFix(224) status      0
+2017-06-05 10:18:59,641 INFO logFix(225) latitude    nan
+2017-06-05 10:18:59,643 INFO logFix(226) longitude   nan
+2017-06-05 10:18:59,647 INFO logFix(227) speed       nan
+2017-06-05 10:18:59,650 INFO logFix(228) sats        10
+2017-06-05 10:18:59,654 INFO logFix(229) epx         nan
+2017-06-05 10:18:59,657 INFO logFix(230) epy         nan
+2017-06-05 10:18:59,660 INFO logFix(231) eps         nan
+2017-06-05 10:18:59,663 INFO logFix(232)             
+2017-06-05 10:19:40,987 INFO logFix(223) GPS FIX
+2017-06-05 10:19:40,990 INFO logFix(224) status      0
+2017-06-05 10:19:40,993 INFO logFix(225) latitude    nan
+2017-06-05 10:19:40,996 INFO logFix(226) longitude   nan
+2017-06-05 10:19:40,999 INFO logFix(227) speed       nan
+2017-06-05 10:19:41,002 INFO logFix(228) sats        10
+2017-06-05 10:19:41,004 INFO logFix(229) epx         nan
+2017-06-05 10:19:41,007 INFO logFix(230) epy         nan
+2017-06-05 10:19:41,010 INFO logFix(231) eps         nan
+2017-06-05 10:19:41,012 INFO logFix(232)             
+2017-06-05 10:20:22,346 INFO logFix(223) GPS FIX
+2017-06-05 10:20:22,349 INFO logFix(224) status      0
+2017-06-05 10:20:22,352 INFO logFix(225) latitude    nan
+2017-06-05 10:20:22,355 INFO logFix(226) longitude   nan
+2017-06-05 10:20:22,359 INFO logFix(227) speed       nan
+2017-06-05 10:20:22,362 INFO logFix(228) sats        17
+2017-06-05 10:20:22,365 INFO logFix(229) epx         nan
+2017-06-05 10:20:22,369 INFO logFix(230) epy         nan
+2017-06-05 10:20:22,372 INFO logFix(231) eps         nan
+2017-06-05 10:20:22,375 INFO logFix(232)             
+2017-06-05 10:21:03,716 INFO logFix(223) GPS FIX
+2017-06-05 10:21:03,719 INFO logFix(224) status      0
+2017-06-05 10:21:03,722 INFO logFix(225) latitude    nan
+2017-06-05 10:21:03,724 INFO logFix(226) longitude   nan
+2017-06-05 10:21:03,779 INFO logFix(227) speed       nan
+2017-06-05 10:21:03,786 INFO logFix(228) sats        14
+2017-06-05 10:21:03,789 INFO logFix(229) epx         nan
+2017-06-05 10:21:03,798 INFO logFix(230) epy         nan
+2017-06-05 10:21:03,801 INFO logFix(231) eps         nan
+2017-06-05 10:21:03,804 INFO logFix(232)             
+2017-06-05 10:21:45,573 INFO logFix(223) GPS FIX
+2017-06-05 10:21:45,576 INFO logFix(224) status      0
+2017-06-05 10:21:45,579 INFO logFix(225) latitude    nan
+2017-06-05 10:21:45,581 INFO logFix(226) longitude   nan
+2017-06-05 10:21:45,584 INFO logFix(227) speed       nan
+2017-06-05 10:21:45,587 INFO logFix(228) sats        12
+2017-06-05 10:21:45,589 INFO logFix(229) epx         nan
+2017-06-05 10:21:45,592 INFO logFix(230) epy         nan
+2017-06-05 10:21:45,595 INFO logFix(231) eps         nan
+2017-06-05 10:21:45,598 INFO logFix(232)             
+2017-06-05 10:25:35,707 INFO logFix(223) GPS FIX
+2017-06-05 10:25:35,711 INFO logFix(224) status      0
+2017-06-05 10:25:35,714 INFO logFix(225) latitude    nan
+2017-06-05 10:25:35,717 INFO logFix(226) longitude   nan
+2017-06-05 10:25:35,720 INFO logFix(227) speed       nan
+2017-06-05 10:25:35,723 INFO logFix(228) sats        11
+2017-06-05 10:25:35,727 INFO logFix(229) epx         nan
+2017-06-05 10:25:35,730 INFO logFix(230) epy         nan
+2017-06-05 10:25:35,734 INFO logFix(231) eps         nan
+2017-06-05 10:25:35,736 INFO logFix(232)             
+2017-06-05 10:26:17,322 INFO logFix(223) GPS FIX
+2017-06-05 10:26:17,325 INFO logFix(224) status      0
+2017-06-05 10:26:17,328 INFO logFix(225) latitude    nan
+2017-06-05 10:26:17,331 INFO logFix(226) longitude   nan
+2017-06-05 10:26:17,334 INFO logFix(227) speed       nan
+2017-06-05 10:26:17,337 INFO logFix(228) sats        14
+2017-06-05 10:26:17,339 INFO logFix(229) epx         nan
+2017-06-05 10:26:17,343 INFO logFix(230) epy         nan
+2017-06-05 10:26:17,345 INFO logFix(231) eps         nan
+2017-06-05 10:26:17,348 INFO logFix(232)             
+2017-06-05 10:26:58,933 INFO logFix(223) GPS FIX
+2017-06-05 10:26:58,936 INFO logFix(224) status      0
+2017-06-05 10:26:58,938 INFO logFix(225) latitude    nan
+2017-06-05 10:26:58,942 INFO logFix(226) longitude   nan
+2017-06-05 10:26:58,944 INFO logFix(227) speed       nan
+2017-06-05 10:26:58,947 INFO logFix(228) sats        11
+2017-06-05 10:26:58,950 INFO logFix(229) epx         nan
+2017-06-05 10:26:58,953 INFO logFix(230) epy         nan
+2017-06-05 10:26:58,955 INFO logFix(231) eps         nan
+2017-06-05 10:26:58,958 INFO logFix(232)             
+2017-06-05 10:28:19,603 INFO <module>(356) Polygon PM RACING set
+2017-06-05 10:28:20,091 INFO <module>(399) Starting 1...
+2017-06-05 10:28:20,115 INFO <module>(405) File age in hours: 0.175865093602
+2017-06-05 10:28:20,117 INFO <module>(411) SESSION (05/06/17 10:28)
+2017-06-05 10:28:25,598 INFO <module>(438) Starting threads
+2017-06-05 10:28:25,610 INFO <module>(445) Threads are running
+2017-06-05 10:28:56,220 INFO logFix(223) GPS FIX
+2017-06-05 10:28:56,228 INFO logFix(224) status      0
+2017-06-05 10:28:56,232 INFO logFix(225) latitude    nan
+2017-06-05 10:28:56,235 INFO logFix(226) longitude   nan
+2017-06-05 10:28:56,238 INFO logFix(227) speed       nan
+2017-06-05 10:28:56,242 INFO logFix(228) sats        10
+2017-06-05 10:28:56,245 INFO logFix(229) epx         nan
+2017-06-05 10:28:56,249 INFO logFix(230) epy         nan
+2017-06-05 10:28:56,252 INFO logFix(231) eps         nan
+2017-06-05 10:28:56,256 INFO logFix(232)             
+2017-06-05 10:29:37,806 INFO logFix(223) GPS FIX
+2017-06-05 10:29:37,809 INFO logFix(224) status      0
+2017-06-05 10:29:37,812 INFO logFix(225) latitude    nan
+2017-06-05 10:29:37,815 INFO logFix(226) longitude   nan
+2017-06-05 10:29:37,818 INFO logFix(227) speed       nan
+2017-06-05 10:29:37,831 INFO logFix(228) sats        14
+2017-06-05 10:29:37,834 INFO logFix(229) epx         nan
+2017-06-05 10:29:37,837 INFO logFix(230) epy         nan
+2017-06-05 10:29:37,846 INFO logFix(231) eps         nan
+2017-06-05 10:29:37,849 INFO logFix(232)             
+2017-06-05 10:30:19,661 INFO logFix(223) GPS FIX
+2017-06-05 10:30:19,665 INFO logFix(224) status      0
+2017-06-05 10:30:19,667 INFO logFix(225) latitude    nan
+2017-06-05 10:30:19,671 INFO logFix(226) longitude   nan
+2017-06-05 10:30:19,674 INFO logFix(227) speed       nan
+2017-06-05 10:30:19,678 INFO logFix(228) sats        15
+2017-06-05 10:30:19,681 INFO logFix(229) epx         nan
+2017-06-05 10:30:19,684 INFO logFix(230) epy         nan
+2017-06-05 10:30:19,688 INFO logFix(231) eps         nan
+2017-06-05 10:30:19,691 INFO logFix(232)             
+2017-06-05 10:31:01,273 INFO logFix(223) GPS FIX
+2017-06-05 10:31:01,276 INFO logFix(224) status      0
+2017-06-05 10:31:01,289 INFO logFix(225) latitude    nan
+2017-06-05 10:31:01,292 INFO logFix(226) longitude   nan
+2017-06-05 10:31:01,295 INFO logFix(227) speed       nan
+2017-06-05 10:31:01,298 INFO logFix(228) sats        21
+2017-06-05 10:31:01,307 INFO logFix(229) epx         nan
+2017-06-05 10:31:01,310 INFO logFix(230) epy         nan
+2017-06-05 10:31:01,313 INFO logFix(231) eps         nan
+2017-06-05 10:31:01,316 INFO logFix(232)             
+2017-06-05 10:31:43,344 INFO logFix(223) GPS FIX
+2017-06-05 10:31:43,348 INFO logFix(224) status      0
+2017-06-05 10:31:43,352 INFO logFix(225) latitude    nan
+2017-06-05 10:31:43,355 INFO logFix(226) longitude   nan
+2017-06-05 10:31:43,358 INFO logFix(227) speed       nan
+2017-06-05 10:31:43,362 INFO logFix(228) sats        16
+2017-06-05 10:31:43,365 INFO logFix(229) epx         nan
+2017-06-05 10:31:43,369 INFO logFix(230) epy         nan
+2017-06-05 10:31:43,372 INFO logFix(231) eps         nan
+2017-06-05 10:31:43,376 INFO logFix(232)             
+2017-06-05 10:32:24,954 INFO logFix(223) GPS FIX
+2017-06-05 10:32:24,957 INFO logFix(224) status      0
+2017-06-05 10:32:24,964 INFO logFix(225) latitude    nan
+2017-06-05 10:32:24,967 INFO logFix(226) longitude   nan
+2017-06-05 10:32:24,970 INFO logFix(227) speed       nan
+2017-06-05 10:32:24,972 INFO logFix(228) sats        20
+2017-06-05 10:32:24,976 INFO logFix(229) epx         nan
+2017-06-05 10:32:24,978 INFO logFix(230) epy         nan
+2017-06-05 10:32:24,991 INFO logFix(231) eps         nan
+2017-06-05 10:32:24,994 INFO logFix(232)             
+2017-06-05 10:33:07,108 INFO logFix(223) GPS FIX
+2017-06-05 10:33:07,112 INFO logFix(224) status      0
+2017-06-05 10:33:07,115 INFO logFix(225) latitude    nan
+2017-06-05 10:33:07,118 INFO logFix(226) longitude   nan
+2017-06-05 10:33:07,122 INFO logFix(227) speed       nan
+2017-06-05 10:33:07,125 INFO logFix(228) sats        20
+2017-06-05 10:33:07,128 INFO logFix(229) epx         nan
+2017-06-05 10:33:07,132 INFO logFix(230) epy         nan
+2017-06-05 10:33:07,135 INFO logFix(231) eps         nan
+2017-06-05 10:33:07,139 INFO logFix(232)             
+2017-06-05 10:33:48,749 INFO logFix(223) GPS FIX
+2017-06-05 10:33:48,752 INFO logFix(224) status      0
+2017-06-05 10:33:48,755 INFO logFix(225) latitude    nan
+2017-06-05 10:33:48,757 INFO logFix(226) longitude   nan
+2017-06-05 10:33:48,771 INFO logFix(227) speed       nan
+2017-06-05 10:33:48,773 INFO logFix(228) sats        14
+2017-06-05 10:33:48,783 INFO logFix(229) epx         nan
+2017-06-05 10:33:48,786 INFO logFix(230) epy         nan
+2017-06-05 10:33:48,788 INFO logFix(231) eps         nan
+2017-06-05 10:33:48,792 INFO logFix(232)             
+2017-06-05 10:34:30,905 INFO logFix(223) GPS FIX
+2017-06-05 10:34:30,910 INFO logFix(224) status      0
+2017-06-05 10:34:30,913 INFO logFix(225) latitude    nan
+2017-06-05 10:34:30,916 INFO logFix(226) longitude   nan
+2017-06-05 10:34:30,920 INFO logFix(227) speed       nan
+2017-06-05 10:34:30,923 INFO logFix(228) sats        14
+2017-06-05 10:34:30,926 INFO logFix(229) epx         nan
+2017-06-05 10:34:30,930 INFO logFix(230) epy         nan
+2017-06-05 10:34:30,934 INFO logFix(231) eps         nan
+2017-06-05 10:34:30,937 INFO logFix(232)             
+2017-06-05 10:35:12,554 INFO logFix(223) GPS FIX
+2017-06-05 10:35:12,558 INFO logFix(224) status      0
+2017-06-05 10:35:12,562 INFO logFix(225) latitude    nan
+2017-06-05 10:35:12,565 INFO logFix(226) longitude   nan
+2017-06-05 10:35:12,568 INFO logFix(227) speed       nan
+2017-06-05 10:35:12,572 INFO logFix(228) sats        17
+2017-06-05 10:35:12,575 INFO logFix(229) epx         nan
+2017-06-05 10:35:12,578 INFO logFix(230) epy         nan
+2017-06-05 10:35:12,582 INFO logFix(231) eps         nan
+2017-06-05 10:35:12,585 INFO logFix(232)             
+2017-06-05 10:35:54,573 INFO logFix(223) GPS FIX
+2017-06-05 10:35:54,576 INFO logFix(224) status      0
+2017-06-05 10:35:54,580 INFO logFix(225) latitude    nan
+2017-06-05 10:35:54,583 INFO logFix(226) longitude   nan
+2017-06-05 10:35:54,587 INFO logFix(227) speed       nan
+2017-06-05 10:35:54,590 INFO logFix(228) sats        16
+2017-06-05 10:35:54,594 INFO logFix(229) epx         nan
+2017-06-05 10:35:54,597 INFO logFix(230) epy         nan
+2017-06-05 10:35:54,600 INFO logFix(231) eps         nan
+2017-06-05 10:35:54,604 INFO logFix(232)             
+2017-06-05 10:36:36,208 INFO logFix(223) GPS FIX
+2017-06-05 10:36:36,212 INFO logFix(224) status      0
+2017-06-05 10:36:36,215 INFO logFix(225) latitude    nan
+2017-06-05 10:36:36,227 INFO logFix(226) longitude   nan
+2017-06-05 10:36:36,235 INFO logFix(227) speed       nan
+2017-06-05 10:36:36,238 INFO logFix(228) sats        20
+2017-06-05 10:36:36,242 INFO logFix(229) epx         nan
+2017-06-05 10:36:36,245 INFO logFix(230) epy         nan
+2017-06-05 10:36:36,248 INFO logFix(231) eps         nan
+2017-06-05 10:36:36,251 INFO logFix(232)             
+2017-06-05 10:37:17,819 INFO logFix(223) GPS FIX
+2017-06-05 10:37:17,822 INFO logFix(224) status      0
+2017-06-05 10:37:17,825 INFO logFix(225) latitude    nan
+2017-06-05 10:37:17,827 INFO logFix(226) longitude   nan
+2017-06-05 10:37:17,830 INFO logFix(227) speed       nan
+2017-06-05 10:37:17,832 INFO logFix(228) sats        22
+2017-06-05 10:37:17,835 INFO logFix(229) epx         nan
+2017-06-05 10:37:17,838 INFO logFix(230) epy         nan
+2017-06-05 10:37:17,840 INFO logFix(231) eps         nan
+2017-06-05 10:37:17,843 INFO logFix(232)             
+2017-06-05 10:37:59,352 INFO logFix(223) GPS FIX
+2017-06-05 10:37:59,356 INFO logFix(224) status      0
+2017-06-05 10:37:59,359 INFO logFix(225) latitude    nan
+2017-06-05 10:37:59,362 INFO logFix(226) longitude   nan
+2017-06-05 10:37:59,365 INFO logFix(227) speed       nan
+2017-06-05 10:37:59,368 INFO logFix(228) sats        20
+2017-06-05 10:37:59,372 INFO logFix(229) epx         nan
+2017-06-05 10:37:59,375 INFO logFix(230) epy         nan
+2017-06-05 10:37:59,378 INFO logFix(231) eps         nan
+2017-06-05 10:37:59,381 INFO logFix(232)             
+2017-06-05 10:38:40,880 INFO logFix(223) GPS FIX
+2017-06-05 10:38:40,883 INFO logFix(224) status      0
+2017-06-05 10:38:40,886 INFO logFix(225) latitude    nan
+2017-06-05 10:38:40,888 INFO logFix(226) longitude   nan
+2017-06-05 10:38:40,891 INFO logFix(227) speed       nan
+2017-06-05 10:38:40,893 INFO logFix(228) sats        22
+2017-06-05 10:38:40,896 INFO logFix(229) epx         nan
+2017-06-05 10:38:40,899 INFO logFix(230) epy         nan
+2017-06-05 10:38:40,902 INFO logFix(231) eps         nan
+2017-06-05 10:38:40,904 INFO logFix(232)             
+2017-06-05 10:39:22,428 INFO logFix(223) GPS FIX
+2017-06-05 10:39:22,431 INFO logFix(224) status      0
+2017-06-05 10:39:22,434 INFO logFix(225) latitude    nan
+2017-06-05 10:39:22,437 INFO logFix(226) longitude   nan
+2017-06-05 10:39:22,440 INFO logFix(227) speed       nan
+2017-06-05 10:39:22,443 INFO logFix(228) sats        14
+2017-06-05 10:39:22,446 INFO logFix(229) epx         nan
+2017-06-05 10:39:22,449 INFO logFix(230) epy         nan
+2017-06-05 10:39:22,453 INFO logFix(231) eps         nan
+2017-06-05 10:39:22,455 INFO logFix(232)             
+2017-06-05 10:40:04,007 INFO logFix(223) GPS FIX
+2017-06-05 10:40:04,010 INFO logFix(224) status      0
+2017-06-05 10:40:04,013 INFO logFix(225) latitude    nan
+2017-06-05 10:40:04,015 INFO logFix(226) longitude   nan
+2017-06-05 10:40:04,017 INFO logFix(227) speed       nan
+2017-06-05 10:40:04,020 INFO logFix(228) sats        20
+2017-06-05 10:40:04,023 INFO logFix(229) epx         nan
+2017-06-05 10:40:04,026 INFO logFix(230) epy         nan
+2017-06-05 10:40:04,028 INFO logFix(231) eps         nan
+2017-06-05 10:40:04,031 INFO logFix(232)             
+2017-06-05 10:40:45,530 INFO logFix(223) GPS FIX
+2017-06-05 10:40:45,533 INFO logFix(224) status      0
+2017-06-05 10:40:45,536 INFO logFix(225) latitude    nan
+2017-06-05 10:40:45,539 INFO logFix(226) longitude   nan
+2017-06-05 10:40:45,542 INFO logFix(227) speed       nan
+2017-06-05 10:40:45,545 INFO logFix(228) sats        21
+2017-06-05 10:40:45,548 INFO logFix(229) epx         nan
+2017-06-05 10:40:45,552 INFO logFix(230) epy         nan
+2017-06-05 10:40:45,555 INFO logFix(231) eps         nan
+2017-06-05 10:40:45,558 INFO logFix(232)             
+2017-06-05 10:41:27,091 INFO logFix(223) GPS FIX
+2017-06-05 10:41:27,094 INFO logFix(224) status      0
+2017-06-05 10:41:27,096 INFO logFix(225) latitude    nan
+2017-06-05 10:41:27,099 INFO logFix(226) longitude   nan
+2017-06-05 10:41:27,102 INFO logFix(227) speed       nan
+2017-06-05 10:41:27,104 INFO logFix(228) sats        18
+2017-06-05 10:41:27,107 INFO logFix(229) epx         nan
+2017-06-05 10:41:27,110 INFO logFix(230) epy         nan
+2017-06-05 10:41:27,113 INFO logFix(231) eps         nan
+2017-06-05 10:41:27,115 INFO logFix(232)             
+2017-06-05 10:42:08,611 INFO logFix(223) GPS FIX
+2017-06-05 10:42:08,614 INFO logFix(224) status      0
+2017-06-05 10:42:08,617 INFO logFix(225) latitude    nan
+2017-06-05 10:42:08,620 INFO logFix(226) longitude   nan
+2017-06-05 10:42:08,623 INFO logFix(227) speed       nan
+2017-06-05 10:42:08,627 INFO logFix(228) sats        16
+2017-06-05 10:42:08,629 INFO logFix(229) epx         nan
+2017-06-05 10:42:08,633 INFO logFix(230) epy         nan
+2017-06-05 10:42:08,635 INFO logFix(231) eps         nan
+2017-06-05 10:42:08,639 INFO logFix(232)             
+2017-06-05 10:42:50,146 INFO logFix(223) GPS FIX
+2017-06-05 10:42:50,149 INFO logFix(224) status      0
+2017-06-05 10:42:50,152 INFO logFix(225) latitude    nan
+2017-06-05 10:42:50,154 INFO logFix(226) longitude   nan
+2017-06-05 10:42:50,157 INFO logFix(227) speed       nan
+2017-06-05 10:42:50,160 INFO logFix(228) sats        16
+2017-06-05 10:42:50,162 INFO logFix(229) epx         nan
+2017-06-05 10:42:50,164 INFO logFix(230) epy         nan
+2017-06-05 10:42:50,167 INFO logFix(231) eps         nan
+2017-06-05 10:42:50,170 INFO logFix(232)             
+2017-06-05 10:43:31,690 INFO logFix(223) GPS FIX
+2017-06-05 10:43:31,694 INFO logFix(224) status      0
+2017-06-05 10:43:31,697 INFO logFix(225) latitude    nan
+2017-06-05 10:43:31,700 INFO logFix(226) longitude   nan
+2017-06-05 10:43:31,703 INFO logFix(227) speed       nan
+2017-06-05 10:43:31,706 INFO logFix(228) sats        13
+2017-06-05 10:43:31,709 INFO logFix(229) epx         nan
+2017-06-05 10:43:31,712 INFO logFix(230) epy         nan
+2017-06-05 10:43:31,715 INFO logFix(231) eps         nan
+2017-06-05 10:43:31,719 INFO logFix(232)             
+2017-06-05 10:44:13,258 INFO logFix(223) GPS FIX
+2017-06-05 10:44:13,261 INFO logFix(224) status      0
+2017-06-05 10:44:13,264 INFO logFix(225) latitude    nan
+2017-06-05 10:44:13,266 INFO logFix(226) longitude   nan
+2017-06-05 10:44:13,278 INFO logFix(227) speed       nan
+2017-06-05 10:44:13,280 INFO logFix(228) sats        21
+2017-06-05 10:44:13,284 INFO logFix(229) epx         nan
+2017-06-05 10:44:13,286 INFO logFix(230) epy         nan
+2017-06-05 10:44:13,289 INFO logFix(231) eps         nan
+2017-06-05 10:44:13,296 INFO logFix(232)             
+2017-06-05 10:44:55,094 INFO logFix(223) GPS FIX
+2017-06-05 10:44:55,097 INFO logFix(224) status      0
+2017-06-05 10:44:55,101 INFO logFix(225) latitude    nan
+2017-06-05 10:44:55,103 INFO logFix(226) longitude   nan
+2017-06-05 10:44:55,107 INFO logFix(227) speed       nan
+2017-06-05 10:44:55,110 INFO logFix(228) sats        17
+2017-06-05 10:44:55,113 INFO logFix(229) epx         nan
+2017-06-05 10:44:55,116 INFO logFix(230) epy         nan
+2017-06-05 10:44:55,119 INFO logFix(231) eps         nan
+2017-06-05 10:44:55,122 INFO logFix(232)             
+2017-06-05 10:45:36,646 INFO logFix(223) GPS FIX
+2017-06-05 10:45:36,649 INFO logFix(224) status      0
+2017-06-05 10:45:36,653 INFO logFix(225) latitude    nan
+2017-06-05 10:45:36,655 INFO logFix(226) longitude   nan
+2017-06-05 10:45:36,668 INFO logFix(227) speed       nan
+2017-06-05 10:45:36,671 INFO logFix(228) sats        18
+2017-06-05 10:45:36,674 INFO logFix(229) epx         nan
+2017-06-05 10:45:36,676 INFO logFix(230) epy         nan
+2017-06-05 10:45:36,684 INFO logFix(231) eps         nan
+2017-06-05 10:45:36,687 INFO logFix(232)             
+2017-06-05 10:46:18,642 INFO logFix(223) GPS FIX
+2017-06-05 10:46:18,646 INFO logFix(224) status      0
+2017-06-05 10:46:18,648 INFO logFix(225) latitude    nan
+2017-06-05 10:46:18,652 INFO logFix(226) longitude   nan
+2017-06-05 10:46:18,655 INFO logFix(227) speed       nan
+2017-06-05 10:46:18,658 INFO logFix(228) sats        20
+2017-06-05 10:46:18,661 INFO logFix(229) epx         nan
+2017-06-05 10:46:18,664 INFO logFix(230) epy         nan
+2017-06-05 10:46:18,667 INFO logFix(231) eps         nan
+2017-06-05 10:46:18,670 INFO logFix(232)             
+2017-06-05 10:47:00,206 INFO logFix(223) GPS FIX
+2017-06-05 10:47:00,222 INFO logFix(224) status      0
+2017-06-05 10:47:00,225 INFO logFix(225) latitude    nan
+2017-06-05 10:47:00,228 INFO logFix(226) longitude   nan
+2017-06-05 10:47:00,241 INFO logFix(227) speed       nan
+2017-06-05 10:47:00,243 INFO logFix(228) sats        14
+2017-06-05 10:47:00,246 INFO logFix(229) epx         nan
+2017-06-05 10:47:00,248 INFO logFix(230) epy         nan
+2017-06-05 10:47:00,258 INFO logFix(231) eps         nan
+2017-06-05 10:47:00,260 INFO logFix(232)             
+2017-06-05 10:47:42,258 INFO logFix(223) GPS FIX
+2017-06-05 10:47:42,263 INFO logFix(224) status      0
+2017-06-05 10:47:42,266 INFO logFix(225) latitude    nan
+2017-06-05 10:47:42,269 INFO logFix(226) longitude   nan
+2017-06-05 10:47:42,272 INFO logFix(227) speed       nan
+2017-06-05 10:47:42,275 INFO logFix(228) sats        21
+2017-06-05 10:47:42,278 INFO logFix(229) epx         nan
+2017-06-05 10:47:42,281 INFO logFix(230) epy         nan
+2017-06-05 10:47:42,285 INFO logFix(231) eps         nan
+2017-06-05 10:47:42,287 INFO logFix(232)             
+2017-06-05 10:48:23,782 INFO logFix(223) GPS FIX
+2017-06-05 10:48:23,785 INFO logFix(224) status      0
+2017-06-05 10:48:23,788 INFO logFix(225) latitude    nan
+2017-06-05 10:48:23,791 INFO logFix(226) longitude   nan
+2017-06-05 10:48:23,794 INFO logFix(227) speed       nan
+2017-06-05 10:48:23,798 INFO logFix(228) sats        21
+2017-06-05 10:48:23,801 INFO logFix(229) epx         nan
+2017-06-05 10:48:23,804 INFO logFix(230) epy         nan
+2017-06-05 10:48:23,807 INFO logFix(231) eps         nan
+2017-06-05 10:48:23,810 INFO logFix(232)             
+2017-06-05 10:49:05,622 INFO logFix(223) GPS FIX
+2017-06-05 10:49:05,626 INFO logFix(224) status      0
+2017-06-05 10:49:05,628 INFO logFix(225) latitude    nan
+2017-06-05 10:49:05,632 INFO logFix(226) longitude   nan
+2017-06-05 10:49:05,635 INFO logFix(227) speed       nan
+2017-06-05 10:49:05,638 INFO logFix(228) sats        17
+2017-06-05 10:49:05,641 INFO logFix(229) epx         nan
+2017-06-05 10:49:05,644 INFO logFix(230) epy         nan
+2017-06-05 10:49:05,647 INFO logFix(231) eps         nan
+2017-06-05 10:49:05,650 INFO logFix(232)             
+2017-06-05 10:49:47,167 INFO logFix(223) GPS FIX
+2017-06-05 10:49:47,170 INFO logFix(224) status      0
+2017-06-05 10:49:47,173 INFO logFix(225) latitude    nan
+2017-06-05 10:49:47,176 INFO logFix(226) longitude   nan
+2017-06-05 10:49:47,179 INFO logFix(227) speed       nan
+2017-06-05 10:49:47,182 INFO logFix(228) sats        18
+2017-06-05 10:49:47,185 INFO logFix(229) epx         nan
+2017-06-05 10:49:47,188 INFO logFix(230) epy         nan
+2017-06-05 10:49:47,192 INFO logFix(231) eps         nan
+2017-06-05 10:49:47,195 INFO logFix(232)             
+2017-06-05 10:50:28,794 INFO logFix(223) GPS FIX
+2017-06-05 10:50:28,797 INFO logFix(224) status      0
+2017-06-05 10:50:28,800 INFO logFix(225) latitude    nan
+2017-06-05 10:50:28,802 INFO logFix(226) longitude   nan
+2017-06-05 10:50:28,805 INFO logFix(227) speed       nan
+2017-06-05 10:50:28,808 INFO logFix(228) sats        18
+2017-06-05 10:50:28,811 INFO logFix(229) epx         nan
+2017-06-05 10:50:28,813 INFO logFix(230) epy         nan
+2017-06-05 10:50:28,816 INFO logFix(231) eps         nan
+2017-06-05 10:50:28,818 INFO logFix(232)             
+2017-06-05 10:51:10,379 INFO logFix(223) GPS FIX
+2017-06-05 10:51:10,383 INFO logFix(224) status      0
+2017-06-05 10:51:10,385 INFO logFix(225) latitude    nan
+2017-06-05 10:51:10,388 INFO logFix(226) longitude   nan
+2017-06-05 10:51:10,392 INFO logFix(227) speed       nan
+2017-06-05 10:51:10,394 INFO logFix(228) sats        18
+2017-06-05 10:51:10,398 INFO logFix(229) epx         nan
+2017-06-05 10:51:10,401 INFO logFix(230) epy         nan
+2017-06-05 10:51:10,404 INFO logFix(231) eps         nan
+2017-06-05 10:51:10,407 INFO logFix(232)             
+2017-06-05 10:51:51,997 INFO logFix(223) GPS FIX
+2017-06-05 10:51:52,000 INFO logFix(224) status      0
+2017-06-05 10:51:52,003 INFO logFix(225) latitude    nan
+2017-06-05 10:51:52,005 INFO logFix(226) longitude   nan
+2017-06-05 10:51:52,007 INFO logFix(227) speed       nan
+2017-06-05 10:51:52,011 INFO logFix(228) sats        22
+2017-06-05 10:51:52,013 INFO logFix(229) epx         nan
+2017-06-05 10:51:52,016 INFO logFix(230) epy         nan
+2017-06-05 10:51:52,018 INFO logFix(231) eps         nan
+2017-06-05 10:51:52,021 INFO logFix(232)             
+2017-06-05 10:52:33,548 INFO logFix(223) GPS FIX
+2017-06-05 10:52:33,552 INFO logFix(224) status      0
+2017-06-05 10:52:33,555 INFO logFix(225) latitude    nan
+2017-06-05 10:52:33,558 INFO logFix(226) longitude   nan
+2017-06-05 10:52:33,561 INFO logFix(227) speed       nan
+2017-06-05 10:52:33,564 INFO logFix(228) sats        20
+2017-06-05 10:52:33,567 INFO logFix(229) epx         nan
+2017-06-05 10:52:33,571 INFO logFix(230) epy         nan
+2017-06-05 10:52:33,574 INFO logFix(231) eps         nan
+2017-06-05 10:52:33,577 INFO logFix(232)             
+2017-06-05 10:53:15,071 INFO logFix(223) GPS FIX
+2017-06-05 10:53:15,074 INFO logFix(224) status      0
+2017-06-05 10:53:15,077 INFO logFix(225) latitude    nan
+2017-06-05 10:53:15,079 INFO logFix(226) longitude   nan
+2017-06-05 10:53:15,082 INFO logFix(227) speed       nan
+2017-06-05 10:53:15,084 INFO logFix(228) sats        15
+2017-06-05 10:53:15,087 INFO logFix(229) epx         nan
+2017-06-05 10:53:15,090 INFO logFix(230) epy         nan
+2017-06-05 10:53:15,093 INFO logFix(231) eps         nan
+2017-06-05 10:53:15,095 INFO logFix(232)             
+2017-06-05 10:53:56,614 INFO logFix(223) GPS FIX
+2017-06-05 10:53:56,618 INFO logFix(224) status      0
+2017-06-05 10:53:56,621 INFO logFix(225) latitude    nan
+2017-06-05 10:53:56,624 INFO logFix(226) longitude   nan
+2017-06-05 10:53:56,627 INFO logFix(227) speed       nan
+2017-06-05 10:53:56,630 INFO logFix(228) sats        18
+2017-06-05 10:53:56,634 INFO logFix(229) epx         nan
+2017-06-05 10:53:56,636 INFO logFix(230) epy         nan
+2017-06-05 10:53:56,640 INFO logFix(231) eps         nan
+2017-06-05 10:53:56,644 INFO logFix(232)             
+2017-06-05 10:54:38,174 INFO logFix(223) GPS FIX
+2017-06-05 10:54:38,177 INFO logFix(224) status      0
+2017-06-05 10:54:38,180 INFO logFix(225) latitude    nan
+2017-06-05 10:54:38,182 INFO logFix(226) longitude   nan
+2017-06-05 10:54:38,185 INFO logFix(227) speed       nan
+2017-06-05 10:54:38,187 INFO logFix(228) sats        18
+2017-06-05 10:54:38,190 INFO logFix(229) epx         nan
+2017-06-05 10:54:38,193 INFO logFix(230) epy         nan
+2017-06-05 10:54:38,195 INFO logFix(231) eps         nan
+2017-06-05 10:54:38,198 INFO logFix(232)             
+2017-06-05 10:55:19,743 INFO logFix(223) GPS FIX
+2017-06-05 10:55:19,747 INFO logFix(224) status      0
+2017-06-05 10:55:19,750 INFO logFix(225) latitude    nan
+2017-06-05 10:55:19,753 INFO logFix(226) longitude   nan
+2017-06-05 10:55:19,756 INFO logFix(227) speed       nan
+2017-06-05 10:55:19,759 INFO logFix(228) sats        18
+2017-06-05 10:55:19,762 INFO logFix(229) epx         nan
+2017-06-05 10:55:19,765 INFO logFix(230) epy         nan
+2017-06-05 10:55:19,768 INFO logFix(231) eps         nan
+2017-06-05 10:55:19,771 INFO logFix(232)             
+2017-06-05 10:56:01,434 INFO logFix(223) GPS FIX
+2017-06-05 10:56:01,437 INFO logFix(224) status      0
+2017-06-05 10:56:01,440 INFO logFix(225) latitude    nan
+2017-06-05 10:56:01,443 INFO logFix(226) longitude   nan
+2017-06-05 10:56:01,445 INFO logFix(227) speed       nan
+2017-06-05 10:56:01,448 INFO logFix(228) sats        19
+2017-06-05 10:56:01,451 INFO logFix(229) epx         nan
+2017-06-05 10:56:01,453 INFO logFix(230) epy         nan
+2017-06-05 10:56:01,456 INFO logFix(231) eps         nan
+2017-06-05 10:56:01,458 INFO logFix(232)             
+2017-06-05 10:56:42,947 INFO logFix(223) GPS FIX
+2017-06-05 10:56:42,951 INFO logFix(224) status      0
+2017-06-05 10:56:42,953 INFO logFix(225) latitude    nan
+2017-06-05 10:56:42,956 INFO logFix(226) longitude   nan
+2017-06-05 10:56:42,959 INFO logFix(227) speed       nan
+2017-06-05 10:56:42,962 INFO logFix(228) sats        13
+2017-06-05 10:56:42,966 INFO logFix(229) epx         nan
+2017-06-05 10:56:42,968 INFO logFix(230) epy         nan
+2017-06-05 10:56:42,972 INFO logFix(231) eps         nan
+2017-06-05 10:56:42,975 INFO logFix(232)             
+2017-06-05 10:57:24,487 INFO logFix(223) GPS FIX
+2017-06-05 10:57:24,490 INFO logFix(224) status      0
+2017-06-05 10:57:24,493 INFO logFix(225) latitude    nan
+2017-06-05 10:57:24,495 INFO logFix(226) longitude   nan
+2017-06-05 10:57:24,497 INFO logFix(227) speed       nan
+2017-06-05 10:57:24,501 INFO logFix(228) sats        14
+2017-06-05 10:57:24,503 INFO logFix(229) epx         nan
+2017-06-05 10:57:24,506 INFO logFix(230) epy         nan
+2017-06-05 10:57:24,509 INFO logFix(231) eps         nan
+2017-06-05 10:57:24,512 INFO logFix(232)             
+2017-06-05 10:58:06,352 INFO logFix(223) GPS FIX
+2017-06-05 10:58:06,355 INFO logFix(224) status      0
+2017-06-05 10:58:06,358 INFO logFix(225) latitude    nan
+2017-06-05 10:58:06,361 INFO logFix(226) longitude   nan
+2017-06-05 10:58:06,364 INFO logFix(227) speed       nan
+2017-06-05 10:58:06,367 INFO logFix(228) sats        13
+2017-06-05 10:58:06,370 INFO logFix(229) epx         nan
+2017-06-05 10:58:06,374 INFO logFix(230) epy         nan
+2017-06-05 10:58:06,377 INFO logFix(231) eps         nan
+2017-06-05 10:58:06,380 INFO logFix(232)             
+2017-06-05 10:58:47,899 INFO logFix(223) GPS FIX
+2017-06-05 10:58:47,902 INFO logFix(224) status      0
+2017-06-05 10:58:47,904 INFO logFix(225) latitude    nan
+2017-06-05 10:58:47,907 INFO logFix(226) longitude   nan
+2017-06-05 10:58:47,917 INFO logFix(227) speed       nan
+2017-06-05 10:58:47,920 INFO logFix(228) sats        13
+2017-06-05 10:58:47,922 INFO logFix(229) epx         nan
+2017-06-05 10:58:47,925 INFO logFix(230) epy         nan
+2017-06-05 10:58:47,927 INFO logFix(231) eps         nan
+2017-06-05 10:58:47,936 INFO logFix(232)             
+2017-06-05 10:59:29,961 INFO logFix(223) GPS FIX
+2017-06-05 10:59:29,964 INFO logFix(224) status      0
+2017-06-05 10:59:29,967 INFO logFix(225) latitude    nan
+2017-06-05 10:59:29,970 INFO logFix(226) longitude   nan
+2017-06-05 10:59:29,973 INFO logFix(227) speed       nan
+2017-06-05 10:59:29,976 INFO logFix(228) sats        21
+2017-06-05 10:59:29,979 INFO logFix(229) epx         nan
+2017-06-05 10:59:29,983 INFO logFix(230) epy         nan
+2017-06-05 10:59:29,985 INFO logFix(231) eps         nan
+2017-06-05 10:59:29,989 INFO logFix(232)             
+2017-06-05 11:00:11,576 INFO logFix(223) GPS FIX
+2017-06-05 11:00:11,580 INFO logFix(224) status      0
+2017-06-05 11:00:11,583 INFO logFix(225) latitude    nan
+2017-06-05 11:00:11,586 INFO logFix(226) longitude   nan
+2017-06-05 11:00:11,589 INFO logFix(227) speed       nan
+2017-06-05 11:00:11,592 INFO logFix(228) sats        22
+2017-06-05 11:00:11,595 INFO logFix(229) epx         nan
+2017-06-05 11:00:11,598 INFO logFix(230) epy         nan
+2017-06-05 11:00:11,612 INFO logFix(231) eps         nan
+2017-06-05 11:00:11,615 INFO logFix(232)             
+2017-06-05 11:00:53,603 INFO logFix(223) GPS FIX
+2017-06-05 11:00:53,607 INFO logFix(224) status      0
+2017-06-05 11:00:53,610 INFO logFix(225) latitude    nan
+2017-06-05 11:00:53,613 INFO logFix(226) longitude   nan
+2017-06-05 11:00:53,621 INFO logFix(227) speed       nan
+2017-06-05 11:00:53,624 INFO logFix(228) sats        18
+2017-06-05 11:00:53,630 INFO logFix(229) epx         nan
+2017-06-05 11:00:53,632 INFO logFix(230) epy         nan
+2017-06-05 11:00:53,636 INFO logFix(231) eps         nan
+2017-06-05 11:00:53,640 INFO logFix(232)             
+2017-06-05 11:01:35,171 INFO logFix(223) GPS FIX
+2017-06-05 11:01:35,174 INFO logFix(224) status      0
+2017-06-05 11:01:35,177 INFO logFix(225) latitude    nan
+2017-06-05 11:01:35,180 INFO logFix(226) longitude   nan
+2017-06-05 11:01:35,183 INFO logFix(227) speed       nan
+2017-06-05 11:01:35,186 INFO logFix(228) sats        16
+2017-06-05 11:01:35,189 INFO logFix(229) epx         nan
+2017-06-05 11:01:35,193 INFO logFix(230) epy         nan
+2017-06-05 11:01:35,195 INFO logFix(231) eps         nan
+2017-06-05 11:01:35,199 INFO logFix(232)             
+2017-06-05 11:02:16,960 INFO logFix(223) GPS FIX
+2017-06-05 11:02:16,964 INFO logFix(224) status      0
+2017-06-05 11:02:16,966 INFO logFix(225) latitude    nan
+2017-06-05 11:02:16,969 INFO logFix(226) longitude   nan
+2017-06-05 11:02:16,972 INFO logFix(227) speed       nan
+2017-06-05 11:02:16,976 INFO logFix(228) sats        21
+2017-06-05 11:02:16,979 INFO logFix(229) epx         nan
+2017-06-05 11:02:16,982 INFO logFix(230) epy         nan
+2017-06-05 11:02:16,985 INFO logFix(231) eps         nan
+2017-06-05 11:02:16,988 INFO logFix(232)             
+2017-06-05 11:02:58,865 INFO logFix(223) GPS FIX
+2017-06-05 11:02:58,868 INFO logFix(224) status      0
+2017-06-05 11:02:58,872 INFO logFix(225) latitude    nan
+2017-06-05 11:02:58,875 INFO logFix(226) longitude   nan
+2017-06-05 11:02:58,878 INFO logFix(227) speed       nan
+2017-06-05 11:02:58,881 INFO logFix(228) sats        17
+2017-06-05 11:02:58,884 INFO logFix(229) epx         nan
+2017-06-05 11:02:58,888 INFO logFix(230) epy         nan
+2017-06-05 11:02:58,891 INFO logFix(231) eps         nan
+2017-06-05 11:02:58,894 INFO logFix(232)             
+2017-06-05 11:03:40,478 INFO logFix(223) GPS FIX
+2017-06-05 11:03:40,481 INFO logFix(224) status      0
+2017-06-05 11:03:40,483 INFO logFix(225) latitude    nan
+2017-06-05 11:03:40,487 INFO logFix(226) longitude   nan
+2017-06-05 11:03:40,489 INFO logFix(227) speed       nan
+2017-06-05 11:03:40,492 INFO logFix(228) sats        19
+2017-06-05 11:03:40,495 INFO logFix(229) epx         nan
+2017-06-05 11:03:40,498 INFO logFix(230) epy         nan
+2017-06-05 11:03:40,500 INFO logFix(231) eps         nan
+2017-06-05 11:03:40,502 INFO logFix(232)             
+2017-06-05 11:04:21,997 INFO logFix(223) GPS FIX
+2017-06-05 11:04:22,000 INFO logFix(224) status      0
+2017-06-05 11:04:22,003 INFO logFix(225) latitude    nan
+2017-06-05 11:04:22,006 INFO logFix(226) longitude   nan
+2017-06-05 11:04:22,009 INFO logFix(227) speed       nan
+2017-06-05 11:04:22,012 INFO logFix(228) sats        17
+2017-06-05 11:04:22,016 INFO logFix(229) epx         nan
+2017-06-05 11:04:22,018 INFO logFix(230) epy         nan
+2017-06-05 11:04:22,022 INFO logFix(231) eps         nan
+2017-06-05 11:04:22,024 INFO logFix(232)             
+2017-06-05 11:05:03,560 INFO logFix(223) GPS FIX
+2017-06-05 11:05:03,563 INFO logFix(224) status      0
+2017-06-05 11:05:03,565 INFO logFix(225) latitude    nan
+2017-06-05 11:05:03,567 INFO logFix(226) longitude   nan
+2017-06-05 11:05:03,570 INFO logFix(227) speed       nan
+2017-06-05 11:05:03,573 INFO logFix(228) sats        18
+2017-06-05 11:05:03,576 INFO logFix(229) epx         nan
+2017-06-05 11:05:03,578 INFO logFix(230) epy         nan
+2017-06-05 11:05:03,580 INFO logFix(231) eps         nan
+2017-06-05 11:05:03,583 INFO logFix(232)             
+2017-06-05 11:05:45,178 INFO logFix(223) GPS FIX
+2017-06-05 11:05:45,181 INFO logFix(224) status      0
+2017-06-05 11:05:45,184 INFO logFix(225) latitude    nan
+2017-06-05 11:05:45,187 INFO logFix(226) longitude   nan
+2017-06-05 11:05:45,190 INFO logFix(227) speed       nan
+2017-06-05 11:05:45,193 INFO logFix(228) sats        19
+2017-06-05 11:05:45,197 INFO logFix(229) epx         nan
+2017-06-05 11:05:45,199 INFO logFix(230) epy         nan
+2017-06-05 11:05:45,203 INFO logFix(231) eps         nan
+2017-06-05 11:05:45,205 INFO logFix(232)             
+2017-06-05 11:06:26,762 INFO logFix(223) GPS FIX
+2017-06-05 11:06:26,765 INFO logFix(224) status      0
+2017-06-05 11:06:26,767 INFO logFix(225) latitude    nan
+2017-06-05 11:06:26,771 INFO logFix(226) longitude   nan
+2017-06-05 11:06:26,773 INFO logFix(227) speed       nan
+2017-06-05 11:06:26,776 INFO logFix(228) sats        16
+2017-06-05 11:06:26,778 INFO logFix(229) epx         nan
+2017-06-05 11:06:26,781 INFO logFix(230) epy         nan
+2017-06-05 11:06:26,783 INFO logFix(231) eps         nan
+2017-06-05 11:06:26,786 INFO logFix(232)             
+2017-06-05 11:07:08,345 INFO logFix(223) GPS FIX
+2017-06-05 11:07:08,348 INFO logFix(224) status      0
+2017-06-05 11:07:08,352 INFO logFix(225) latitude    nan
+2017-06-05 11:07:08,355 INFO logFix(226) longitude   nan
+2017-06-05 11:07:08,358 INFO logFix(227) speed       nan
+2017-06-05 11:07:08,362 INFO logFix(228) sats        20
+2017-06-05 11:07:08,364 INFO logFix(229) epx         nan
+2017-06-05 11:07:08,368 INFO logFix(230) epy         nan
+2017-06-05 11:07:08,371 INFO logFix(231) eps         nan
+2017-06-05 11:07:08,374 INFO logFix(232)             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            2017-06-07 08:34:23,476 INFO <module>(356) Polygon PM RACING set
+2017-06-07 08:34:25,298 INFO <module>(399) Starting 1...
+2017-06-07 08:34:25,447 INFO <module>(405) File age in hours: 46.1001241108
+2017-06-07 08:34:25,449 INFO <module>(408) Remove file /home/pi/PmRace/test_2.txt
+2017-06-07 08:34:25,931 INFO <module>(411) SESSION (07/06/17 08:34)
+2017-06-07 08:34:31,457 INFO <module>(438) Starting threads
+2017-06-07 08:34:31,530 INFO <module>(445) Threads are running
+2017-06-07 08:35:02,141 INFO logFix(223) GPS FIX
+2017-06-07 08:35:02,143 INFO logFix(224) status      0
+2017-06-07 08:35:02,145 INFO logFix(225) latitude    0.0
+2017-06-07 08:35:02,148 INFO logFix(226) longitude   0.0
+2017-06-07 08:35:02,151 INFO logFix(227) speed       nan
+2017-06-07 08:35:02,154 INFO logFix(228) sats        0
+2017-06-07 08:35:02,156 INFO logFix(229) epx         nan
+2017-06-07 08:35:02,160 INFO logFix(230) epy         nan
+2017-06-07 08:35:02,162 INFO logFix(231) eps         nan
+2017-06-07 08:35:02,165 INFO logFix(232)             
+2017-06-07 08:35:43,837 INFO logFix(223) GPS FIX
+2017-06-07 08:35:43,839 INFO logFix(224) status      0
+2017-06-07 08:35:43,842 INFO logFix(225) latitude    0.0
+2017-06-07 08:35:43,844 INFO logFix(226) longitude   0.0
+2017-06-07 08:35:43,846 INFO logFix(227) speed       nan
+2017-06-07 08:35:43,849 INFO logFix(228) sats        0
+2017-06-07 08:35:43,851 INFO logFix(229) epx         nan
+2017-06-07 08:35:43,853 INFO logFix(230) epy         nan
+2017-06-07 08:35:43,856 INFO logFix(231) eps         nan
+2017-06-07 08:35:43,858 INFO logFix(232)             
+2017-06-07 08:36:39,836 INFO <module>(361) Polygon PM RACING set
+2017-06-07 08:36:40,315 INFO <module>(404) Starting 1...
+2017-06-07 08:36:40,338 INFO <module>(410) File age in hours: 0.0359270994531
+2017-06-07 08:36:40,340 INFO <module>(416) SESSION (07/06/17 08:36)
+2017-06-07 08:36:45,819 INFO <module>(443) Starting threads
+2017-06-07 08:36:45,849 INFO <module>(450) Threads are running
+2017-06-07 08:37:16,429 INFO logFix(223) GPS FIX
+2017-06-07 08:37:16,431 INFO logFix(224) status      0
+2017-06-07 08:37:16,434 INFO logFix(225) latitude    0.0
+2017-06-07 08:37:16,437 INFO logFix(226) longitude   0.0
+2017-06-07 08:37:16,440 INFO logFix(227) speed       nan
+2017-06-07 08:37:16,443 INFO logFix(228) sats        0
+2017-06-07 08:37:16,446 INFO logFix(229) epx         nan
+2017-06-07 08:37:16,449 INFO logFix(230) epy         nan
+2017-06-07 08:37:16,452 INFO logFix(231) eps         nan
+2017-06-07 08:37:16,455 INFO logFix(232)             
+2017-06-07 08:37:57,931 INFO logFix(223) GPS FIX
+2017-06-07 08:37:57,933 INFO logFix(224) status      0
+2017-06-07 08:37:57,936 INFO logFix(225) latitude    0.0
+2017-06-07 08:37:57,949 INFO logFix(226) longitude   0.0
+2017-06-07 08:37:57,952 INFO logFix(227) speed       nan
+2017-06-07 08:37:57,954 INFO logFix(228) sats        0
+2017-06-07 08:37:57,963 INFO logFix(229) epx         nan
+2017-06-07 08:37:57,965 INFO logFix(230) epy         nan
+2017-06-07 08:37:57,968 INFO logFix(231) eps         nan
+2017-06-07 08:37:57,970 INFO logFix(232)             
+2017-06-07 08:38:39,694 INFO logFix(223) GPS FIX
+2017-06-07 08:38:39,698 INFO logFix(224) status      0
+2017-06-07 08:38:39,700 INFO logFix(225) latitude    0.0
+2017-06-07 08:38:39,703 INFO logFix(226) longitude   0.0
+2017-06-07 08:38:39,706 INFO logFix(227) speed       nan
+2017-06-07 08:38:39,709 INFO logFix(228) sats        0
+2017-06-07 08:38:39,712 INFO logFix(229) epx         nan
+2017-06-07 08:38:39,715 INFO logFix(230) epy         nan
+2017-06-07 08:38:39,718 INFO logFix(231) eps         nan
+2017-06-07 08:38:39,721 INFO logFix(232)             
+2017-06-07 08:39:21,182 INFO logFix(223) GPS FIX
+2017-06-07 08:39:21,374 INFO logFix(224) status      0
+2017-06-07 08:39:21,376 INFO logFix(225) latitude    0.0
+2017-06-07 08:39:21,385 INFO logFix(226) longitude   0.0
+2017-06-07 08:39:21,391 INFO logFix(227) speed       nan
+2017-06-07 08:39:21,393 INFO logFix(228) sats        0
+2017-06-07 08:39:21,404 INFO logFix(229) epx         nan
+2017-06-07 08:39:21,406 INFO logFix(230) epy         nan
+2017-06-07 08:39:21,409 INFO logFix(231) eps         nan
+2017-06-07 08:39:21,411 INFO logFix(232)             
+2017-06-07 08:40:03,258 INFO logFix(223) GPS FIX
+2017-06-07 08:40:03,261 INFO logFix(224) status      0
+2017-06-07 08:40:03,263 INFO logFix(225) latitude    0.0
+2017-06-07 08:40:03,267 INFO logFix(226) longitude   0.0
+2017-06-07 08:40:03,269 INFO logFix(227) speed       nan
+2017-06-07 08:40:03,272 INFO logFix(228) sats        0
+2017-06-07 08:40:03,275 INFO logFix(229) epx         nan
+2017-06-07 08:40:03,279 INFO logFix(230) epy         nan
+2017-06-07 08:40:03,281 INFO logFix(231) eps         nan
+2017-06-07 08:40:03,284 INFO logFix(232)             
+2017-06-07 08:40:30,977 WARNING <module>(462) Error upload_file
+2017-06-07 08:41:34,263 INFO <module>(363) Polygon PM RACING set
+2017-06-07 08:41:35,530 INFO <module>(406) Starting 1...
+2017-06-07 08:41:35,624 INFO <module>(412) File age in hours: 0.080728954143
+2017-06-07 08:41:35,627 INFO <module>(418) SESSION (07/06/17 08:41)
+2017-06-07 08:41:41,128 INFO <module>(445) Starting threads
+2017-06-07 08:41:41,256 INFO <module>(452) Threads are running
+2017-06-07 08:41:41,258 INFO logFix(223) GPS FIX
+2017-06-07 08:41:41,309 INFO logFix(224) status      0
+2017-06-07 08:41:41,312 INFO logFix(225) latitude    0.0
+2017-06-07 08:41:41,339 INFO logFix(226) longitude   0.0
+2017-06-07 08:41:41,341 INFO logFix(227) speed       nan
+2017-06-07 08:41:41,360 INFO logFix(228) sats        0
+2017-06-07 08:41:41,362 INFO logFix(229) epx         nan
+2017-06-07 08:41:41,381 INFO logFix(230) epy         nan
+2017-06-07 08:41:41,395 INFO logFix(231) eps         nan
+2017-06-07 08:41:41,407 INFO logFix(232)             
+2017-06-07 08:41:54,370 INFO logFix(223) GPS FIX
+2017-06-07 08:41:54,927 INFO logFix(224) status      0
+2017-06-07 08:41:54,929 INFO logFix(225) latitude    0.0
+2017-06-07 08:41:54,932 INFO logFix(226) longitude   0.0
+2017-06-07 08:41:54,934 INFO logFix(227) speed       nan
+2017-06-07 08:41:54,937 INFO logFix(228) sats        0
+2017-06-07 08:41:54,939 INFO logFix(229) epx         nan
+2017-06-07 08:41:54,941 INFO logFix(230) epy         nan
+2017-06-07 08:41:54,944 INFO logFix(231) eps         nan
+2017-06-07 08:41:54,946 INFO logFix(232)             
+2017-06-07 08:42:05,937 INFO logFix(223) GPS FIX
+2017-06-07 08:42:05,941 INFO logFix(224) status      0
+2017-06-07 08:42:05,943 INFO logFix(225) latitude    0.0
+2017-06-07 08:42:05,946 INFO logFix(226) longitude   0.0
+2017-06-07 08:42:05,949 INFO logFix(227) speed       nan
+2017-06-07 08:42:05,952 INFO logFix(228) sats        0
+2017-06-07 08:42:05,954 INFO logFix(229) epx         nan
+2017-06-07 08:42:05,957 INFO logFix(230) epy         nan
+2017-06-07 08:42:05,960 INFO logFix(231) eps         nan
+2017-06-07 08:42:05,963 INFO logFix(232)             
+2017-06-07 08:42:16,969 INFO logFix(223) GPS FIX
+2017-06-07 08:42:16,973 INFO logFix(224) status      0
+2017-06-07 08:42:16,975 INFO logFix(225) latitude    0.0
+2017-06-07 08:42:16,978 INFO logFix(226) longitude   0.0
+2017-06-07 08:42:16,981 INFO logFix(227) speed       nan
+2017-06-07 08:42:16,983 INFO logFix(228) sats        0
+2017-06-07 08:42:16,987 INFO logFix(229) epx         nan
+2017-06-07 08:42:16,989 INFO logFix(230) epy         nan
+2017-06-07 08:42:16,992 INFO logFix(231) eps         nan
+2017-06-07 08:42:16,995 INFO logFix(232)             
+2017-06-07 08:42:27,942 INFO logFix(223) GPS FIX
+2017-06-07 08:42:27,945 INFO logFix(224) status      0
+2017-06-07 08:42:27,948 INFO logFix(225) latitude    0.0
+2017-06-07 08:42:27,951 INFO logFix(226) longitude   0.0
+2017-06-07 08:42:27,954 INFO logFix(227) speed       nan
+2017-06-07 08:42:27,957 INFO logFix(228) sats        0
+2017-06-07 08:42:27,959 INFO logFix(229) epx         nan
+2017-06-07 08:42:27,962 INFO logFix(230) epy         nan
+2017-06-07 08:42:27,965 INFO logFix(231) eps         nan
+2017-06-07 08:42:27,968 INFO logFix(232)             
+2017-06-07 08:42:38,939 INFO logFix(223) GPS FIX
+2017-06-07 08:42:38,942 INFO logFix(224) status      0
+2017-06-07 08:42:38,944 INFO logFix(225) latitude    0.0
+2017-06-07 08:42:38,947 INFO logFix(226) longitude   0.0
+2017-06-07 08:42:38,949 INFO logFix(227) speed       nan
+2017-06-07 08:42:38,952 INFO logFix(228) sats        0
+2017-06-07 08:42:38,954 INFO logFix(229) epx         nan
+2017-06-07 08:42:38,956 INFO logFix(230) epy         nan
+2017-06-07 08:42:38,959 INFO logFix(231) eps         nan
+2017-06-07 08:42:38,961 INFO logFix(232)             
+2017-06-07 08:42:49,885 INFO logFix(223) GPS FIX
+2017-06-07 08:42:49,888 INFO logFix(224) status      0
+2017-06-07 08:42:49,891 INFO logFix(225) latitude    0.0
+2017-06-07 08:42:49,893 INFO logFix(226) longitude   0.0
+2017-06-07 08:42:49,896 INFO logFix(227) speed       nan
+2017-06-07 08:42:49,898 INFO logFix(228) sats        0
+2017-06-07 08:42:49,900 INFO logFix(229) epx         nan
+2017-06-07 08:42:49,903 INFO logFix(230) epy         nan
+2017-06-07 08:42:49,905 INFO logFix(231) eps         nan
+2017-06-07 08:42:49,908 INFO logFix(232)             
+2017-06-07 08:43:00,821 INFO logFix(223) GPS FIX
+2017-06-07 08:43:00,824 INFO logFix(224) status      0
+2017-06-07 08:43:00,826 INFO logFix(225) latitude    0.0
+2017-06-07 08:43:00,828 INFO logFix(226) longitude   0.0
+2017-06-07 08:43:00,831 INFO logFix(227) speed       nan
+2017-06-07 08:43:00,833 INFO logFix(228) sats        0
+2017-06-07 08:43:00,836 INFO logFix(229) epx         nan
+2017-06-07 08:43:00,838 INFO logFix(230) epy         nan
+2017-06-07 08:43:00,841 INFO logFix(231) eps         nan
+2017-06-07 08:43:00,843 INFO logFix(232)             
+2017-06-07 08:43:11,870 INFO logFix(223) GPS FIX
+2017-06-07 08:43:11,880 INFO logFix(224) status      0
+2017-06-07 08:43:11,883 INFO logFix(225) latitude    0.0
+2017-06-07 08:43:11,890 INFO logFix(226) longitude   0.0
+2017-06-07 08:43:11,892 INFO logFix(227) speed       nan
+2017-06-07 08:43:11,894 INFO logFix(228) sats        0
+2017-06-07 08:43:11,921 INFO logFix(229) epx         nan
+2017-06-07 08:43:11,923 INFO logFix(230) epy         nan
+2017-06-07 08:43:11,926 INFO logFix(231) eps         nan
+2017-06-07 08:43:11,928 INFO logFix(232)             
+2017-06-07 08:43:14,368 INFO <module>(363) Polygon PM RACING set
+2017-06-07 08:43:14,552 INFO startTracker(218) Error in tracker
+2017-06-07 08:43:14,871 INFO <module>(406) Starting 1...
+2017-06-07 08:43:14,897 INFO <module>(412) File age in hours: 0.0260825680362
+2017-06-07 08:43:14,901 INFO <module>(418) SESSION (07/06/17 08:43)
+2017-06-07 08:43:20,380 INFO <module>(445) Starting threads
+2017-06-07 08:43:20,400 INFO <module>(452) Threads are running
+2017-06-07 08:43:20,412 INFO logFix(223) GPS FIX
+2017-06-07 08:43:20,417 INFO logFix(224) status      0
+2017-06-07 08:43:20,420 INFO logFix(225) latitude    0.0
+2017-06-07 08:43:20,423 INFO logFix(226) longitude   0.0
+2017-06-07 08:43:20,426 INFO logFix(227) speed       nan
+2017-06-07 08:43:20,429 INFO logFix(228) sats        0
+2017-06-07 08:43:20,432 INFO logFix(229) epx         nan
+2017-06-07 08:43:20,434 INFO logFix(230) epy         nan
+2017-06-07 08:43:20,437 INFO logFix(231) eps         nan
+2017-06-07 08:43:20,440 INFO logFix(232)             
+2017-06-07 08:43:23,669 INFO logFix(223) GPS FIX
+2017-06-07 08:43:23,672 INFO logFix(224) status      0
+2017-06-07 08:43:23,674 INFO logFix(225) latitude    0.0
+2017-06-07 08:43:23,676 INFO logFix(226) longitude   0.0
+2017-06-07 08:43:23,678 INFO logFix(227) speed       nan
+2017-06-07 08:43:23,691 INFO logFix(228) sats        0
+2017-06-07 08:43:23,694 INFO logFix(229) epx         nan
+2017-06-07 08:43:23,704 INFO logFix(230) epy         nan
+2017-06-07 08:43:23,707 INFO logFix(231) eps         nan
+2017-06-07 08:43:23,709 INFO logFix(232)             
+2017-06-07 08:43:31,434 INFO logFix(223) GPS FIX
+2017-06-07 08:43:31,438 INFO logFix(224) status      0
+2017-06-07 08:43:31,441 INFO logFix(225) latitude    0.0
+2017-06-07 08:43:31,445 INFO logFix(226) longitude   0.0
+2017-06-07 08:43:31,448 INFO logFix(227) speed       nan
+2017-06-07 08:43:31,452 INFO logFix(228) sats        0
+2017-06-07 08:43:31,455 INFO logFix(229) epx         nan
+2017-06-07 08:43:31,458 INFO logFix(230) epy         nan
+2017-06-07 08:43:31,462 INFO logFix(231) eps         nan
+2017-06-07 08:43:31,464 INFO logFix(232)             
+2017-06-07 08:43:35,081 INFO logFix(223) GPS FIX
+2017-06-07 08:43:35,084 INFO logFix(224) status      0
+2017-06-07 08:43:35,086 INFO logFix(225) latitude    0.0
+2017-06-07 08:43:35,095 INFO logFix(226) longitude   0.0
+2017-06-07 08:43:35,097 INFO logFix(227) speed       nan
+2017-06-07 08:43:35,112 INFO logFix(228) sats        0
+2017-06-07 08:43:35,116 INFO logFix(229) epx         nan
+2017-06-07 08:43:35,120 INFO logFix(230) epy         nan
+2017-06-07 08:43:35,123 INFO logFix(231) eps         nan
+2017-06-07 08:43:35,126 INFO logFix(232)             
+2017-06-07 08:43:42,446 INFO logFix(223) GPS FIX
+2017-06-07 08:43:42,451 INFO logFix(224) status      0
+2017-06-07 08:43:42,454 INFO logFix(225) latitude    0.0
+2017-06-07 08:43:42,458 INFO logFix(226) longitude   0.0
+2017-06-07 08:43:42,461 INFO logFix(227) speed       nan
+2017-06-07 08:43:42,464 INFO logFix(228) sats        0
+2017-06-07 08:43:42,468 INFO logFix(229) epx         nan
+2017-06-07 08:43:42,471 INFO logFix(230) epy         nan
+2017-06-07 08:43:42,475 INFO logFix(231) eps         nan
+2017-06-07 08:43:42,477 INFO logFix(232)             
+2017-06-07 08:43:46,562 INFO logFix(223) GPS FIX
+2017-06-07 08:43:46,564 INFO logFix(224) status      0
+2017-06-07 08:43:46,568 INFO logFix(225) latitude    0.0
+2017-06-07 08:43:46,570 INFO logFix(226) longitude   0.0
+2017-06-07 08:43:46,573 INFO logFix(227) speed       nan
+2017-06-07 08:43:46,575 INFO logFix(228) sats        0
+2017-06-07 08:43:46,579 INFO logFix(229) epx         nan
+2017-06-07 08:43:46,581 INFO logFix(230) epy         nan
+2017-06-07 08:43:46,584 INFO logFix(231) eps         nan
+2017-06-07 08:43:46,586 INFO logFix(232)             
+2017-06-07 08:43:53,478 INFO logFix(223) GPS FIX
+2017-06-07 08:43:53,489 INFO logFix(224) status      0
+2017-06-07 08:43:53,494 INFO logFix(225) latitude    0.0
+2017-06-07 08:43:53,496 INFO logFix(226) longitude   0.0
+2017-06-07 08:43:53,500 INFO logFix(227) speed       nan
+2017-06-07 08:43:53,503 INFO logFix(228) sats        0
+2017-06-07 08:43:53,507 INFO logFix(229) epx         nan
+2017-06-07 08:43:53,510 INFO logFix(230) epy         nan
+2017-06-07 08:43:53,513 INFO logFix(231) eps         nan
+2017-06-07 08:43:53,517 INFO logFix(232)             
+2017-06-07 08:43:57,670 INFO logFix(223) GPS FIX
+2017-06-07 08:43:57,673 INFO logFix(224) status      0
+2017-06-07 08:43:57,675 INFO logFix(225) latitude    0.0
+2017-06-07 08:43:57,678 INFO logFix(226) longitude   0.0
+2017-06-07 08:43:57,680 INFO logFix(227) speed       nan
+2017-06-07 08:43:57,683 INFO logFix(228) sats        0
+2017-06-07 08:43:57,686 INFO logFix(229) epx         nan
+2017-06-07 08:43:57,688 INFO logFix(230) epy         nan
+2017-06-07 08:43:57,692 INFO logFix(231) eps         nan
+2017-06-07 08:43:57,694 INFO logFix(232)             
+2017-06-07 08:44:04,553 INFO logFix(223) GPS FIX
+2017-06-07 08:44:04,557 INFO logFix(224) status      0
+2017-06-07 08:44:04,560 INFO logFix(225) latitude    0.0
+2017-06-07 08:44:04,564 INFO logFix(226) longitude   0.0
+2017-06-07 08:44:04,567 INFO logFix(227) speed       nan
+2017-06-07 08:44:04,570 INFO logFix(228) sats        0
+2017-06-07 08:44:04,574 INFO logFix(229) epx         nan
+2017-06-07 08:44:04,577 INFO logFix(230) epy         nan
+2017-06-07 08:44:04,581 INFO logFix(231) eps         nan
+2017-06-07 08:44:04,584 INFO logFix(232)             
+2017-06-07 08:44:08,692 INFO logFix(223) GPS FIX
+2017-06-07 08:44:08,694 INFO logFix(224) status      0
+2017-06-07 08:44:08,697 INFO logFix(225) latitude    0.0
+2017-06-07 08:44:08,700 INFO logFix(226) longitude   0.0
+2017-06-07 08:44:08,703 INFO logFix(227) speed       nan
+2017-06-07 08:44:08,705 INFO logFix(228) sats        0
+2017-06-07 08:44:08,709 INFO logFix(229) epx         nan
+2017-06-07 08:44:08,711 INFO logFix(230) epy         nan
+2017-06-07 08:44:08,714 INFO logFix(231) eps         nan
+2017-06-07 08:44:08,716 INFO logFix(232)             
+2017-06-07 08:44:15,584 INFO logFix(223) GPS FIX
+2017-06-07 08:44:15,712 INFO logFix(224) status      0
+2017-06-07 08:44:15,715 INFO logFix(225) latitude    0.0
+2017-06-07 08:44:15,718 INFO logFix(226) longitude   0.0
+2017-06-07 08:44:15,720 INFO logFix(227) speed       nan
+2017-06-07 08:44:15,724 INFO logFix(228) sats        0
+2017-06-07 08:44:15,726 INFO logFix(229) epx         nan
+2017-06-07 08:44:15,730 INFO logFix(230) epy         nan
+2017-06-07 08:44:15,732 INFO logFix(231) eps         nan
+2017-06-07 08:44:15,740 INFO logFix(232)             
+2017-06-07 08:44:19,693 INFO logFix(223) GPS FIX
+2017-06-07 08:44:19,696 INFO logFix(224) status      0
+2017-06-07 08:44:19,699 INFO logFix(225) latitude    0.0
+2017-06-07 08:44:19,701 INFO logFix(226) longitude   0.0
+2017-06-07 08:44:19,704 INFO logFix(227) speed       nan
+2017-06-07 08:44:19,706 INFO logFix(228) sats        0
+2017-06-07 08:44:19,710 INFO logFix(229) epx         nan
+2017-06-07 08:44:19,712 INFO logFix(230) epy         nan
+2017-06-07 08:44:19,716 INFO logFix(231) eps         nan
+2017-06-07 08:44:19,718 INFO logFix(232)             
+2017-06-07 08:44:26,771 INFO logFix(223) GPS FIX
+2017-06-07 08:44:26,774 INFO logFix(224) status      0
+2017-06-07 08:44:26,777 INFO logFix(225) latitude    0.0
+2017-06-07 08:44:26,779 INFO logFix(226) longitude   0.0
+2017-06-07 08:44:26,782 INFO logFix(227) speed       nan
+2017-06-07 08:44:26,785 INFO logFix(228) sats        0
+2017-06-07 08:44:26,788 INFO logFix(229) epx         nan
+2017-06-07 08:44:26,790 INFO logFix(230) epy         nan
+2017-06-07 08:44:26,794 INFO logFix(231) eps         nan
+2017-06-07 08:44:26,796 INFO logFix(232)             
+2017-06-07 08:44:30,711 INFO logFix(223) GPS FIX
+2017-06-07 08:44:30,713 INFO logFix(224) status      0
+2017-06-07 08:44:30,715 INFO logFix(225) latitude    0.0
+2017-06-07 08:44:30,718 INFO logFix(226) longitude   0.0
+2017-06-07 08:44:30,720 INFO logFix(227) speed       nan
+2017-06-07 08:44:30,723 INFO logFix(228) sats        0
+2017-06-07 08:44:30,726 INFO logFix(229) epx         nan
+2017-06-07 08:44:30,728 INFO logFix(230) epy         nan
+2017-06-07 08:44:30,731 INFO logFix(231) eps         nan
+2017-06-07 08:44:30,734 INFO logFix(232)             
+2017-06-07 08:44:41,627 INFO logFix(223) GPS FIX
+2017-06-07 08:44:41,631 INFO logFix(224) status      0
+2017-06-07 08:44:41,633 INFO logFix(225) latitude    0.0
+2017-06-07 08:44:41,636 INFO logFix(226) longitude   0.0
+2017-06-07 08:44:41,639 INFO logFix(227) speed       nan
+2017-06-07 08:44:41,642 INFO logFix(228) sats        0
+2017-06-07 08:44:41,644 INFO logFix(229) epx         nan
+2017-06-07 08:44:41,647 INFO logFix(230) epy         nan
+2017-06-07 08:44:41,651 INFO logFix(231) eps         nan
+2017-06-07 08:44:41,653 INFO logFix(232)             
+2017-06-07 08:44:52,564 INFO logFix(223) GPS FIX
+2017-06-07 08:44:52,573 INFO logFix(224) status      0
+2017-06-07 08:44:52,576 INFO logFix(225) latitude    0.0
+2017-06-07 08:44:52,579 INFO logFix(226) longitude   0.0
+2017-06-07 08:44:52,581 INFO logFix(227) speed       nan
+2017-06-07 08:44:52,583 INFO logFix(228) sats        0
+2017-06-07 08:44:52,586 INFO logFix(229) epx         nan
+2017-06-07 08:44:52,588 INFO logFix(230) epy         nan
+2017-06-07 08:44:52,591 INFO logFix(231) eps         nan
+2017-06-07 08:44:52,594 INFO logFix(232)             
+2017-06-07 08:45:03,500 INFO logFix(223) GPS FIX
+2017-06-07 08:45:03,503 INFO logFix(224) status      0
+2017-06-07 08:45:03,506 INFO logFix(225) latitude    0.0
+2017-06-07 08:45:03,508 INFO logFix(226) longitude   0.0
+2017-06-07 08:45:03,511 INFO logFix(227) speed       nan
+2017-06-07 08:45:03,514 INFO logFix(228) sats        0
+2017-06-07 08:45:03,517 INFO logFix(229) epx         nan
+2017-06-07 08:45:03,520 INFO logFix(230) epy         nan
+2017-06-07 08:45:03,523 INFO logFix(231) eps         nan
+2017-06-07 08:45:03,525 INFO logFix(232)             
+2017-06-07 08:45:28,984 INFO <module>(366) Polygon PM RACING set
+2017-06-07 08:45:29,444 INFO <module>(409) Starting 1...
+2017-06-07 08:45:29,469 INFO <module>(415) File age in hours: 0.035963623325
+2017-06-07 08:45:29,471 INFO <module>(421) SESSION (07/06/17 08:45)
+2017-06-07 08:45:34,954 INFO <module>(448) Starting threads
+2017-06-07 08:45:34,985 INFO <module>(455) Threads are running
+2017-06-07 08:46:05,547 INFO logFix(223) GPS FIX
+2017-06-07 08:46:05,612 INFO logFix(224) status      0
+2017-06-07 08:46:05,615 INFO logFix(225) latitude    0.0
+2017-06-07 08:46:05,618 INFO logFix(226) longitude   0.0
+2017-06-07 08:46:05,621 INFO logFix(227) speed       nan
+2017-06-07 08:46:05,623 INFO logFix(228) sats        0
+2017-06-07 08:46:05,627 INFO logFix(229) epx         nan
+2017-06-07 08:46:05,629 INFO logFix(230) epy         nan
+2017-06-07 08:46:05,632 INFO logFix(231) eps         nan
+2017-06-07 08:46:05,635 INFO logFix(232)             
+2017-06-07 08:46:34,946 INFO <module>(366) Polygon PM RACING set
+2017-06-07 08:46:35,627 INFO <module>(409) Starting 1...
+2017-06-07 08:46:35,667 INFO <module>(415) File age in hours: 0.0171296094524
+2017-06-07 08:46:35,679 INFO <module>(421) SESSION (07/06/17 08:46)
+2017-06-07 08:46:41,153 INFO <module>(448) Starting threads
+2017-06-07 08:46:41,180 INFO <module>(455) Threads are running
+2017-06-07 08:47:11,740 INFO logFix(223) GPS FIX
+2017-06-07 08:47:11,742 INFO logFix(224) status      0
+2017-06-07 08:47:11,745 INFO logFix(225) latitude    0.0
+2017-06-07 08:47:11,747 INFO logFix(226) longitude   0.0
+2017-06-07 08:47:11,760 INFO logFix(227) speed       nan
+2017-06-07 08:47:11,762 INFO logFix(228) sats        0
+2017-06-07 08:47:11,765 INFO logFix(229) epx         nan
+2017-06-07 08:47:11,767 INFO logFix(230) epy         nan
+2017-06-07 08:47:11,776 INFO logFix(231) eps         nan
+2017-06-07 08:47:11,778 INFO logFix(232)             
+2017-06-07 08:47:53,808 INFO logFix(223) GPS FIX
+2017-06-07 08:47:53,811 INFO logFix(224) status      0
+2017-06-07 08:47:53,813 INFO logFix(225) latitude    0.0
+2017-06-07 08:47:53,816 INFO logFix(226) longitude   0.0
+2017-06-07 08:47:53,818 INFO logFix(227) speed       nan
+2017-06-07 08:47:53,821 INFO logFix(228) sats        0
+2017-06-07 08:47:53,823 INFO logFix(229) epx         nan
+2017-06-07 08:47:53,826 INFO logFix(230) epy         nan
+2017-06-07 08:47:53,828 INFO logFix(231) eps         nan
+2017-06-07 08:47:53,830 INFO logFix(232)             
+2017-06-07 08:48:35,591 INFO logFix(223) GPS FIX
+2017-06-07 08:48:35,593 INFO logFix(224) status      0
+2017-06-07 08:48:35,596 INFO logFix(225) latitude    0.0
+2017-06-07 08:48:35,598 INFO logFix(226) longitude   0.0
+2017-06-07 08:48:35,611 INFO logFix(227) speed       nan
+2017-06-07 08:48:35,613 INFO logFix(228) sats        0
+2017-06-07 08:48:35,616 INFO logFix(229) epx         nan
+2017-06-07 08:48:35,618 INFO logFix(230) epy         nan
+2017-06-07 08:48:35,627 INFO logFix(231) eps         nan
+2017-06-07 08:48:35,629 INFO logFix(232)             
+2017-06-07 08:48:48,836 INFO <module>(370) Polygon PM RACING set
+2017-06-07 08:48:49,547 INFO <module>(413) Starting 1...
+2017-06-07 08:48:49,588 INFO <module>(419) File age in hours: 0.0357188244661
+2017-06-07 08:48:49,591 INFO <module>(425) SESSION (07/06/17 08:48)
+2017-06-07 08:48:55,074 INFO <module>(452) Starting threads
+2017-06-07 08:48:55,095 INFO <module>(459) Threads are running
+2017-06-07 08:49:25,679 INFO logFix(223) GPS FIX
+2017-06-07 08:49:25,681 INFO logFix(224) status      0
+2017-06-07 08:49:25,683 INFO logFix(225) latitude    0.0
+2017-06-07 08:49:25,685 INFO logFix(226) longitude   0.0
+2017-06-07 08:49:25,688 INFO logFix(227) speed       nan
+2017-06-07 08:49:25,701 INFO logFix(228) sats        0
+2017-06-07 08:49:25,703 INFO logFix(229) epx         nan
+2017-06-07 08:49:25,710 INFO logFix(230) epy         nan
+2017-06-07 08:49:25,713 INFO logFix(231) eps         nan
+2017-06-07 08:49:25,715 INFO logFix(232)             
+2017-06-07 08:50:07,173 INFO logFix(223) GPS FIX
+2017-06-07 08:50:07,177 INFO logFix(224) status      0
+2017-06-07 08:50:07,180 INFO logFix(225) latitude    0.0
+2017-06-07 08:50:07,183 INFO logFix(226) longitude   0.0
+2017-06-07 08:50:07,186 INFO logFix(227) speed       nan
+2017-06-07 08:50:07,189 INFO logFix(228) sats        0
+2017-06-07 08:50:07,192 INFO logFix(229) epx         nan
+2017-06-07 08:50:07,194 INFO logFix(230) epy         nan
+2017-06-07 08:50:07,198 INFO logFix(231) eps         nan
+2017-06-07 08:50:07,200 INFO logFix(232)             
+2017-06-07 08:50:48,663 INFO logFix(223) GPS FIX
+2017-06-07 08:50:48,666 INFO logFix(224) status      0
+2017-06-07 08:50:48,668 INFO logFix(225) latitude    0.0
+2017-06-07 08:50:48,681 INFO logFix(226) longitude   0.0
+2017-06-07 08:50:48,683 INFO logFix(227) speed       nan
+2017-06-07 08:50:48,686 INFO logFix(228) sats        0
+2017-06-07 08:50:48,688 INFO logFix(229) epx         nan
+2017-06-07 08:50:48,696 INFO logFix(230) epy         nan
+2017-06-07 08:50:48,699 INFO logFix(231) eps         nan
+2017-06-07 08:50:48,701 INFO logFix(232)             
+2017-06-07 08:51:30,506 INFO logFix(223) GPS FIX
+2017-06-07 08:51:30,510 INFO logFix(224) status      0
+2017-06-07 08:51:30,512 INFO logFix(225) latitude    0.0
+2017-06-07 08:51:30,515 INFO logFix(226) longitude   0.0
+2017-06-07 08:51:30,517 INFO logFix(227) speed       nan
+2017-06-07 08:51:30,521 INFO logFix(228) sats        0
+2017-06-07 08:51:30,523 INFO logFix(229) epx         nan
+2017-06-07 08:51:30,527 INFO logFix(230) epy         nan
+2017-06-07 08:51:30,529 INFO logFix(231) eps         nan
+2017-06-07 08:51:30,532 INFO logFix(232)             
+2017-06-07 08:52:12,014 INFO logFix(223) GPS FIX
+2017-06-07 08:52:12,017 INFO logFix(224) status      0
+2017-06-07 08:52:12,030 INFO logFix(225) latitude    0.0
+2017-06-07 08:52:12,032 INFO logFix(226) longitude   0.0
+2017-06-07 08:52:12,034 INFO logFix(227) speed       nan
+2017-06-07 08:52:12,036 INFO logFix(228) sats        0
+2017-06-07 08:52:12,038 INFO logFix(229) epx         nan
+2017-06-07 08:52:12,046 INFO logFix(230) epy         nan
+2017-06-07 08:52:12,048 INFO logFix(231) eps         nan
+2017-06-07 08:52:12,051 INFO logFix(232)             
+2017-06-07 08:52:53,807 INFO logFix(223) GPS FIX
+2017-06-07 08:52:53,811 INFO logFix(224) status      0
+2017-06-07 08:52:53,813 INFO logFix(225) latitude    0.0
+2017-06-07 08:52:53,816 INFO logFix(226) longitude   0.0
+2017-06-07 08:52:53,818 INFO logFix(227) speed       nan
+2017-06-07 08:52:53,821 INFO logFix(228) sats        0
+2017-06-07 08:52:53,823 INFO logFix(229) epx         nan
+2017-06-07 08:52:53,826 INFO logFix(230) epy         nan
+2017-06-07 08:52:53,829 INFO logFix(231) eps         nan
+2017-06-07 08:52:53,832 INFO logFix(232)             
+2017-06-07 08:53:35,221 INFO logFix(223) GPS FIX
+2017-06-07 08:53:35,224 INFO logFix(224) status      0
+2017-06-07 08:53:35,227 INFO logFix(225) latitude    0.0
+2017-06-07 08:53:35,240 INFO logFix(226) longitude   0.0
+2017-06-07 08:53:35,242 INFO logFix(227) speed       nan
+2017-06-07 08:53:35,249 INFO logFix(228) sats        0
+2017-06-07 08:53:35,252 INFO logFix(229) epx         nan
+2017-06-07 08:53:35,255 INFO logFix(230) epy         nan
+2017-06-07 08:53:35,258 INFO logFix(231) eps         nan
+2017-06-07 08:53:35,260 INFO logFix(232)             
+2017-06-07 08:54:17,071 INFO logFix(223) GPS FIX
+2017-06-07 08:54:17,074 INFO logFix(224) status      0
+2017-06-07 08:54:17,077 INFO logFix(225) latitude    0.0
+2017-06-07 08:54:17,080 INFO logFix(226) longitude   0.0
+2017-06-07 08:54:17,082 INFO logFix(227) speed       nan
+2017-06-07 08:54:17,085 INFO logFix(228) sats        0
+2017-06-07 08:54:17,087 INFO logFix(229) epx         nan
+2017-06-07 08:54:17,091 INFO logFix(230) epy         nan
+2017-06-07 08:54:17,093 INFO logFix(231) eps         nan
+2017-06-07 08:54:17,095 INFO logFix(232)             
+2017-06-07 08:55:25,781 INFO <module>(366) Polygon PM RACING set
+2017-06-07 08:55:26,200 INFO <module>(409) Starting 1...
+2017-06-07 08:55:26,222 INFO <module>(415) File age in hours: 0.108672730856
+2017-06-07 08:55:26,224 INFO <module>(421) SESSION (07/06/17 08:55)
+2017-06-07 08:55:31,696 INFO <module>(448) Starting threads
+2017-06-07 08:55:31,715 INFO <module>(455) Threads are running
+2017-06-07 08:55:52,088 INFO logFix(223) GPS FIX
+2017-06-07 08:55:52,091 INFO logFix(224) status      0
+2017-06-07 08:55:52,094 INFO logFix(225) latitude    0.0
+2017-06-07 08:55:52,096 INFO logFix(226) longitude   0.0
+2017-06-07 08:55:52,099 INFO logFix(227) speed       nan
+2017-06-07 08:55:52,102 INFO logFix(228) sats        0
+2017-06-07 08:55:52,104 INFO logFix(229) epx         nan
+2017-06-07 08:55:52,107 INFO logFix(230) epy         nan
+2017-06-07 08:55:52,110 INFO logFix(231) eps         nan
+2017-06-07 08:55:52,113 INFO logFix(232)             
+2017-06-07 08:56:23,351 INFO logFix(223) GPS FIX
+2017-06-07 08:56:23,354 INFO logFix(224) status      0
+2017-06-07 08:56:23,357 INFO logFix(225) latitude    0.0
+2017-06-07 08:56:23,360 INFO logFix(226) longitude   0.0
+2017-06-07 08:56:23,362 INFO logFix(227) speed       nan
+2017-06-07 08:56:23,365 INFO logFix(228) sats        0
+2017-06-07 08:56:23,367 INFO logFix(229) epx         nan
+2017-06-07 08:56:23,371 INFO logFix(230) epy         nan
+2017-06-07 08:56:23,373 INFO logFix(231) eps         nan
+2017-06-07 08:56:23,376 INFO logFix(232)             
+                                                                                                                        2017-06-07 08:57:52,824 INFO <module>(366) Polygon PM RACING set
+2017-06-07 08:57:54,153 INFO <module>(409) Starting 1...
+2017-06-07 08:57:54,262 INFO <module>(415) File age in hours: 0.0397949410809
+2017-06-07 08:57:54,264 INFO <module>(421) SESSION (07/06/17 08:57)
+2017-06-07 08:57:59,779 INFO <module>(448) Starting threads
+2017-06-07 08:57:59,849 INFO <module>(455) Threads are running
+2017-06-07 08:58:20,261 INFO logFix(223) GPS FIX
+2017-06-07 08:58:20,264 INFO logFix(224) status      0
+2017-06-07 08:58:20,266 INFO logFix(225) latitude    0.0
+2017-06-07 08:58:20,274 INFO logFix(226) longitude   0.0
+2017-06-07 08:58:20,276 INFO logFix(227) speed       nan
+2017-06-07 08:58:20,279 INFO logFix(228) sats        0
+2017-06-07 08:58:20,282 INFO logFix(229) epx         nan
+2017-06-07 08:58:20,285 INFO logFix(230) epy         nan
+2017-06-07 08:58:20,287 INFO logFix(231) eps         nan
+2017-06-07 08:58:20,290 INFO logFix(232)             
+2017-06-07 08:58:51,592 INFO logFix(223) GPS FIX
+2017-06-07 08:58:51,595 INFO logFix(224) status      0
+2017-06-07 08:58:51,598 INFO logFix(225) latitude    0.0
+2017-06-07 08:58:51,601 INFO logFix(226) longitude   0.0
+2017-06-07 08:58:51,604 INFO logFix(227) speed       nan
+2017-06-07 08:58:51,617 INFO logFix(228) sats        0
+2017-06-07 08:58:51,620 INFO logFix(229) epx         nan
+2017-06-07 08:58:51,622 INFO logFix(230) epy         nan
+2017-06-07 08:58:51,625 INFO logFix(231) eps         nan
+2017-06-07 08:58:51,634 INFO logFix(232)             
+2017-06-07 08:59:23,333 INFO logFix(223) GPS FIX
+2017-06-07 08:59:23,336 INFO logFix(224) status      0
+2017-06-07 08:59:23,340 INFO logFix(225) latitude    0.0
+2017-06-07 08:59:23,342 INFO logFix(226) longitude   0.0
+2017-06-07 08:59:23,345 INFO logFix(227) speed       nan
+2017-06-07 08:59:23,348 INFO logFix(228) sats        0
+2017-06-07 08:59:23,351 INFO logFix(229) epx         nan
+2017-06-07 08:59:23,354 INFO logFix(230) epy         nan
+2017-06-07 08:59:23,357 INFO logFix(231) eps         nan
+2017-06-07 08:59:23,359 INFO logFix(232)             
+2017-06-07 08:59:54,792 INFO logFix(223) GPS FIX
+2017-06-07 08:59:54,795 INFO logFix(224) status      0
+2017-06-07 08:59:54,798 INFO logFix(225) latitude    0.0
+2017-06-07 08:59:54,800 INFO logFix(226) longitude   0.0
+2017-06-07 08:59:54,803 INFO logFix(227) speed       nan
+2017-06-07 08:59:54,805 INFO logFix(228) sats        0
+2017-06-07 08:59:54,807 INFO logFix(229) epx         nan
+2017-06-07 08:59:54,810 INFO logFix(230) epy         nan
+2017-06-07 08:59:54,813 INFO logFix(231) eps         nan
+2017-06-07 08:59:54,815 INFO logFix(232)             
+2017-06-07 09:00:26,177 INFO logFix(223) GPS FIX
+2017-06-07 09:00:26,180 INFO logFix(224) status      0
+2017-06-07 09:00:26,183 INFO logFix(225) latitude    0.0
+2017-06-07 09:00:26,186 INFO logFix(226) longitude   0.0
+2017-06-07 09:00:26,189 INFO logFix(227) speed       nan
+2017-06-07 09:00:26,192 INFO logFix(228) sats        0
+2017-06-07 09:00:26,196 INFO logFix(229) epx         nan
+2017-06-07 09:00:26,198 INFO logFix(230) epy         nan
+2017-06-07 09:00:26,203 INFO logFix(231) eps         nan
+2017-06-07 09:00:26,206 INFO logFix(232)             
+2017-06-07 09:00:57,684 INFO logFix(223) GPS FIX
+2017-06-07 09:00:57,688 INFO logFix(224) status      0
+2017-06-07 09:00:57,691 INFO logFix(225) latitude    0.0
+2017-06-07 09:00:57,694 INFO logFix(226) longitude   0.0
+2017-06-07 09:00:57,697 INFO logFix(227) speed       nan
+2017-06-07 09:00:57,700 INFO logFix(228) sats        0
+2017-06-07 09:00:57,702 INFO logFix(229) epx         nan
+2017-06-07 09:00:57,705 INFO logFix(230) epy         nan
+2017-06-07 09:00:57,708 INFO logFix(231) eps         nan
+2017-06-07 09:00:57,711 INFO logFix(232)             
+2017-06-07 09:01:28,993 INFO logFix(223) GPS FIX
+2017-06-07 09:01:28,996 INFO logFix(224) status      0
+2017-06-07 09:01:28,999 INFO logFix(225) latitude    0.0
+2017-06-07 09:01:29,001 INFO logFix(226) longitude   0.0
+2017-06-07 09:01:29,003 INFO logFix(227) speed       nan
+2017-06-07 09:01:29,006 INFO logFix(228) sats        0
+2017-06-07 09:01:29,008 INFO logFix(229) epx         nan
+2017-06-07 09:01:29,011 INFO logFix(230) epy         nan
+2017-06-07 09:01:29,013 INFO logFix(231) eps         nan
+2017-06-07 09:01:29,016 INFO logFix(232)             
+2017-06-07 09:02:00,298 INFO logFix(223) GPS FIX
+2017-06-07 09:02:00,302 INFO logFix(224) status      0
+2017-06-07 09:02:00,304 INFO logFix(225) latitude    0.0
+2017-06-07 09:02:00,307 INFO logFix(226) longitude   0.0
+2017-06-07 09:02:00,310 INFO logFix(227) speed       nan
+2017-06-07 09:02:00,312 INFO logFix(228) sats        0
+2017-06-07 09:02:00,315 INFO logFix(229) epx         nan
+2017-06-07 09:02:00,318 INFO logFix(230) epy         nan
+2017-06-07 09:02:00,321 INFO logFix(231) eps         nan
+2017-06-07 09:02:00,324 INFO logFix(232)             
+2017-06-07 09:02:31,605 INFO logFix(223) GPS FIX
+2017-06-07 09:02:31,608 INFO logFix(224) status      0
+2017-06-07 09:02:31,610 INFO logFix(225) latitude    0.0
+2017-06-07 09:02:31,612 INFO logFix(226) longitude   0.0
+2017-06-07 09:02:31,615 INFO logFix(227) speed       nan
+2017-06-07 09:02:31,617 INFO logFix(228) sats        0
+2017-06-07 09:02:31,619 INFO logFix(229) epx         nan
+2017-06-07 09:02:31,621 INFO logFix(230) epy         nan
+2017-06-07 09:02:31,624 INFO logFix(231) eps         nan
+2017-06-07 09:02:31,626 INFO logFix(232)             
+2017-06-07 09:03:03,018 INFO logFix(223) GPS FIX
+2017-06-07 09:03:03,021 INFO logFix(224) status      0
+2017-06-07 09:03:03,023 INFO logFix(225) latitude    0.0
+2017-06-07 09:03:03,025 INFO logFix(226) longitude   0.0
+2017-06-07 09:03:03,038 INFO logFix(227) speed       nan
+2017-06-07 09:03:03,040 INFO logFix(228) sats        0
+2017-06-07 09:03:03,043 INFO logFix(229) epx         nan
+2017-06-07 09:03:03,045 INFO logFix(230) epy         nan
+2017-06-07 09:03:03,054 INFO logFix(231) eps         nan
+2017-06-07 09:03:03,056 INFO logFix(232)             
+2017-06-07 09:03:34,755 INFO logFix(223) GPS FIX
+2017-06-07 09:03:34,759 INFO logFix(224) status      0
+2017-06-07 09:03:34,761 INFO logFix(225) latitude    0.0
+2017-06-07 09:03:34,764 INFO logFix(226) longitude   0.0
+2017-06-07 09:03:34,767 INFO logFix(227) speed       nan
+2017-06-07 09:03:34,770 INFO logFix(228) sats        0
+2017-06-07 09:03:34,772 INFO logFix(229) epx         nan
+2017-06-07 09:03:34,775 INFO logFix(230) epy         nan
+2017-06-07 09:03:34,778 INFO logFix(231) eps         nan
+2017-06-07 09:03:34,781 INFO logFix(232)             
+2017-06-07 09:04:06,114 INFO logFix(223) GPS FIX
+2017-06-07 09:04:06,118 INFO logFix(224) status      0
+2017-06-07 09:04:06,120 INFO logFix(225) latitude    0.0
+2017-06-07 09:04:06,122 INFO logFix(226) longitude   0.0
+2017-06-07 09:04:06,125 INFO logFix(227) speed       nan
+2017-06-07 09:04:06,127 INFO logFix(228) sats        0
+2017-06-07 09:04:06,130 INFO logFix(229) epx         nan
+2017-06-07 09:04:06,132 INFO logFix(230) epy         nan
+2017-06-07 09:04:06,135 INFO logFix(231) eps         nan
+2017-06-07 09:04:06,137 INFO logFix(232)             
+2017-06-07 09:04:37,497 INFO logFix(223) GPS FIX
+2017-06-07 09:04:37,500 INFO logFix(224) status      0
+2017-06-07 09:04:37,503 INFO logFix(225) latitude    0.0
+2017-06-07 09:04:37,505 INFO logFix(226) longitude   0.0
+2017-06-07 09:04:37,509 INFO logFix(227) speed       nan
+2017-06-07 09:04:37,511 INFO logFix(228) sats        0
+2017-06-07 09:04:37,514 INFO logFix(229) epx         nan
+2017-06-07 09:04:37,517 INFO logFix(230) epy         nan
+2017-06-07 09:04:37,520 INFO logFix(231) eps         nan
+2017-06-07 09:04:37,523 INFO logFix(232)             
+2017-06-07 09:05:08,855 INFO logFix(223) GPS FIX
+2017-06-07 09:05:08,859 INFO logFix(224) status      0
+2017-06-07 09:05:08,861 INFO logFix(225) latitude    0.0
+2017-06-07 09:05:08,864 INFO logFix(226) longitude   0.0
+2017-06-07 09:05:08,867 INFO logFix(227) speed       nan
+2017-06-07 09:05:08,870 INFO logFix(228) sats        0
+2017-06-07 09:05:08,873 INFO logFix(229) epx         nan
+2017-06-07 09:05:08,876 INFO logFix(230) epy         nan
+2017-06-07 09:05:08,878 INFO logFix(231) eps         nan
+2017-06-07 09:05:08,881 INFO logFix(232)             
+2017-06-07 09:05:40,171 INFO logFix(223) GPS FIX
+2017-06-07 09:05:40,175 INFO logFix(224) status      0
+2017-06-07 09:05:40,178 INFO logFix(225) latitude    0.0
+2017-06-07 09:05:40,180 INFO logFix(226) longitude   0.0
+2017-06-07 09:05:40,183 INFO logFix(227) speed       nan
+2017-06-07 09:05:40,186 INFO logFix(228) sats        0
+2017-06-07 09:05:40,189 INFO logFix(229) epx         nan
+2017-06-07 09:05:40,192 INFO logFix(230) epy         nan
+2017-06-07 09:05:40,195 INFO logFix(231) eps         nan
+2017-06-07 09:05:40,197 INFO logFix(232)             
+2017-06-07 09:06:11,505 INFO logFix(223) GPS FIX
+2017-06-07 09:06:11,509 INFO logFix(224) status      0
+2017-06-07 09:06:11,511 INFO logFix(225) latitude    0.0
+2017-06-07 09:06:11,514 INFO logFix(226) longitude   0.0
+2017-06-07 09:06:11,516 INFO logFix(227) speed       nan
+2017-06-07 09:06:11,519 INFO logFix(228) sats        0
+2017-06-07 09:06:11,522 INFO logFix(229) epx         nan
+2017-06-07 09:06:11,525 INFO logFix(230) epy         nan
+2017-06-07 09:06:11,528 INFO logFix(231) eps         nan
+2017-06-07 09:06:11,531 INFO logFix(232)             
+2017-06-07 09:06:42,850 INFO logFix(223) GPS FIX
+2017-06-07 09:06:42,854 INFO logFix(224) status      0
+2017-06-07 09:06:42,856 INFO logFix(225) latitude    0.0
+2017-06-07 09:06:42,859 INFO logFix(226) longitude   0.0
+2017-06-07 09:06:42,862 INFO logFix(227) speed       nan
+2017-06-07 09:06:42,865 INFO logFix(228) sats        0
+2017-06-07 09:06:42,868 INFO logFix(229) epx         nan
+2017-06-07 09:06:42,871 INFO logFix(230) epy         nan
+2017-06-07 09:06:42,873 INFO logFix(231) eps         nan
+2017-06-07 09:06:42,876 INFO logFix(232)             
+2017-06-07 09:07:14,163 INFO logFix(223) GPS FIX
+2017-06-07 09:07:14,166 INFO logFix(224) status      0
+2017-06-07 09:07:14,171 INFO logFix(225) latitude    0.0
+2017-06-07 09:07:14,173 INFO logFix(226) longitude   0.0
+2017-06-07 09:07:14,176 INFO logFix(227) speed       nan
+2017-06-07 09:07:14,178 INFO logFix(228) sats        0
+2017-06-07 09:07:14,181 INFO logFix(229) epx         nan
+2017-06-07 09:07:14,183 INFO logFix(230) epy         nan
+2017-06-07 09:07:14,186 INFO logFix(231) eps         nan
+2017-06-07 09:07:14,193 INFO logFix(232)             
+2017-06-07 09:07:45,851 INFO logFix(223) GPS FIX
+2017-06-07 09:07:45,854 INFO logFix(224) status      0
+2017-06-07 09:07:45,857 INFO logFix(225) latitude    0.0
+2017-06-07 09:07:45,860 INFO logFix(226) longitude   0.0
+2017-06-07 09:07:45,862 INFO logFix(227) speed       nan
+2017-06-07 09:07:45,865 INFO logFix(228) sats        0
+2017-06-07 09:07:45,868 INFO logFix(229) epx         nan
+2017-06-07 09:07:45,871 INFO logFix(230) epy         nan
+2017-06-07 09:07:45,874 INFO logFix(231) eps         nan
+2017-06-07 09:07:45,877 INFO logFix(232)             
+2017-06-07 09:08:17,178 INFO logFix(223) GPS FIX
+2017-06-07 09:08:17,181 INFO logFix(224) status      0
+2017-06-07 09:08:17,183 INFO logFix(225) latitude    0.0
+2017-06-07 09:08:17,185 INFO logFix(226) longitude   0.0
+2017-06-07 09:08:17,188 INFO logFix(227) speed       nan
+2017-06-07 09:08:17,190 INFO logFix(228) sats        0
+2017-06-07 09:08:17,192 INFO logFix(229) epx         nan
+2017-06-07 09:08:17,194 INFO logFix(230) epy         nan
+2017-06-07 09:08:17,197 INFO logFix(231) eps         nan
+2017-06-07 09:08:17,199 INFO logFix(232)             
+2017-06-07 09:08:48,469 INFO logFix(223) GPS FIX
+2017-06-07 09:08:48,473 INFO logFix(224) status      0
+2017-06-07 09:08:48,475 INFO logFix(225) latitude    0.0
+2017-06-07 09:08:48,478 INFO logFix(226) longitude   0.0
+2017-06-07 09:08:48,481 INFO logFix(227) speed       nan
+2017-06-07 09:08:48,483 INFO logFix(228) sats        0
+2017-06-07 09:08:48,486 INFO logFix(229) epx         nan
+2017-06-07 09:08:48,488 INFO logFix(230) epy         nan
+2017-06-07 09:08:48,491 INFO logFix(231) eps         nan
+2017-06-07 09:08:48,493 INFO logFix(232)             
+2017-06-07 09:09:19,804 INFO logFix(223) GPS FIX
+2017-06-07 09:09:19,808 INFO logFix(224) status      0
+2017-06-07 09:09:19,810 INFO logFix(225) latitude    0.0
+2017-06-07 09:09:19,812 INFO logFix(226) longitude   0.0
+2017-06-07 09:09:19,815 INFO logFix(227) speed       nan
+2017-06-07 09:09:19,818 INFO logFix(228) sats        0
+2017-06-07 09:09:19,820 INFO logFix(229) epx         nan
+2017-06-07 09:09:19,822 INFO logFix(230) epy         nan
+2017-06-07 09:09:19,825 INFO logFix(231) eps         nan
+2017-06-07 09:09:19,828 INFO logFix(232)             
+2017-06-07 09:09:51,091 INFO logFix(223) GPS FIX
+2017-06-07 09:09:51,093 INFO logFix(224) status      0
+2017-06-07 09:09:51,096 INFO logFix(225) latitude    0.0
+2017-06-07 09:09:51,099 INFO logFix(226) longitude   0.0
+2017-06-07 09:09:51,101 INFO logFix(227) speed       nan
+2017-06-07 09:09:51,104 INFO logFix(228) sats        0
+2017-06-07 09:09:51,106 INFO logFix(229) epx         nan
+2017-06-07 09:09:51,109 INFO logFix(230) epy         nan
+2017-06-07 09:09:51,112 INFO logFix(231) eps         nan
+2017-06-07 09:09:51,114 INFO logFix(232)             
+2017-06-07 09:10:22,377 INFO logFix(223) GPS FIX
+2017-06-07 09:10:22,380 INFO logFix(224) status      0
+2017-06-07 09:10:22,382 INFO logFix(225) latitude    0.0
+2017-06-07 09:10:22,385 INFO logFix(226) longitude   0.0
+2017-06-07 09:10:22,388 INFO logFix(227) speed       nan
+2017-06-07 09:10:22,390 INFO logFix(228) sats        0
+2017-06-07 09:10:22,392 INFO logFix(229) epx         nan
+2017-06-07 09:10:22,395 INFO logFix(230) epy         nan
+2017-06-07 09:10:22,398 INFO logFix(231) eps         nan
+2017-06-07 09:10:22,400 INFO logFix(232)             
+2017-06-07 09:10:53,641 INFO logFix(223) GPS FIX
+2017-06-07 09:10:53,644 INFO logFix(224) status      0
+2017-06-07 09:10:53,646 INFO logFix(225) latitude    0.0
+2017-06-07 09:10:53,649 INFO logFix(226) longitude   0.0
+2017-06-07 09:10:53,651 INFO logFix(227) speed       nan
+2017-06-07 09:10:53,653 INFO logFix(228) sats        0
+2017-06-07 09:10:53,655 INFO logFix(229) epx         nan
+2017-06-07 09:10:53,657 INFO logFix(230) epy         nan
+2017-06-07 09:10:53,660 INFO logFix(231) eps         nan
+2017-06-07 09:10:53,662 INFO logFix(232)             
+2017-06-07 09:11:25,049 INFO logFix(223) GPS FIX
+2017-06-07 09:11:25,052 INFO logFix(224) status      0
+2017-06-07 09:11:25,054 INFO logFix(225) latitude    0.0
+2017-06-07 09:11:25,056 INFO logFix(226) longitude   0.0
+2017-06-07 09:11:25,069 INFO logFix(227) speed       nan
+2017-06-07 09:11:25,071 INFO logFix(228) sats        0
+2017-06-07 09:11:25,077 INFO logFix(229) epx         nan
+2017-06-07 09:11:25,079 INFO logFix(230) epy         nan
+2017-06-07 09:11:25,081 INFO logFix(231) eps         nan
+2017-06-07 09:11:25,085 INFO logFix(232)             
+2017-06-07 09:11:56,742 INFO logFix(223) GPS FIX
+2017-06-07 09:11:56,745 INFO logFix(224) status      0
+2017-06-07 09:11:56,748 INFO logFix(225) latitude    0.0
+2017-06-07 09:11:56,750 INFO logFix(226) longitude   0.0
+2017-06-07 09:11:56,753 INFO logFix(227) speed       nan
+2017-06-07 09:11:56,755 INFO logFix(228) sats        0
+2017-06-07 09:11:56,757 INFO logFix(229) epx         nan
+2017-06-07 09:11:56,760 INFO logFix(230) epy         nan
+2017-06-07 09:11:56,763 INFO logFix(231) eps         nan
+2017-06-07 09:11:56,765 INFO logFix(232)             
+2017-06-07 09:12:28,032 INFO logFix(223) GPS FIX
+2017-06-07 09:12:28,035 INFO logFix(224) status      0
+2017-06-07 09:12:28,038 INFO logFix(225) latitude    0.0
+2017-06-07 09:12:28,040 INFO logFix(226) longitude   0.0
+2017-06-07 09:12:28,042 INFO logFix(227) speed       nan
+2017-06-07 09:12:28,044 INFO logFix(228) sats        0
+2017-06-07 09:12:28,046 INFO logFix(229) epx         nan
+2017-06-07 09:12:28,048 INFO logFix(230) epy         nan
+2017-06-07 09:12:28,051 INFO logFix(231) eps         nan
+2017-06-07 09:12:28,053 INFO logFix(232)             
+2017-06-07 09:12:59,423 INFO logFix(223) GPS FIX
+2017-06-07 09:12:59,427 INFO logFix(224) status      0
+2017-06-07 09:12:59,430 INFO logFix(225) latitude    0.0
+2017-06-07 09:12:59,432 INFO logFix(226) longitude   0.0
+2017-06-07 09:12:59,435 INFO logFix(227) speed       nan
+2017-06-07 09:12:59,437 INFO logFix(228) sats        0
+2017-06-07 09:12:59,440 INFO logFix(229) epx         nan
+2017-06-07 09:12:59,442 INFO logFix(230) epy         nan
+2017-06-07 09:12:59,446 INFO logFix(231) eps         nan
+2017-06-07 09:12:59,448 INFO logFix(232)             
+2017-06-07 09:13:30,732 INFO logFix(223) GPS FIX
+2017-06-07 09:13:30,735 INFO logFix(224) status      0
+2017-06-07 09:13:30,738 INFO logFix(225) latitude    0.0
+2017-06-07 09:13:30,740 INFO logFix(226) longitude   0.0
+2017-06-07 09:13:30,742 INFO logFix(227) speed       nan
+2017-06-07 09:13:30,745 INFO logFix(228) sats        0
+2017-06-07 09:13:30,747 INFO logFix(229) epx         nan
+2017-06-07 09:13:30,750 INFO logFix(230) epy         nan
+2017-06-07 09:13:30,753 INFO logFix(231) eps         nan
+2017-06-07 09:13:30,755 INFO logFix(232)             
+2017-06-07 09:14:01,975 INFO logFix(223) GPS FIX
+2017-06-07 09:14:01,978 INFO logFix(224) status      0
+2017-06-07 09:14:01,980 INFO logFix(225) latitude    0.0
+2017-06-07 09:14:01,982 INFO logFix(226) longitude   0.0
+2017-06-07 09:14:01,984 INFO logFix(227) speed       nan
+2017-06-07 09:14:01,986 INFO logFix(228) sats        0
+2017-06-07 09:14:01,989 INFO logFix(229) epx         nan
+2017-06-07 09:14:01,991 INFO logFix(230) epy         nan
+2017-06-07 09:14:01,993 INFO logFix(231) eps         nan
+2017-06-07 09:14:01,995 INFO logFix(232)             
+2017-06-07 09:14:33,225 INFO logFix(223) GPS FIX
+2017-06-07 09:14:33,228 INFO logFix(224) status      0
+2017-06-07 09:14:33,230 INFO logFix(225) latitude    0.0
+2017-06-07 09:14:33,233 INFO logFix(226) longitude   0.0
+2017-06-07 09:14:33,235 INFO logFix(227) speed       nan
+2017-06-07 09:14:33,238 INFO logFix(228) sats        0
+2017-06-07 09:14:33,240 INFO logFix(229) epx         nan
+2017-06-07 09:14:33,243 INFO logFix(230) epy         nan
+2017-06-07 09:14:33,246 INFO logFix(231) eps         nan
+2017-06-07 09:14:33,248 INFO logFix(232)             
+2017-06-07 09:15:04,460 INFO logFix(223) GPS FIX
+2017-06-07 09:15:04,462 INFO logFix(224) status      0
+2017-06-07 09:15:04,464 INFO logFix(225) latitude    0.0
+2017-06-07 09:15:04,466 INFO logFix(226) longitude   0.0
+2017-06-07 09:15:04,469 INFO logFix(227) speed       nan
+2017-06-07 09:15:04,471 INFO logFix(228) sats        0
+2017-06-07 09:15:04,474 INFO logFix(229) epx         nan
+2017-06-07 09:15:04,476 INFO logFix(230) epy         nan
+2017-06-07 09:15:04,479 INFO logFix(231) eps         nan
+2017-06-07 09:15:04,481 INFO logFix(232)             
+2017-06-07 09:15:35,730 INFO logFix(223) GPS FIX
+2017-06-07 09:15:35,733 INFO logFix(224) status      0
+2017-06-07 09:15:35,735 INFO logFix(225) latitude    0.0
+2017-06-07 09:15:35,777 INFO logFix(226) longitude   0.0
+2017-06-07 09:15:35,779 INFO logFix(227) speed       nan
+2017-06-07 09:15:35,781 INFO logFix(228) sats        0
+2017-06-07 09:15:35,822 INFO logFix(229) epx         nan
+2017-06-07 09:15:35,824 INFO logFix(230) epy         nan
+2017-06-07 09:15:35,851 INFO logFix(231) eps         nan
+2017-06-07 09:15:35,853 INFO logFix(232)             
+2017-06-07 09:17:03,725 INFO <module>(366) Polygon PM RACING set
+2017-06-07 09:17:04,177 INFO <module>(409) Starting 1...
+2017-06-07 09:17:04,200 INFO <module>(415) File age in hours: 0.318111058341
+2017-06-07 09:17:04,202 INFO <module>(421) SESSION (07/06/17 09:17)
+2017-06-07 09:17:09,673 INFO <module>(448) Starting threads
+2017-06-07 09:17:09,694 INFO <module>(455) Threads are running
+2017-06-07 09:17:19,889 INFO logFix(223) GPS FIX
+2017-06-07 09:17:19,891 INFO logFix(224) status      0
+2017-06-07 09:17:19,894 INFO logFix(225) latitude    0.0
+2017-06-07 09:17:19,896 INFO logFix(226) longitude   0.0
+2017-06-07 09:17:19,899 INFO logFix(227) speed       nan
+2017-06-07 09:17:19,901 INFO logFix(228) sats        0
+2017-06-07 09:17:19,904 INFO logFix(229) epx         nan
+2017-06-07 09:17:19,907 INFO logFix(230) epy         nan
+2017-06-07 09:17:19,910 INFO logFix(231) eps         nan
+2017-06-07 09:17:19,912 INFO logFix(232)             
+2017-06-07 09:17:40,966 INFO logFix(223) GPS FIX
+2017-06-07 09:17:40,969 INFO logFix(224) status      0
+2017-06-07 09:17:40,971 INFO logFix(225) latitude    0.0
+2017-06-07 09:17:40,974 INFO logFix(226) longitude   0.0
+2017-06-07 09:17:40,976 INFO logFix(227) speed       nan
+2017-06-07 09:17:40,979 INFO logFix(228) sats        0
+2017-06-07 09:17:40,981 INFO logFix(229) epx         nan
+2017-06-07 09:17:40,984 INFO logFix(230) epy         nan
+2017-06-07 09:17:40,986 INFO logFix(231) eps         nan
+2017-06-07 09:17:40,988 INFO logFix(232)             
+2017-06-07 09:18:02,023 INFO logFix(223) GPS FIX
+2017-06-07 09:18:02,026 INFO logFix(224) status      0
+2017-06-07 09:18:02,030 INFO logFix(225) latitude    0.0
+2017-06-07 09:18:02,032 INFO logFix(226) longitude   0.0
+2017-06-07 09:18:02,034 INFO logFix(227) speed       nan
+2017-06-07 09:18:02,036 INFO logFix(228) sats        0
+2017-06-07 09:18:02,039 INFO logFix(229) epx         nan
+2017-06-07 09:18:02,041 INFO logFix(230) epy         nan
+2017-06-07 09:18:02,043 INFO logFix(231) eps         nan
+2017-06-07 09:18:02,045 INFO logFix(232)             
+2017-06-07 09:18:23,429 INFO logFix(223) GPS FIX
+2017-06-07 09:18:23,432 INFO logFix(224) status      0
+2017-06-07 09:18:23,434 INFO logFix(225) latitude    0.0
+2017-06-07 09:18:23,437 INFO logFix(226) longitude   0.0
+2017-06-07 09:18:23,440 INFO logFix(227) speed       nan
+2017-06-07 09:18:23,442 INFO logFix(228) sats        0
+2017-06-07 09:18:23,445 INFO logFix(229) epx         nan
+2017-06-07 09:18:23,447 INFO logFix(230) epy         nan
+2017-06-07 09:18:23,450 INFO logFix(231) eps         nan
+2017-06-07 09:18:23,453 INFO logFix(232)             
+2017-06-07 09:18:44,539 INFO logFix(223) GPS FIX
+2017-06-07 09:18:44,542 INFO logFix(224) status      0
+2017-06-07 09:18:44,545 INFO logFix(225) latitude    0.0
+2017-06-07 09:18:44,548 INFO logFix(226) longitude   0.0
+2017-06-07 09:18:44,550 INFO logFix(227) speed       nan
+2017-06-07 09:18:44,552 INFO logFix(228) sats        0
+2017-06-07 09:18:44,555 INFO logFix(229) epx         nan
+2017-06-07 09:18:44,558 INFO logFix(230) epy         nan
+2017-06-07 09:18:44,561 INFO logFix(231) eps         nan
+2017-06-07 09:18:44,563 INFO logFix(232)             
+2017-06-07 09:19:09,502 INFO <module>(366) Polygon PM RACING set
+2017-06-07 09:19:09,927 INFO <module>(409) Starting 1...
+2017-06-07 09:19:09,949 INFO <module>(415) File age in hours: 0.0335968361298
+2017-06-07 09:19:09,951 INFO <module>(421) SESSION (07/06/17 09:19)
+2017-06-07 09:19:15,422 INFO <module>(448) Starting threads
+2017-06-07 09:19:15,440 INFO <module>(455) Threads are running
+2017-06-07 09:19:25,642 INFO logFix(223) GPS FIX
+2017-06-07 09:19:25,644 INFO logFix(224) status      0
+2017-06-07 09:19:25,646 INFO logFix(225) latitude    0.0
+2017-06-07 09:19:25,659 INFO logFix(226) longitude   0.0
+2017-06-07 09:19:25,661 INFO logFix(227) speed       nan
+2017-06-07 09:19:25,663 INFO logFix(228) sats        0
+2017-06-07 09:19:25,665 INFO logFix(229) epx         nan
+2017-06-07 09:19:25,670 INFO logFix(230) epy         nan
+2017-06-07 09:19:25,672 INFO logFix(231) eps         nan
+2017-06-07 09:19:25,674 INFO logFix(232)             
+2017-06-07 09:19:47,055 INFO logFix(223) GPS FIX
+2017-06-07 09:19:47,058 INFO logFix(224) status      0
+2017-06-07 09:19:47,061 INFO logFix(225) latitude    0.0
+2017-06-07 09:19:47,064 INFO logFix(226) longitude   0.0
+2017-06-07 09:19:47,067 INFO logFix(227) speed       nan
+2017-06-07 09:19:47,069 INFO logFix(228) sats        0
+2017-06-07 09:19:47,072 INFO logFix(229) epx         nan
+2017-06-07 09:19:47,075 INFO logFix(230) epy         nan
+2017-06-07 09:19:47,078 INFO logFix(231) eps         nan
+2017-06-07 09:19:47,080 INFO logFix(232)             
+2017-06-07 09:20:08,239 INFO logFix(223) GPS FIX
+2017-06-07 09:20:08,242 INFO logFix(224) status      0
+2017-06-07 09:20:08,244 INFO logFix(225) latitude    0.0
+2017-06-07 09:20:08,248 INFO logFix(226) longitude   0.0
+2017-06-07 09:20:08,250 INFO logFix(227) speed       nan
+2017-06-07 09:20:08,252 INFO logFix(228) sats        0
+2017-06-07 09:20:08,255 INFO logFix(229) epx         nan
+2017-06-07 09:20:08,258 INFO logFix(230) epy         nan
+2017-06-07 09:20:08,261 INFO logFix(231) eps         nan
+2017-06-07 09:20:08,263 INFO logFix(232)             
+2017-06-07 09:20:29,431 INFO logFix(223) GPS FIX
+2017-06-07 09:20:29,433 INFO logFix(224) status      0
+2017-06-07 09:20:29,436 INFO logFix(225) latitude    0.0
+2017-06-07 09:20:29,438 INFO logFix(226) longitude   0.0
+2017-06-07 09:20:29,440 INFO logFix(227) speed       nan
+2017-06-07 09:20:29,443 INFO logFix(228) sats        0
+2017-06-07 09:20:29,445 INFO logFix(229) epx         nan
+2017-06-07 09:20:29,447 INFO logFix(230) epy         nan
+2017-06-07 09:20:29,450 INFO logFix(231) eps         nan
+2017-06-07 09:20:29,452 INFO logFix(232)             
+2017-06-07 09:20:50,523 INFO logFix(223) GPS FIX
+2017-06-07 09:20:50,526 INFO logFix(224) status      0
+2017-06-07 09:20:50,529 INFO logFix(225) latitude    0.0
+2017-06-07 09:20:50,531 INFO logFix(226) longitude   0.0
+2017-06-07 09:20:50,533 INFO logFix(227) speed       nan
+2017-06-07 09:20:50,535 INFO logFix(228) sats        0
+2017-06-07 09:20:50,537 INFO logFix(229) epx         nan
+2017-06-07 09:20:50,540 INFO logFix(230) epy         nan
+2017-06-07 09:20:50,542 INFO logFix(231) eps         nan
+2017-06-07 09:20:50,545 INFO logFix(232)             
+2017-06-07 09:21:15,201 INFO <module>(366) Polygon PM RACING set
+2017-06-07 09:21:15,608 INFO <module>(409) Starting 1...
+2017-06-07 09:21:15,640 INFO <module>(415) File age in hours: 0.0335110530588
+2017-06-07 09:21:15,642 INFO <module>(421) SESSION (07/06/17 09:21)
+2017-06-07 09:21:21,115 INFO <module>(448) Starting threads
+2017-06-07 09:21:21,137 INFO <module>(455) Threads are running
+2017-06-07 09:21:31,341 INFO logFix(223) GPS FIX
+2017-06-07 09:21:31,344 INFO logFix(224) status      0
+2017-06-07 09:21:31,346 INFO logFix(225) latitude    0.0
+2017-06-07 09:21:31,349 INFO logFix(226) longitude   0.0
+2017-06-07 09:21:31,351 INFO logFix(227) speed       nan
+2017-06-07 09:21:31,354 INFO logFix(228) sats        0
+2017-06-07 09:21:31,357 INFO logFix(229) epx         nan
+2017-06-07 09:21:31,360 INFO logFix(230) epy         nan
+2017-06-07 09:21:31,362 INFO logFix(231) eps         nan
+2017-06-07 09:21:31,365 INFO logFix(232)             
+2017-06-07 09:21:52,447 INFO logFix(223) GPS FIX
+2017-06-07 09:21:52,450 INFO logFix(224) status      0
+2017-06-07 09:21:52,452 INFO logFix(225) latitude    0.0
+2017-06-07 09:21:52,454 INFO logFix(226) longitude   0.0
+2017-06-07 09:21:52,456 INFO logFix(227) speed       nan
+2017-06-07 09:21:52,459 INFO logFix(228) sats        0
+2017-06-07 09:21:52,461 INFO logFix(229) epx         nan
+2017-06-07 09:21:52,464 INFO logFix(230) epy         nan
+2017-06-07 09:21:52,466 INFO logFix(231) eps         nan
+2017-06-07 09:21:52,468 INFO logFix(232)             
+2017-06-07 09:22:13,542 INFO logFix(223) GPS FIX
+2017-06-07 09:22:13,545 INFO logFix(224) status      0
+2017-06-07 09:22:13,557 INFO logFix(225) latitude    0.0
+2017-06-07 09:22:13,560 INFO logFix(226) longitude   0.0
+2017-06-07 09:22:13,561 INFO logFix(227) speed       nan
+2017-06-07 09:22:13,564 INFO logFix(228) sats        0
+2017-06-07 09:22:13,566 INFO logFix(229) epx         nan
+2017-06-07 09:22:13,571 INFO logFix(230) epy         nan
+2017-06-07 09:22:13,573 INFO logFix(231) eps         nan
+2017-06-07 09:22:13,575 INFO logFix(232)             
+2017-06-07 09:22:34,982 INFO logFix(223) GPS FIX
+2017-06-07 09:22:34,985 INFO logFix(224) status      0
+2017-06-07 09:22:34,988 INFO logFix(225) latitude    0.0
+2017-06-07 09:22:34,991 INFO logFix(226) longitude   0.0
+2017-06-07 09:22:34,993 INFO logFix(227) speed       nan
+2017-06-07 09:22:34,996 INFO logFix(228) sats        0
+2017-06-07 09:22:34,999 INFO logFix(229) epx         nan
+2017-06-07 09:22:35,001 INFO logFix(230) epy         nan
+2017-06-07 09:22:35,003 INFO logFix(231) eps         nan
+2017-06-07 09:22:35,007 INFO logFix(232)             
+2017-06-07 09:22:56,059 INFO logFix(223) GPS FIX
+2017-06-07 09:22:56,062 INFO logFix(224) status      0
+2017-06-07 09:22:56,065 INFO logFix(225) latitude    0.0
+2017-06-07 09:22:56,068 INFO logFix(226) longitude   0.0
+2017-06-07 09:22:56,070 INFO logFix(227) speed       nan
+2017-06-07 09:22:56,073 INFO logFix(228) sats        0
+2017-06-07 09:22:56,075 INFO logFix(229) epx         nan
+2017-06-07 09:22:56,078 INFO logFix(230) epy         nan
+2017-06-07 09:22:56,081 INFO logFix(231) eps         nan
+2017-06-07 09:22:56,083 INFO logFix(232)             
+2017-06-07 09:23:17,153 INFO logFix(223) GPS FIX
+2017-06-07 09:23:17,156 INFO logFix(224) status      0
+2017-06-07 09:23:17,159 INFO logFix(225) latitude    0.0
+2017-06-07 09:23:17,160 INFO logFix(226) longitude   0.0
+2017-06-07 09:23:17,163 INFO logFix(227) speed       nan
+2017-06-07 09:23:17,165 INFO logFix(228) sats        0
+2017-06-07 09:23:17,167 INFO logFix(229) epx         nan
+2017-06-07 09:23:17,170 INFO logFix(230) epy         nan
+2017-06-07 09:23:17,172 INFO logFix(231) eps         nan
+2017-06-07 09:23:17,174 INFO logFix(232)             
+2017-06-07 09:23:38,268 INFO logFix(223) GPS FIX
+2017-06-07 09:23:38,271 INFO logFix(224) status      0
+2017-06-07 09:23:38,273 INFO logFix(225) latitude    0.0
+2017-06-07 09:23:38,275 INFO logFix(226) longitude   0.0
+2017-06-07 09:23:38,284 INFO logFix(227) speed       nan
+2017-06-07 09:23:38,286 INFO logFix(228) sats        0
+2017-06-07 09:23:38,288 INFO logFix(229) epx         nan
+2017-06-07 09:23:38,290 INFO logFix(230) epy         nan
+2017-06-07 09:23:38,292 INFO logFix(231) eps         nan
+2017-06-07 09:23:38,295 INFO logFix(232)             
+2017-06-07 09:23:59,453 INFO logFix(223) GPS FIX
+2017-06-07 09:23:59,456 INFO logFix(224) status      0
+2017-06-07 09:23:59,459 INFO logFix(225) latitude    0.0
+2017-06-07 09:23:59,461 INFO logFix(226) longitude   0.0
+2017-06-07 09:23:59,464 INFO logFix(227) speed       nan
+2017-06-07 09:23:59,466 INFO logFix(228) sats        0
+2017-06-07 09:23:59,469 INFO logFix(229) epx         nan
+2017-06-07 09:23:59,472 INFO logFix(230) epy         nan
+2017-06-07 09:23:59,474 INFO logFix(231) eps         nan
+2017-06-07 09:23:59,477 INFO logFix(232)             
+2017-06-07 09:24:20,534 INFO logFix(223) GPS FIX
+2017-06-07 09:24:20,537 INFO logFix(224) status      0
+2017-06-07 09:24:20,540 INFO logFix(225) latitude    0.0
+2017-06-07 09:24:20,543 INFO logFix(226) longitude   0.0
+2017-06-07 09:24:20,545 INFO logFix(227) speed       nan
+2017-06-07 09:24:20,547 INFO logFix(228) sats        0
+2017-06-07 09:24:20,550 INFO logFix(229) epx         nan
+2017-06-07 09:24:20,553 INFO logFix(230) epy         nan
+2017-06-07 09:24:20,556 INFO logFix(231) eps         nan
+2017-06-07 09:24:20,558 INFO logFix(232)             
+2017-06-07 09:24:41,650 INFO logFix(223) GPS FIX
+2017-06-07 09:24:41,653 INFO logFix(224) status      0
+2017-06-07 09:24:41,655 INFO logFix(225) latitude    0.0
+2017-06-07 09:24:41,658 INFO logFix(226) longitude   0.0
+2017-06-07 09:24:41,661 INFO logFix(227) speed       nan
+2017-06-07 09:24:41,663 INFO logFix(228) sats        0
+2017-06-07 09:24:41,666 INFO logFix(229) epx         nan
+2017-06-07 09:24:41,668 INFO logFix(230) epy         nan
+2017-06-07 09:24:41,671 INFO logFix(231) eps         nan
+2017-06-07 09:24:41,673 INFO logFix(232)             
+2017-06-07 09:25:02,729 INFO logFix(223) GPS FIX
+2017-06-07 09:25:02,732 INFO logFix(224) status      0
+2017-06-07 09:25:02,734 INFO logFix(225) latitude    0.0
+2017-06-07 09:25:02,736 INFO logFix(226) longitude   0.0
+2017-06-07 09:25:02,739 INFO logFix(227) speed       nan
+2017-06-07 09:25:02,741 INFO logFix(228) sats        0
+2017-06-07 09:25:02,743 INFO logFix(229) epx         nan
+2017-06-07 09:25:02,746 INFO logFix(230) epy         nan
+2017-06-07 09:25:02,748 INFO logFix(231) eps         nan
+2017-06-07 09:25:02,750 INFO logFix(232)             
+2017-06-07 09:25:23,815 INFO logFix(223) GPS FIX
+2017-06-07 09:25:23,819 INFO logFix(224) status      0
+2017-06-07 09:25:23,821 INFO logFix(225) latitude    0.0
+2017-06-07 09:25:23,824 INFO logFix(226) longitude   0.0
+2017-06-07 09:25:23,826 INFO logFix(227) speed       nan
+2017-06-07 09:25:23,829 INFO logFix(228) sats        0
+2017-06-07 09:25:23,832 INFO logFix(229) epx         nan
+2017-06-07 09:25:23,834 INFO logFix(230) epy         nan
+2017-06-07 09:25:23,837 INFO logFix(231) eps         nan
+2017-06-07 09:25:23,840 INFO logFix(232)             
+2017-06-07 09:25:45,220 INFO logFix(223) GPS FIX
+2017-06-07 09:25:45,223 INFO logFix(224) status      0
+2017-06-07 09:25:45,225 INFO logFix(225) latitude    0.0
+2017-06-07 09:25:45,228 INFO logFix(226) longitude   0.0
+2017-06-07 09:25:45,231 INFO logFix(227) speed       nan
+2017-06-07 09:25:45,233 INFO logFix(228) sats        0
+2017-06-07 09:25:45,236 INFO logFix(229) epx         nan
+2017-06-07 09:25:45,239 INFO logFix(230) epy         nan
+2017-06-07 09:25:45,241 INFO logFix(231) eps         nan
+2017-06-07 09:25:45,244 INFO logFix(232)             
+2017-06-07 09:26:06,295 INFO logFix(223) GPS FIX
+2017-06-07 09:26:06,298 INFO logFix(224) status      0
+2017-06-07 09:26:06,301 INFO logFix(225) latitude    0.0
+2017-06-07 09:26:06,303 INFO logFix(226) longitude   0.0
+2017-06-07 09:26:06,306 INFO logFix(227) speed       nan
+2017-06-07 09:26:06,309 INFO logFix(228) sats        0
+2017-06-07 09:26:06,311 INFO logFix(229) epx         nan
+2017-06-07 09:26:06,314 INFO logFix(230) epy         nan
+2017-06-07 09:26:06,316 INFO logFix(231) eps         nan
+2017-06-07 09:26:06,319 INFO logFix(232)             
+2017-06-07 09:26:27,354 INFO logFix(223) GPS FIX
+2017-06-07 09:26:27,356 INFO logFix(224) status      0
+2017-06-07 09:26:27,359 INFO logFix(225) latitude    0.0
+2017-06-07 09:26:27,361 INFO logFix(226) longitude   0.0
+2017-06-07 09:26:27,364 INFO logFix(227) speed       nan
+2017-06-07 09:26:27,366 INFO logFix(228) sats        0
+2017-06-07 09:26:27,368 INFO logFix(229) epx         nan
+2017-06-07 09:26:27,370 INFO logFix(230) epy         nan
+2017-06-07 09:26:27,372 INFO logFix(231) eps         nan
+2017-06-07 09:26:27,375 INFO logFix(232)             
+2017-06-07 09:26:48,449 INFO logFix(223) GPS FIX
+2017-06-07 09:26:48,452 INFO logFix(224) status      0
+2017-06-07 09:26:48,454 INFO logFix(225) latitude    0.0
+2017-06-07 09:26:48,456 INFO logFix(226) longitude   0.0
+2017-06-07 09:26:48,469 INFO logFix(227) speed       nan
+2017-06-07 09:26:48,471 INFO logFix(228) sats        0
+2017-06-07 09:26:48,474 INFO logFix(229) epx         nan
+2017-06-07 09:26:48,476 INFO logFix(230) epy         nan
+2017-06-07 09:26:48,484 INFO logFix(231) eps         nan
+2017-06-07 09:26:48,486 INFO logFix(232)             
+2017-06-07 09:27:09,932 INFO logFix(223) GPS FIX
+2017-06-07 09:27:09,935 INFO logFix(224) status      0
+2017-06-07 09:27:09,941 INFO logFix(225) latitude    0.0
+2017-06-07 09:27:09,944 INFO logFix(226) longitude   0.0
+2017-06-07 09:27:09,947 INFO logFix(227) speed       nan
+2017-06-07 09:27:09,949 INFO logFix(228) sats        0
+2017-06-07 09:27:09,951 INFO logFix(229) epx         nan
+2017-06-07 09:27:09,954 INFO logFix(230) epy         nan
+2017-06-07 09:27:09,958 INFO logFix(231) eps         nan
+2017-06-07 09:27:09,960 INFO logFix(232)             
+2017-06-07 09:27:31,020 INFO logFix(223) GPS FIX
+2017-06-07 09:27:31,024 INFO logFix(224) status      0
+2017-06-07 09:27:31,027 INFO logFix(225) latitude    0.0
+2017-06-07 09:27:31,030 INFO logFix(226) longitude   0.0
+2017-06-07 09:27:31,032 INFO logFix(227) speed       nan
+2017-06-07 09:27:31,034 INFO logFix(228) sats        0
+2017-06-07 09:27:31,038 INFO logFix(229) epx         nan
+2017-06-07 09:27:31,040 INFO logFix(230) epy         nan
+2017-06-07 09:27:31,043 INFO logFix(231) eps         nan
+2017-06-07 09:27:31,045 INFO logFix(232)             
+2017-06-07 09:27:52,142 INFO logFix(223) GPS FIX
+2017-06-07 09:27:52,145 INFO logFix(224) status      0
+2017-06-07 09:27:52,147 INFO logFix(225) latitude    0.0
+2017-06-07 09:27:52,149 INFO logFix(226) longitude   0.0
+2017-06-07 09:27:52,151 INFO logFix(227) speed       nan
+2017-06-07 09:27:52,154 INFO logFix(228) sats        0
+2017-06-07 09:27:52,156 INFO logFix(229) epx         nan
+2017-06-07 09:27:52,159 INFO logFix(230) epy         nan
+2017-06-07 09:27:52,161 INFO logFix(231) eps         nan
+2017-06-07 09:27:52,163 INFO logFix(232)             
+2017-06-07 09:28:13,219 INFO logFix(223) GPS FIX
+2017-06-07 09:28:13,222 INFO logFix(224) status      0
+2017-06-07 09:28:13,224 INFO logFix(225) latitude    0.0
+2017-06-07 09:28:13,226 INFO logFix(226) longitude   0.0
+2017-06-07 09:28:13,239 INFO logFix(227) speed       nan
+2017-06-07 09:28:13,241 INFO logFix(228) sats        0
+2017-06-07 09:28:13,243 INFO logFix(229) epx         nan
+2017-06-07 09:28:13,245 INFO logFix(230) epy         nan
+2017-06-07 09:28:13,253 INFO logFix(231) eps         nan
+2017-06-07 09:28:13,255 INFO logFix(232)             
+2017-06-07 09:28:34,546 INFO logFix(223) GPS FIX
+2017-06-07 09:28:34,550 INFO logFix(224) status      0
+2017-06-07 09:28:34,552 INFO logFix(225) latitude    0.0
+2017-06-07 09:28:34,554 INFO logFix(226) longitude   0.0
+2017-06-07 09:28:34,558 INFO logFix(227) speed       nan
+2017-06-07 09:28:34,560 INFO logFix(228) sats        0
+2017-06-07 09:28:34,562 INFO logFix(229) epx         nan
+2017-06-07 09:28:34,565 INFO logFix(230) epy         nan
+2017-06-07 09:28:34,568 INFO logFix(231) eps         nan
+2017-06-07 09:28:34,570 INFO logFix(232)             
+2017-06-07 09:28:55,626 INFO logFix(223) GPS FIX
+2017-06-07 09:28:55,629 INFO logFix(224) status      0
+2017-06-07 09:28:55,632 INFO logFix(225) latitude    0.0
+2017-06-07 09:28:55,634 INFO logFix(226) longitude   0.0
+2017-06-07 09:28:55,636 INFO logFix(227) speed       nan
+2017-06-07 09:28:55,639 INFO logFix(228) sats        0
+2017-06-07 09:28:55,642 INFO logFix(229) epx         nan
+2017-06-07 09:28:55,644 INFO logFix(230) epy         nan
+2017-06-07 09:28:55,647 INFO logFix(231) eps         nan
+2017-06-07 09:28:55,650 INFO logFix(232)             
+2017-06-07 09:29:16,758 INFO logFix(223) GPS FIX
+2017-06-07 09:29:16,761 INFO logFix(224) status      0
+2017-06-07 09:29:16,763 INFO logFix(225) latitude    0.0
+2017-06-07 09:29:16,765 INFO logFix(226) longitude   0.0
+2017-06-07 09:29:16,768 INFO logFix(227) speed       nan
+2017-06-07 09:29:16,770 INFO logFix(228) sats        0
+2017-06-07 09:29:16,773 INFO logFix(229) epx         nan
+2017-06-07 09:29:16,776 INFO logFix(230) epy         nan
+2017-06-07 09:29:16,779 INFO logFix(231) eps         nan
+2017-06-07 09:29:16,781 INFO logFix(232)             
+2017-06-07 09:29:37,845 INFO logFix(223) GPS FIX
+2017-06-07 09:29:37,847 INFO logFix(224) status      0
+2017-06-07 09:29:37,850 INFO logFix(225) latitude    0.0
+2017-06-07 09:29:37,853 INFO logFix(226) longitude   0.0
+2017-06-07 09:29:37,855 INFO logFix(227) speed       nan
+2017-06-07 09:29:37,857 INFO logFix(228) sats        0
+2017-06-07 09:29:37,859 INFO logFix(229) epx         nan
+2017-06-07 09:29:37,861 INFO logFix(230) epy         nan
+2017-06-07 09:29:37,864 INFO logFix(231) eps         nan
+2017-06-07 09:29:37,866 INFO logFix(232)             
+2017-06-07 09:29:58,909 INFO logFix(223) GPS FIX
+2017-06-07 09:29:58,912 INFO logFix(224) status      0
+2017-06-07 09:29:58,914 INFO logFix(225) latitude    0.0
+2017-06-07 09:29:58,917 INFO logFix(226) longitude   0.0
+2017-06-07 09:29:58,920 INFO logFix(227) speed       nan
+2017-06-07 09:29:58,922 INFO logFix(228) sats        0
+2017-06-07 09:29:58,925 INFO logFix(229) epx         nan
+2017-06-07 09:29:58,927 INFO logFix(230) epy         nan
+2017-06-07 09:29:58,930 INFO logFix(231) eps         nan
+2017-06-07 09:29:58,932 INFO logFix(232)             
+2017-06-07 09:30:20,089 INFO logFix(223) GPS FIX
+2017-06-07 09:30:20,092 INFO logFix(224) status      0
+2017-06-07 09:30:20,094 INFO logFix(225) latitude    0.0
+2017-06-07 09:30:20,097 INFO logFix(226) longitude   0.0
+2017-06-07 09:30:20,100 INFO logFix(227) speed       nan
+2017-06-07 09:30:20,102 INFO logFix(228) sats        0
+2017-06-07 09:30:20,105 INFO logFix(229) epx         nan
+2017-06-07 09:30:20,107 INFO logFix(230) epy         nan
+2017-06-07 09:30:20,110 INFO logFix(231) eps         nan
+2017-06-07 09:30:20,113 INFO logFix(232)             
+2017-06-07 09:30:41,161 INFO logFix(223) GPS FIX
+2017-06-07 09:30:41,164 INFO logFix(224) status      0
+2017-06-07 09:30:41,166 INFO logFix(225) latitude    0.0
+2017-06-07 09:30:41,169 INFO logFix(226) longitude   0.0
+2017-06-07 09:30:41,172 INFO logFix(227) speed       nan
+2017-06-07 09:30:41,174 INFO logFix(228) sats        0
+2017-06-07 09:30:41,177 INFO logFix(229) epx         nan
+2017-06-07 09:30:41,180 INFO logFix(230) epy         nan
+2017-06-07 09:30:41,182 INFO logFix(231) eps         nan
+2017-06-07 09:30:41,185 INFO logFix(232)             
+2017-06-07 09:31:02,320 INFO logFix(223) GPS FIX
+2017-06-07 09:31:02,322 INFO logFix(224) status      0
+2017-06-07 09:31:02,324 INFO logFix(225) latitude    0.0
+2017-06-07 09:31:02,327 INFO logFix(226) longitude   0.0
+2017-06-07 09:31:02,329 INFO logFix(227) speed       nan
+2017-06-07 09:31:02,331 INFO logFix(228) sats        0
+2017-06-07 09:31:02,334 INFO logFix(229) epx         nan
+2017-06-07 09:31:02,336 INFO logFix(230) epy         nan
+2017-06-07 09:31:02,338 INFO logFix(231) eps         nan
+2017-06-07 09:31:02,341 INFO logFix(232)             
+2017-06-07 09:31:23,381 INFO logFix(223) GPS FIX
+2017-06-07 09:31:23,384 INFO logFix(224) status      0
+2017-06-07 09:31:23,386 INFO logFix(225) latitude    0.0
+2017-06-07 09:31:23,392 INFO logFix(226) longitude   0.0
+2017-06-07 09:31:23,394 INFO logFix(227) speed       nan
+2017-06-07 09:31:23,397 INFO logFix(228) sats        0
+2017-06-07 09:31:23,399 INFO logFix(229) epx         nan
+2017-06-07 09:31:23,401 INFO logFix(230) epy         nan
+2017-06-07 09:31:23,403 INFO logFix(231) eps         nan
+2017-06-07 09:31:23,405 INFO logFix(232)             
+2017-06-07 09:31:44,840 INFO logFix(223) GPS FIX
+2017-06-07 09:31:44,843 INFO logFix(224) status      0
+2017-06-07 09:31:44,846 INFO logFix(225) latitude    0.0
+2017-06-07 09:31:44,849 INFO logFix(226) longitude   0.0
+2017-06-07 09:31:44,851 INFO logFix(227) speed       nan
+2017-06-07 09:31:44,854 INFO logFix(228) sats        0
+2017-06-07 09:31:44,856 INFO logFix(229) epx         nan
+2017-06-07 09:31:44,859 INFO logFix(230) epy         nan
+2017-06-07 09:31:44,862 INFO logFix(231) eps         nan
+2017-06-07 09:31:44,864 INFO logFix(232)             
+2017-06-07 09:32:05,917 INFO logFix(223) GPS FIX
+2017-06-07 09:32:05,920 INFO logFix(224) status      0
+2017-06-07 09:32:05,922 INFO logFix(225) latitude    0.0
+2017-06-07 09:32:05,925 INFO logFix(226) longitude   0.0
+2017-06-07 09:32:05,928 INFO logFix(227) speed       nan
+2017-06-07 09:32:05,930 INFO logFix(228) sats        0
+2017-06-07 09:32:05,933 INFO logFix(229) epx         nan
+2017-06-07 09:32:05,936 INFO logFix(230) epy         nan
+2017-06-07 09:32:05,938 INFO logFix(231) eps         nan
+2017-06-07 09:32:05,941 INFO logFix(232)             
+2017-06-07 09:32:26,988 INFO logFix(223) GPS FIX
+2017-06-07 09:32:26,990 INFO logFix(224) status      0
+2017-06-07 09:32:26,993 INFO logFix(225) latitude    0.0
+2017-06-07 09:32:26,995 INFO logFix(226) longitude   0.0
+2017-06-07 09:32:26,997 INFO logFix(227) speed       nan
+2017-06-07 09:32:26,999 INFO logFix(228) sats        0
+2017-06-07 09:32:27,001 INFO logFix(229) epx         nan
+2017-06-07 09:32:27,004 INFO logFix(230) epy         nan
+2017-06-07 09:32:27,006 INFO logFix(231) eps         nan
+2017-06-07 09:32:27,009 INFO logFix(232)             
+2017-06-07 09:32:48,040 INFO logFix(223) GPS FIX
+2017-06-07 09:32:48,042 INFO logFix(224) status      0
+2017-06-07 09:32:48,045 INFO logFix(225) latitude    0.0
+2017-06-07 09:32:48,058 INFO logFix(226) longitude   0.0
+2017-06-07 09:32:48,061 INFO logFix(227) speed       nan
+2017-06-07 09:32:48,063 INFO logFix(228) sats        0
+2017-06-07 09:32:48,065 INFO logFix(229) epx         nan
+2017-06-07 09:32:48,072 INFO logFix(230) epy         nan
+2017-06-07 09:32:48,074 INFO logFix(231) eps         nan
+2017-06-07 09:32:48,076 INFO logFix(232)             
+2017-06-07 09:33:09,436 INFO logFix(223) GPS FIX
+2017-06-07 09:33:09,439 INFO logFix(224) status      0
+2017-06-07 09:33:09,442 INFO logFix(225) latitude    0.0
+2017-06-07 09:33:09,444 INFO logFix(226) longitude   0.0
+2017-06-07 09:33:09,447 INFO logFix(227) speed       nan
+2017-06-07 09:33:09,450 INFO logFix(228) sats        0
+2017-06-07 09:33:09,452 INFO logFix(229) epx         nan
+2017-06-07 09:33:09,456 INFO logFix(230) epy         nan
+2017-06-07 09:33:09,459 INFO logFix(231) eps         nan
+2017-06-07 09:33:09,462 INFO logFix(232)             
+2017-06-07 09:33:30,528 INFO logFix(223) GPS FIX
+2017-06-07 09:33:30,531 INFO logFix(224) status      0
+2017-06-07 09:33:30,533 INFO logFix(225) latitude    0.0
+2017-06-07 09:33:30,536 INFO logFix(226) longitude   0.0
+2017-06-07 09:33:30,539 INFO logFix(227) speed       nan
+2017-06-07 09:33:30,541 INFO logFix(228) sats        0
+2017-06-07 09:33:30,544 INFO logFix(229) epx         nan
+2017-06-07 09:33:30,546 INFO logFix(230) epy         nan
+2017-06-07 09:33:30,550 INFO logFix(231) eps         nan
+2017-06-07 09:33:30,552 INFO logFix(232)             
+2017-06-07 09:33:51,615 INFO logFix(223) GPS FIX
+2017-06-07 09:33:51,618 INFO logFix(224) status      0
+2017-06-07 09:33:51,620 INFO logFix(225) latitude    0.0
+2017-06-07 09:33:51,622 INFO logFix(226) longitude   0.0
+2017-06-07 09:33:51,624 INFO logFix(227) speed       nan
+2017-06-07 09:33:51,627 INFO logFix(228) sats        0
+2017-06-07 09:33:51,629 INFO logFix(229) epx         nan
+2017-06-07 09:33:51,631 INFO logFix(230) epy         nan
+2017-06-07 09:33:51,634 INFO logFix(231) eps         nan
+2017-06-07 09:33:51,636 INFO logFix(232)             
+2017-06-07 09:34:12,706 INFO logFix(223) GPS FIX
+2017-06-07 09:34:12,709 INFO logFix(224) status      0
+2017-06-07 09:34:12,711 INFO logFix(225) latitude    0.0
+2017-06-07 09:34:12,713 INFO logFix(226) longitude   0.0
+2017-06-07 09:34:12,715 INFO logFix(227) speed       nan
+2017-06-07 09:34:12,728 INFO logFix(228) sats        0
+2017-06-07 09:34:12,730 INFO logFix(229) epx         nan
+2017-06-07 09:34:12,732 INFO logFix(230) epy         nan
+2017-06-07 09:34:12,740 INFO logFix(231) eps         nan
+2017-06-07 09:34:12,742 INFO logFix(232)             
+2017-06-07 09:34:33,872 INFO logFix(223) GPS FIX
+2017-06-07 09:34:33,875 INFO logFix(224) status      0
+2017-06-07 09:34:33,878 INFO logFix(225) latitude    0.0
+2017-06-07 09:34:33,880 INFO logFix(226) longitude   0.0
+2017-06-07 09:34:33,882 INFO logFix(227) speed       nan
+2017-06-07 09:34:33,885 INFO logFix(228) sats        0
+2017-06-07 09:34:33,888 INFO logFix(229) epx         nan
+2017-06-07 09:34:33,891 INFO logFix(230) epy         nan
+2017-06-07 09:34:33,893 INFO logFix(231) eps         nan
+2017-06-07 09:34:33,896 INFO logFix(232)             
+2017-06-07 09:34:54,969 INFO logFix(223) GPS FIX
+2017-06-07 09:34:54,972 INFO logFix(224) status      0
+2017-06-07 09:34:54,974 INFO logFix(225) latitude    0.0
+2017-06-07 09:34:54,976 INFO logFix(226) longitude   0.0
+2017-06-07 09:34:54,980 INFO logFix(227) speed       nan
+2017-06-07 09:34:54,982 INFO logFix(228) sats        0
+2017-06-07 09:34:54,985 INFO logFix(229) epx         nan
+2017-06-07 09:34:54,987 INFO logFix(230) epy         nan
+2017-06-07 09:34:54,990 INFO logFix(231) eps         nan
+2017-06-07 09:34:54,992 INFO logFix(232)             
+2017-06-07 09:35:16,041 INFO logFix(223) GPS FIX
+2017-06-07 09:35:16,044 INFO logFix(224) status      0
+2017-06-07 09:35:16,047 INFO logFix(225) latitude    0.0
+2017-06-07 09:35:16,050 INFO logFix(226) longitude   0.0
+2017-06-07 09:35:16,052 INFO logFix(227) speed       nan
+2017-06-07 09:35:16,055 INFO logFix(228) sats        0
+2017-06-07 09:35:16,057 INFO logFix(229) epx         nan
+2017-06-07 09:35:16,061 INFO logFix(230) epy         nan
+2017-06-07 09:35:16,063 INFO logFix(231) eps         nan
+2017-06-07 09:35:16,066 INFO logFix(232)             
+2017-06-07 09:35:37,121 INFO logFix(223) GPS FIX
+2017-06-07 09:35:37,124 INFO logFix(224) status      0
+2017-06-07 09:35:37,127 INFO logFix(225) latitude    0.0
+2017-06-07 09:35:37,130 INFO logFix(226) longitude   0.0
+2017-06-07 09:35:37,132 INFO logFix(227) speed       nan
+2017-06-07 09:35:37,135 INFO logFix(228) sats        0
+2017-06-07 09:35:37,137 INFO logFix(229) epx         nan
+2017-06-07 09:35:37,140 INFO logFix(230) epy         nan
+2017-06-07 09:35:37,142 INFO logFix(231) eps         nan
+2017-06-07 09:35:37,145 INFO logFix(232)             
+2017-06-07 09:35:58,185 INFO logFix(223) GPS FIX
+2017-06-07 09:35:58,188 INFO logFix(224) status      0
+2017-06-07 09:35:58,190 INFO logFix(225) latitude    0.0
+2017-06-07 09:35:58,193 INFO logFix(226) longitude   0.0
+2017-06-07 09:35:58,195 INFO logFix(227) speed       nan
+2017-06-07 09:35:58,198 INFO logFix(228) sats        0
+2017-06-07 09:35:58,200 INFO logFix(229) epx         nan
+2017-06-07 09:35:58,203 INFO logFix(230) epy         nan
+2017-06-07 09:35:58,206 INFO logFix(231) eps         nan
+2017-06-07 09:35:58,209 INFO logFix(232)             
+2017-06-07 09:36:19,561 INFO logFix(223) GPS FIX
+2017-06-07 09:36:19,564 INFO logFix(224) status      0
+2017-06-07 09:36:19,567 INFO logFix(225) latitude    0.0
+2017-06-07 09:36:19,570 INFO logFix(226) longitude   0.0
+2017-06-07 09:36:19,572 INFO logFix(227) speed       nan
+2017-06-07 09:36:19,575 INFO logFix(228) sats        0
+2017-06-07 09:36:19,577 INFO logFix(229) epx         nan
+2017-06-07 09:36:19,580 INFO logFix(230) epy         nan
+2017-06-07 09:36:19,583 INFO logFix(231) eps         nan
+2017-06-07 09:36:19,586 INFO logFix(232)             
+2017-06-07 09:36:40,660 INFO logFix(223) GPS FIX
+2017-06-07 09:36:40,663 INFO logFix(224) status      0
+2017-06-07 09:36:40,665 INFO logFix(225) latitude    0.0
+2017-06-07 09:36:40,668 INFO logFix(226) longitude   0.0
+2017-06-07 09:36:40,671 INFO logFix(227) speed       nan
+2017-06-07 09:36:40,673 INFO logFix(228) sats        0
+2017-06-07 09:36:40,676 INFO logFix(229) epx         nan
+2017-06-07 09:36:40,679 INFO logFix(230) epy         nan
+2017-06-07 09:36:40,681 INFO logFix(231) eps         nan
+2017-06-07 09:36:40,684 INFO logFix(232)             
+2017-06-07 09:37:01,766 INFO logFix(223) GPS FIX
+2017-06-07 09:37:01,769 INFO logFix(224) status      0
+2017-06-07 09:37:01,771 INFO logFix(225) latitude    0.0
+2017-06-07 09:37:01,773 INFO logFix(226) longitude   0.0
+2017-06-07 09:37:01,775 INFO logFix(227) speed       nan
+2017-06-07 09:37:01,778 INFO logFix(228) sats        0
+2017-06-07 09:37:01,780 INFO logFix(229) epx         nan
+2017-06-07 09:37:01,782 INFO logFix(230) epy         nan
+2017-06-07 09:37:01,784 INFO logFix(231) eps         nan
+2017-06-07 09:37:01,787 INFO logFix(232)             
+2017-06-07 09:37:22,813 INFO logFix(223) GPS FIX
+2017-06-07 09:37:22,815 INFO logFix(224) status      0
+2017-06-07 09:37:22,828 INFO logFix(225) latitude    0.0
+2017-06-07 09:37:22,830 INFO logFix(226) longitude   0.0
+2017-06-07 09:37:22,832 INFO logFix(227) speed       nan
+2017-06-07 09:37:22,835 INFO logFix(228) sats        0
+2017-06-07 09:37:22,838 INFO logFix(229) epx         nan
+2017-06-07 09:37:22,841 INFO logFix(230) epy         nan
+2017-06-07 09:37:22,843 INFO logFix(231) eps         nan
+2017-06-07 09:37:22,845 INFO logFix(232)             
+2017-06-07 09:37:44,286 INFO logFix(223) GPS FIX
+2017-06-07 09:37:44,289 INFO logFix(224) status      0
+2017-06-07 09:37:44,291 INFO logFix(225) latitude    0.0
+2017-06-07 09:37:44,294 INFO logFix(226) longitude   0.0
+2017-06-07 09:37:44,296 INFO logFix(227) speed       nan
+2017-06-07 09:37:44,299 INFO logFix(228) sats        0
+2017-06-07 09:37:44,302 INFO logFix(229) epx         nan
+2017-06-07 09:37:44,305 INFO logFix(230) epy         nan
+2017-06-07 09:37:44,307 INFO logFix(231) eps         nan
+2017-06-07 09:37:44,310 INFO logFix(232)             
+2017-06-07 09:38:05,512 INFO logFix(223) GPS FIX
+2017-06-07 09:38:05,515 INFO logFix(224) status      0
+2017-06-07 09:38:05,518 INFO logFix(225) latitude    0.0
+2017-06-07 09:38:05,521 INFO logFix(226) longitude   0.0
+2017-06-07 09:38:05,523 INFO logFix(227) speed       nan
+2017-06-07 09:38:05,526 INFO logFix(228) sats        0
+2017-06-07 09:38:05,528 INFO logFix(229) epx         nan
+2017-06-07 09:38:05,531 INFO logFix(230) epy         nan
+2017-06-07 09:38:05,534 INFO logFix(231) eps         nan
+2017-06-07 09:38:05,536 INFO logFix(232)             
+2017-06-07 09:38:26,593 INFO logFix(223) GPS FIX
+2017-06-07 09:38:26,596 INFO logFix(224) status      0
+2017-06-07 09:38:26,598 INFO logFix(225) latitude    0.0
+2017-06-07 09:38:26,600 INFO logFix(226) longitude   0.0
+2017-06-07 09:38:26,603 INFO logFix(227) speed       nan
+2017-06-07 09:38:26,605 INFO logFix(228) sats        0
+2017-06-07 09:38:26,607 INFO logFix(229) epx         nan
+2017-06-07 09:38:26,615 INFO logFix(230) epy         nan
+2017-06-07 09:38:26,617 INFO logFix(231) eps         nan
+2017-06-07 09:38:26,620 INFO logFix(232)             
+2017-06-07 09:38:47,676 INFO logFix(223) GPS FIX
+2017-06-07 09:38:47,679 INFO logFix(224) status      0
+2017-06-07 09:38:47,681 INFO logFix(225) latitude    0.0
+2017-06-07 09:38:47,683 INFO logFix(226) longitude   0.0
+2017-06-07 09:38:47,685 INFO logFix(227) speed       nan
+2017-06-07 09:38:47,696 INFO logFix(228) sats        0
+2017-06-07 09:38:47,698 INFO logFix(229) epx         nan
+2017-06-07 09:38:47,700 INFO logFix(230) epy         nan
+2017-06-07 09:38:47,703 INFO logFix(231) eps         nan
+2017-06-07 09:38:47,705 INFO logFix(232)             
+2017-06-07 09:39:08,873 INFO logFix(223) GPS FIX
+2017-06-07 09:39:08,876 INFO logFix(224) status      0
+2017-06-07 09:39:08,879 INFO logFix(225) latitude    0.0
+2017-06-07 09:39:08,881 INFO logFix(226) longitude   0.0
+2017-06-07 09:39:08,884 INFO logFix(227) speed       nan
+2017-06-07 09:39:08,887 INFO logFix(228) sats        0
+2017-06-07 09:39:08,890 INFO logFix(229) epx         nan
+2017-06-07 09:39:08,892 INFO logFix(230) epy         nan
+2017-06-07 09:39:08,895 INFO logFix(231) eps         nan
+2017-06-07 09:39:08,897 INFO logFix(232)             
+2017-06-07 09:39:29,965 INFO logFix(223) GPS FIX
+2017-06-07 09:39:29,968 INFO logFix(224) status      0
+2017-06-07 09:39:29,971 INFO logFix(225) latitude    0.0
+2017-06-07 09:39:29,973 INFO logFix(226) longitude   0.0
+2017-06-07 09:39:29,976 INFO logFix(227) speed       nan
+2017-06-07 09:39:29,979 INFO logFix(228) sats        0
+2017-06-07 09:39:29,981 INFO logFix(229) epx         nan
+2017-06-07 09:39:29,984 INFO logFix(230) epy         nan
+2017-06-07 09:39:29,986 INFO logFix(231) eps         nan
+2017-06-07 09:39:29,989 INFO logFix(232)             
+2017-06-07 09:39:51,046 INFO logFix(223) GPS FIX
+2017-06-07 09:39:51,049 INFO logFix(224) status      0
+2017-06-07 09:39:51,051 INFO logFix(225) latitude    0.0
+2017-06-07 09:39:51,054 INFO logFix(226) longitude   0.0
+2017-06-07 09:39:51,056 INFO logFix(227) speed       nan
+2017-06-07 09:39:51,059 INFO logFix(228) sats        0
+2017-06-07 09:39:51,062 INFO logFix(229) epx         nan
+2017-06-07 09:39:51,065 INFO logFix(230) epy         nan
+2017-06-07 09:39:51,067 INFO logFix(231) eps         nan
+2017-06-07 09:39:51,070 INFO logFix(232)             
+2017-06-07 09:40:12,151 INFO logFix(223) GPS FIX
+2017-06-07 09:40:12,153 INFO logFix(224) status      0
+2017-06-07 09:40:12,156 INFO logFix(225) latitude    0.0
+2017-06-07 09:40:12,158 INFO logFix(226) longitude   0.0
+2017-06-07 09:40:12,160 INFO logFix(227) speed       nan
+2017-06-07 09:40:12,163 INFO logFix(228) sats        0
+2017-06-07 09:40:12,165 INFO logFix(229) epx         nan
+2017-06-07 09:40:12,167 INFO logFix(230) epy         nan
+2017-06-07 09:40:12,170 INFO logFix(231) eps         nan
+2017-06-07 09:40:12,172 INFO logFix(232)             
+2017-06-07 09:40:33,208 INFO logFix(223) GPS FIX
+2017-06-07 09:40:33,211 INFO logFix(224) status      0
+2017-06-07 09:40:33,213 INFO logFix(225) latitude    0.0
+2017-06-07 09:40:33,216 INFO logFix(226) longitude   0.0
+2017-06-07 09:40:33,219 INFO logFix(227) speed       nan
+2017-06-07 09:40:33,222 INFO logFix(228) sats        0
+2017-06-07 09:40:33,224 INFO logFix(229) epx         nan
+2017-06-07 09:40:33,227 INFO logFix(230) epy         nan
+2017-06-07 09:40:33,230 INFO logFix(231) eps         nan
+2017-06-07 09:40:33,232 INFO logFix(232)             
+2017-06-07 09:40:54,515 INFO logFix(223) GPS FIX
+2017-06-07 09:40:54,519 INFO logFix(224) status      0
+2017-06-07 09:40:54,521 INFO logFix(225) latitude    0.0
+2017-06-07 09:40:54,523 INFO logFix(226) longitude   0.0
+2017-06-07 09:40:54,526 INFO logFix(227) speed       nan
+2017-06-07 09:40:54,529 INFO logFix(228) sats        0
+2017-06-07 09:40:54,531 INFO logFix(229) epx         nan
+2017-06-07 09:40:54,534 INFO logFix(230) epy         nan
+2017-06-07 09:40:54,537 INFO logFix(231) eps         nan
+2017-06-07 09:40:54,540 INFO logFix(232)             
+2017-06-07 09:41:15,589 INFO logFix(223) GPS FIX
+2017-06-07 09:41:15,592 INFO logFix(224) status      0
+2017-06-07 09:41:15,595 INFO logFix(225) latitude    0.0
+2017-06-07 09:41:15,598 INFO logFix(226) longitude   0.0
+2017-06-07 09:41:15,600 INFO logFix(227) speed       nan
+2017-06-07 09:41:15,603 INFO logFix(228) sats        0
+2017-06-07 09:41:15,605 INFO logFix(229) epx         nan
+2017-06-07 09:41:15,608 INFO logFix(230) epy         nan
+2017-06-07 09:41:15,611 INFO logFix(231) eps         nan
+2017-06-07 09:41:15,613 INFO logFix(232)             
+2017-06-07 09:17:37,657 INFO <module>(366) Polygon PM RACING set
+2017-06-07 09:17:38,966 INFO <module>(409) Starting 1...
+2017-06-07 09:17:39,940 INFO <module>(415) File age in hours: -0.061405548056
+2017-06-07 09:17:40,544 INFO <module>(421) SESSION (07/06/17 09:17)
+2017-06-07 09:17:47,078 INFO <module>(448) Starting threads
+2017-06-07 09:17:47,123 INFO <module>(455) Threads are running
+2017-06-07 09:18:07,542 INFO logFix(223) GPS FIX
+2017-06-07 09:18:07,544 INFO logFix(224) status      0
+2017-06-07 09:18:07,546 INFO logFix(225) latitude    0.0
+2017-06-07 09:18:07,548 INFO logFix(226) longitude   0.0
+2017-06-07 09:18:07,550 INFO logFix(227) speed       nan
+2017-06-07 09:18:07,553 INFO logFix(228) sats        0
+2017-06-07 09:18:07,555 INFO logFix(229) epx         nan
+2017-06-07 09:18:07,557 INFO logFix(230) epy         nan
+2017-06-07 09:18:07,560 INFO logFix(231) eps         nan
+2017-06-07 09:18:07,562 INFO logFix(232)             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           2017-06-07 09:17:39,366 INFO <module>(366) Polygon PM RACING set
+2017-06-07 09:17:41,567 INFO <module>(409) Starting 1...
+2017-06-07 09:17:41,676 INFO <module>(415) File age in hours: -0.00147893746694
+2017-06-07 09:17:41,688 INFO <module>(421) SESSION (07/06/17 09:17)
+2017-06-07 09:17:47,198 INFO <module>(448) Starting threads
+2017-06-07 09:17:47,266 INFO <module>(455) Threads are running
+2017-06-07 09:18:07,708 INFO logFix(223) GPS FIX
+2017-06-07 09:18:07,711 INFO logFix(224) status      0
+2017-06-07 09:18:07,713 INFO logFix(225) latitude    nan
+2017-06-07 09:18:07,716 INFO logFix(226) longitude   nan
+2017-06-07 09:18:07,718 INFO logFix(227) speed       nan
+2017-06-07 09:18:07,721 INFO logFix(228) sats        0
+2017-06-07 09:18:07,724 INFO logFix(229) epx         nan
+2017-06-07 09:18:07,727 INFO logFix(230) epy         nan
+2017-06-07 09:18:07,729 INFO logFix(231) eps         nan
+2017-06-07 09:18:07,732 INFO logFix(232)             
+2017-06-07 09:17:40,192 INFO <module>(366) Polygon PM RACING set
+2017-06-07 09:17:41,460 INFO <module>(409) Starting 1...
+2017-06-07 09:17:41,927 INFO <module>(415) File age in hours: -0.00140928804874
+2017-06-07 09:17:41,929 INFO <module>(421) SESSION (07/06/17 09:17)
+2017-06-07 09:17:48,748 INFO <module>(448) Starting threads
+2017-06-07 09:17:48,803 INFO <module>(455) Threads are running
+2017-06-07 09:18:09,208 INFO logFix(223) GPS FIX
+2017-06-07 09:18:09,211 INFO logFix(224) status      0
+2017-06-07 09:18:09,213 INFO logFix(225) latitude    0.0
+2017-06-07 09:18:09,216 INFO logFix(226) longitude   0.0
+2017-06-07 09:18:09,218 INFO logFix(227) speed       nan
+2017-06-07 09:18:09,221 INFO logFix(228) sats        0
+2017-06-07 09:18:09,224 INFO logFix(229) epx         nan
+2017-06-07 09:18:09,226 INFO logFix(230) epy         nan
+2017-06-07 09:18:09,229 INFO logFix(231) eps         nan
+2017-06-07 09:18:09,231 INFO logFix(232)             
+2017-06-07 09:18:40,217 INFO logFix(223) GPS FIX
+2017-06-07 09:18:40,220 INFO logFix(224) status      0
+2017-06-07 09:18:40,222 INFO logFix(225) latitude    0.0
+2017-06-07 09:18:40,224 INFO logFix(226) longitude   0.0
+2017-06-07 09:18:40,227 INFO logFix(227) speed       nan
+2017-06-07 09:18:40,229 INFO logFix(228) sats        0
+2017-06-07 09:18:40,231 INFO logFix(229) epx         nan
+2017-06-07 09:18:40,234 INFO logFix(230) epy         nan
+2017-06-07 09:18:40,236 INFO logFix(231) eps         nan
+2017-06-07 09:18:40,239 INFO logFix(232)             
+2017-06-07 09:19:11,211 INFO logFix(223) GPS FIX
+2017-06-07 09:19:11,214 INFO logFix(224) status      0
+2017-06-07 09:19:11,217 INFO logFix(225) latitude    0.0
+2017-06-07 09:19:11,219 INFO logFix(226) longitude   0.0
+2017-06-07 09:19:11,222 INFO logFix(227) speed       nan
+2017-06-07 09:19:11,225 INFO logFix(228) sats        0
+2017-06-07 09:19:11,228 INFO logFix(229) epx         nan
+2017-06-07 09:19:11,230 INFO logFix(230) epy         nan
+2017-06-07 09:19:11,233 INFO logFix(231) eps         nan
+2017-06-07 09:19:11,235 INFO logFix(232)             
+2017-06-07 09:19:42,220 INFO logFix(223) GPS FIX
+2017-06-07 09:19:42,223 INFO logFix(224) status      0
+2017-06-07 09:19:42,226 INFO logFix(225) latitude    0.0
+2017-06-07 09:19:42,229 INFO logFix(226) longitude   0.0
+2017-06-07 09:19:42,231 INFO logFix(227) speed       nan
+2017-06-07 09:19:42,234 INFO logFix(228) sats        0
+2017-06-07 09:19:42,237 INFO logFix(229) epx         nan
+2017-06-07 09:19:42,239 INFO logFix(230) epy         nan
+2017-06-07 09:19:42,242 INFO logFix(231) eps         nan
+2017-06-07 09:19:42,245 INFO logFix(232)             
+2017-06-07 09:20:13,222 INFO logFix(223) GPS FIX
+2017-06-07 09:20:13,225 INFO logFix(224) status      0
+2017-06-07 09:20:13,228 INFO logFix(225) latitude    0.0
+2017-06-07 09:20:13,230 INFO logFix(226) longitude   0.0
+2017-06-07 09:20:13,233 INFO logFix(227) speed       nan
+2017-06-07 09:20:13,235 INFO logFix(228) sats        0
+2017-06-07 09:20:13,237 INFO logFix(229) epx         nan
+2017-06-07 09:20:13,240 INFO logFix(230) epy         nan
+2017-06-07 09:20:13,242 INFO logFix(231) eps         nan
+2017-06-07 09:20:13,244 INFO logFix(232)             
+2017-06-07 09:20:44,537 INFO logFix(223) GPS FIX
+2017-06-07 09:20:44,540 INFO logFix(224) status      0
+2017-06-07 09:20:44,542 INFO logFix(225) latitude    0.0
+2017-06-07 09:20:44,545 INFO logFix(226) longitude   0.0
+2017-06-07 09:20:44,548 INFO logFix(227) speed       nan
+2017-06-07 09:20:44,550 INFO logFix(228) sats        0
+2017-06-07 09:20:44,553 INFO logFix(229) epx         nan
+2017-06-07 09:20:44,555 INFO logFix(230) epy         nan
+2017-06-07 09:20:44,558 INFO logFix(231) eps         nan
+2017-06-07 09:20:44,561 INFO logFix(232)             
+2017-06-07 09:21:15,544 INFO logFix(223) GPS FIX
+2017-06-07 09:21:15,547 INFO logFix(224) status      0
+2017-06-07 09:21:15,549 INFO logFix(225) latitude    0.0
+2017-06-07 09:21:15,551 INFO logFix(226) longitude   0.0
+2017-06-07 09:21:15,553 INFO logFix(227) speed       nan
+2017-06-07 09:21:15,556 INFO logFix(228) sats        0
+2017-06-07 09:21:15,558 INFO logFix(229) epx         nan
+2017-06-07 09:21:15,560 INFO logFix(230) epy         nan
+2017-06-07 09:21:15,563 INFO logFix(231) eps         nan
+2017-06-07 09:21:15,565 INFO logFix(232)             
+2017-06-07 09:21:46,528 INFO logFix(223) GPS FIX
+2017-06-07 09:21:46,531 INFO logFix(224) status      0
+2017-06-07 09:21:46,533 INFO logFix(225) latitude    0.0
+2017-06-07 09:21:46,536 INFO logFix(226) longitude   0.0
+2017-06-07 09:21:46,539 INFO logFix(227) speed       nan
+2017-06-07 09:21:46,541 INFO logFix(228) sats        0
+2017-06-07 09:21:46,544 INFO logFix(229) epx         nan
+2017-06-07 09:21:46,546 INFO logFix(230) epy         nan
+2017-06-07 09:21:46,549 INFO logFix(231) eps         nan
+2017-06-07 09:21:46,552 INFO logFix(232)             
+2017-06-07 09:22:17,552 INFO logFix(223) GPS FIX
+2017-06-07 09:22:17,555 INFO logFix(224) status      0
+2017-06-07 09:22:17,558 INFO logFix(225) latitude    0.0
+2017-06-07 09:22:17,560 INFO logFix(226) longitude   0.0
+2017-06-07 09:22:17,563 INFO logFix(227) speed       nan
+2017-06-07 09:22:17,566 INFO logFix(228) sats        0
+2017-06-07 09:22:17,569 INFO logFix(229) epx         nan
+2017-06-07 09:22:17,571 INFO logFix(230) epy         nan
+2017-06-07 09:22:17,574 INFO logFix(231) eps         nan
+2017-06-07 09:22:17,576 INFO logFix(232)             
+2017-06-07 09:22:48,559 INFO logFix(223) GPS FIX
+2017-06-07 09:22:48,562 INFO logFix(224) status      0
+2017-06-07 09:22:48,564 INFO logFix(225) latitude    0.0
+2017-06-07 09:22:48,577 INFO logFix(226) longitude   0.0
+2017-06-07 09:22:48,579 INFO logFix(227) speed       nan
+2017-06-07 09:22:48,581 INFO logFix(228) sats        0
+2017-06-07 09:22:48,584 INFO logFix(229) epx         nan
+2017-06-07 09:22:48,589 INFO logFix(230) epy         nan
+2017-06-07 09:22:48,591 INFO logFix(231) eps         nan
+2017-06-07 09:22:48,593 INFO logFix(232)             
+2017-06-07 09:23:19,916 INFO logFix(223) GPS FIX
+2017-06-07 09:23:19,919 INFO logFix(224) status      0
+2017-06-07 09:23:19,922 INFO logFix(225) latitude    0.0
+2017-06-07 09:23:19,924 INFO logFix(226) longitude   0.0
+2017-06-07 09:23:19,927 INFO logFix(227) speed       nan
+2017-06-07 09:23:19,930 INFO logFix(228) sats        0
+2017-06-07 09:23:19,932 INFO logFix(229) epx         nan
+2017-06-07 09:23:19,935 INFO logFix(230) epy         nan
+2017-06-07 09:23:19,938 INFO logFix(231) eps         nan
+2017-06-07 09:23:19,940 INFO logFix(232)             
+2017-06-07 09:23:50,926 INFO logFix(223) GPS FIX
+2017-06-07 09:23:50,928 INFO logFix(224) status      0
+2017-06-07 09:23:50,930 INFO logFix(225) latitude    0.0
+2017-06-07 09:23:50,933 INFO logFix(226) longitude   0.0
+2017-06-07 09:23:50,935 INFO logFix(227) speed       nan
+2017-06-07 09:23:50,937 INFO logFix(228) sats        0
+2017-06-07 09:23:50,939 INFO logFix(229) epx         nan
+2017-06-07 09:23:50,942 INFO logFix(230) epy         nan
+2017-06-07 09:23:50,944 INFO logFix(231) eps         nan
+2017-06-07 09:23:50,946 INFO logFix(232)             
+2017-06-07 09:24:21,936 INFO logFix(223) GPS FIX
+2017-06-07 09:24:21,939 INFO logFix(224) status      0
+2017-06-07 09:24:21,941 INFO logFix(225) latitude    0.0
+2017-06-07 09:24:21,944 INFO logFix(226) longitude   0.0
+2017-06-07 09:24:21,947 INFO logFix(227) speed       nan
+2017-06-07 09:24:21,949 INFO logFix(228) sats        0
+2017-06-07 09:24:21,952 INFO logFix(229) epx         nan
+2017-06-07 09:24:21,954 INFO logFix(230) epy         nan
+2017-06-07 09:24:21,957 INFO logFix(231) eps         nan
+2017-06-07 09:24:21,960 INFO logFix(232)             
+2017-06-07 09:24:52,969 INFO logFix(223) GPS FIX
+2017-06-07 09:24:52,972 INFO logFix(224) status      0
+2017-06-07 09:24:52,975 INFO logFix(225) latitude    0.0
+2017-06-07 09:24:52,978 INFO logFix(226) longitude   0.0
+2017-06-07 09:24:52,980 INFO logFix(227) speed       nan
+2017-06-07 09:24:52,983 INFO logFix(228) sats        0
+2017-06-07 09:24:52,985 INFO logFix(229) epx         nan
+2017-06-07 09:24:52,988 INFO logFix(230) epy         nan
+2017-06-07 09:24:52,991 INFO logFix(231) eps         nan
+2017-06-07 09:24:52,994 INFO logFix(232)             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           2017-07-24 11:55:40,996 INFO <module>(366) Polygon PM RACING set
+2017-07-24 11:55:43,413 INFO <module>(409) Starting 1...
+2017-07-24 11:55:44,014 INFO <module>(415) File age in hours: 1130.6322261
+2017-07-24 11:55:44,016 INFO <module>(418) Remove file /home/pi/PmRace/test_2.txt
+2017-07-24 11:55:44,537 INFO <module>(421) SESSION (24/07/17 11:55)
+2017-07-24 11:55:50,044 INFO <module>(448) Starting threads
+2017-07-24 11:55:50,098 INFO <module>(455) Threads are running
+2017-07-24 11:56:10,638 INFO logFix(223) GPS FIX
+2017-07-24 11:56:10,645 INFO logFix(224) status      0
+2017-07-24 11:56:10,647 INFO logFix(225) latitude    nan
+2017-07-24 11:56:10,680 INFO logFix(226) longitude   nan
+2017-07-24 11:56:10,692 INFO logFix(227) speed       nan
+2017-07-24 11:56:10,694 INFO logFix(228) sats        9
+2017-07-24 11:56:10,711 INFO logFix(229) epx         nan
+2017-07-24 11:56:10,714 INFO logFix(230) epy         nan
+2017-07-24 11:56:10,717 INFO logFix(231) eps         nan
+2017-07-24 11:56:10,729 INFO logFix(232)             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            2017-07-24 11:57:53,975 INFO <module>(385) Polygon SARACENI set
+2017-07-24 11:57:55,166 INFO <module>(412) Starting 1...
+2017-07-24 11:57:55,274 INFO <module>(418) File age in hours: 0.0347982822524
+2017-07-24 11:57:55,276 INFO <module>(424) SESSION (24/07/17 11:57)
+2017-07-24 11:58:08,052 INFO <module>(451) Starting threads
+2017-07-24 11:58:08,068 INFO <module>(458) Threads are running
+2017-07-24 11:58:29,603 INFO logFix(223) GPS FIX
+2017-07-24 11:58:29,606 INFO logFix(224) status      0
+2017-07-24 11:58:29,609 INFO logFix(225) latitude    nan
+2017-07-24 11:58:29,618 INFO logFix(226) longitude   nan
+2017-07-24 11:58:29,621 INFO logFix(227) speed       nan
+2017-07-24 11:58:29,623 INFO logFix(228) sats        0
+2017-07-24 11:58:29,626 INFO logFix(229) epx         nan
+2017-07-24 11:58:29,629 INFO logFix(230) epy         nan
+2017-07-24 11:58:29,642 INFO logFix(231) eps         nan
+2017-07-24 11:58:29,646 INFO logFix(232)             

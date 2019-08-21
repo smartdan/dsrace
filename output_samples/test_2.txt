@@ -1,0 +1,9 @@
+# SESSIONE (27/09/17 14:15) (versione 0.3.6) 
+# test_2 (27/09/17 14:15)
+# GPS STATUS 0
+# SESSIONE (27/09/17 14:17) (versione 0.3.6) 
+# test_2 (27/09/17 14:17)
+# GPS STATUS 0
+# SESSIONE (27/09/17 14:32) (versione 0.3.6) 
+# test_2 (27/09/17 14:32)
+# GPS STATUS 0

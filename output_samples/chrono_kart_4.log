@@ -1,0 +1,16 @@
+2017-03-30 16:34:21,172 INFO <module>(208) Polygon PM RACING set
+2017-03-30 16:34:55,244 INFO <module>(231) Starting 1...
+2017-03-30 16:34:55,251 INFO <module>(237) File age in hours: 0
+2017-03-30 16:34:55,252 INFO <module>(243) SESSION (30/03/17 16:34)
+2017-03-30 16:34:55,253 INFO <module>(251) Call upload_file
+2017-03-30 16:35:01,033 INFO <module>(253) Sent File to FTP
+2017-03-30 16:35:01,034 INFO <module>(258) Starting threads
+2017-03-30 16:35:01,036 INFO <module>(265) Threads are running
+2017-03-30 16:40:46,879 INFO <module>(208) Polygon PM RACING set
+2017-03-30 16:41:30,280 INFO <module>(231) Starting 1...
+2017-03-30 16:41:30,332 INFO <module>(237) File age in hours: 0.109814414713
+2017-03-30 16:41:30,333 INFO <module>(243) SESSION (30/03/17 16:41)
+2017-03-30 16:41:30,337 INFO <module>(251) Call upload_file
+2017-03-30 16:41:35,884 INFO <module>(253) Sent File to FTP
+2017-03-30 16:41:35,885 INFO <module>(258) Starting threads
+2017-03-30 16:41:35,888 INFO <module>(265) Threads are running

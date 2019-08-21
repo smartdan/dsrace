@@ -1,0 +1,8 @@
+2017-03-23 09:58:41,919 INFO <module>(206) Polygon PM RACING set
+2017-03-23 09:58:56,995 INFO <module>(229) Starting 1...
+2017-03-23 09:58:57,020 INFO <module>(235) File age in hours: 0
+2017-03-23 09:58:57,023 INFO <module>(241) SESSION (23/03/17 09:58)
+2017-03-23 09:58:57,027 INFO <module>(249) Call upload_file
+2017-03-23 09:58:58,118 INFO <module>(251) Sent File to FTP
+2017-03-23 09:58:58,120 INFO <module>(256) Starting threads
+2017-03-23 09:58:58,126 INFO <module>(263) Threads are running
